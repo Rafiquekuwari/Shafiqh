@@ -1,5 +1,5 @@
 // Embed QA pairs directly
-const qaData = [
+const qaData =[
     {
         "category":"Aqaaide Ahle Sunnat wa Jama’at",
         "Introduction":"",
@@ -1318,9 +1318,1105 @@ const qaData = [
 
         ]
 
+    },
+    {
+        "category":"Janaaze ka bayaan",
+        "Introduction":"Marz bhi ek bahut badi ni’amat hai Hazrate jaabir raziyAllahu anhu se riwaayat hai ke rasool ﷺ ummu saaib ke paas tashreef le gaye farmaaya tujhe kya hua hai jo kaanp rahi hai arz ki bukhaar hai khuda us main barkat na kare farmaaya bukhaar ko bura na kaho ke wo aadmi ki khataaon ko is tarah dur karta hai jaise bhatti lohe ke mail ko (muslim shareef) bas sabar karna chahiye,Hazrate anas raziyAllahu anhu se riwaayat hai huzoor ﷺ farmate hai ke Allah azzawajalla famaata hai jab apne bandey ki aankhen le lun phir wo sabar kare to aankhon ke badle use jannat dunga(bukhaari shareef) Insaan har waqt mout ko yaad kare, ye sunnat hai, mout ko yad karte rahne se Allah ka khouf paida hota hai, aur insaan gunaahon se baaz aata hai. Aur khaalis touba kar ke har waqt marne ki tayyaari main rahta hai. Hazrate abu huraira raziyAllahu anhu se riwaayat hai ke hamare aaqa do aalam ke maalik wa mukhtaar ﷺ ne farmaaya ke lazzaton ko tod dene waali mout ko kasrat se yaad kiya karo. Har insaan par farz hai ke jab bhi us se gunaah sar zad ho jaaye to fauran touba kare mareez ka har waqt touba kar ke mout ki tayyari main rahna sunnate muakkadah hai.",
+        "sub_categories":[
+            {
+                "sub_category":"Iya maanind  e mareez",
+                "introduction":"Beemaar ki ziyaarat karna sunnat hai jab ke beemaar faasiq na aur bad mazhab na ho pas faasiq aur badmazhab ki ziyaarat karna makrooh hai. Anas raziyAllahu anhu se riwaayat hai ke huzoor ﷺ ne farmaaya ke jo achchi tarah wuzu kare bagarz e sawaab apne musalmaan bhai ki eya maanind  ko jaaye, jahannam se 60 baras ki raah dur kardiya gaya(abu dawud ) abdullahibnu abbas raziyAllahu anhuma se riwaayat hai ke sayyiduna Muhammad ﷺ ne farmaaya jab koi musalmaan kisi musalmaan ki eya maanind  ko jaaye to 7baar ye dua padhe” أَسْأَلُ اللّٰہَ الْعَظِیْمَ رَبَّ الْعَرْشِ الْکَرِیْمِ أَنْ یَشْفِیَکَ” agar mout nahi aayi hai to use shifa hojaayegi(abu dawud, turmuzi shareef) ziyaarat karne waale ka mareez ke paas bila zaroorat ziyaada der theherna ma krooh hai. Aur mareez ko khaane aur dawa pene ky liye zabardasti karna makrooh hai.",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Sakaratul mout",
+                "introduction":"Jab kisi shakhs par mout ka asar zahir ho to us ko daen karwat pe lita do is tarah ke badan ke saamne ka hissa qibla rukh ho , phir us ke paas baith kar kalima shareef ki talqeen is tarah Karein ke koi us ke paas buland aawaaz se ek martaba kahe ke” لَاإِلٰہَ إِلَّا اللہُ” phir khaamosh ho jaaye agar wo kalima nahi padhe to thodi der baad dubaara ek martaba talqeen kare lekin us ko padhne ka hukm na dein, jab wo ek dafa padh le to talqeen karne waala chup ho jaaye, ye koshish na kare ke kalima baraabar jaari rahe aur padhte padhte dam nikal jaaye, balke us ke muh se jo aakhiri bat nikle wo kalima hona chahiye, haan agar kalima padh lene ke baad phir koi dunyawi baat kare to dubaara kalima ki talqeen kare, jab wo padh le to chup ho jaaye aur us ke qareeb baith kar jahran surah e yaseen ki tilaawat kare, lekin wo past aawaaz se kare aur us ko ghunt ghunt kar ke paani pilaaye aur qareebul marg shakhs ke paas junbi aur haiza ka rahna makrooh hai. Jab mout waqi ho jaaye to koi ek mayyit ki aankhein “بِسْمِ اللہِ وَ عَلٰی مِلَّۃِ رَسُوْلِ اللہِ ﷺ”padhte huye narmi se band kar de aur kapde ki ek choudi patti le kar mayyit ki thodi ke niche se nikal kar sar par laakr grah lagaa de phir haath paaon seedhey kare aur jodon ko naram dheela kare, badan ke kapde utaar kar mayyit ko patle kapde se chupaaye aur pet par chhoti wazni cheez rakhe aur mayyit ka rukh qibla ki taraf kar de jald az jald dafnaane ki koshish karna sunnat hai. masala:agar koi shakhs paani ke jahaaz ya kashti wagaira main fout ho jaaye aur khushki wahan se is qadr dur ho ke na’ash ke kharaab ho jaane ka andesha ho to us waqt chaahiye ke ghusl kafan aur namaaze janaazah se faarigh ho kar kafan ko us par achchi tarah bandh kar darya main daal dein aur us ke saath koi wazni patthar ya lohe wagairah bhi baandh dein take neeche baith jaaye.",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Mout par noha wa maatam karna",
+                "introduction":"Hazrate Abdulla bin umar رضی اللہ تعالیٰ عنہما se riwaayat hai ke kaha ek daf’a sa’ad bin ubaada رضی اللہ تعالیٰ عنہ mareez huye to rasool ﷺ apne chand sahaaba رضی اللہ تعالیٰ عنہم ke saath un ki iya maanind  keliye aaye, aap ﷺ jab andar tashrif laye to un ko badi sakht haalat main paya, aap ﷺ ne sa’ad bin ubaada ko is haal main dekha ke un ke gird logon ki bheed lagi hue thi, to aap ﷺ ne farmaaya khatam ho chuke? (batour e mayusi ya hazireen se istifsar ke tour par aan ﷺ ne ye bat farmai)to logon ne araz kiya nahi, abhi khatam nahi huye to rasool ﷺ kw un ki ye haalat dikh kar rona aagaya, aur jab logon ne aap ﷺ par giriya ke aasar dekhe to wo bhi rone lage, aap ﷺ ne irshad farmaaya:logo! Achchi tarah sun lo aur samjh lo ke Allah ta’ala aankh ke aansu aur dil ke gam par to saza nahi deta, kyunke us par bandy ka ikhtiyar aur qabu nahi hai.phir zubaan ki taraf isharah kar ke farmaaya lekin is ki galti par yani zubaan se noha wa maatam karne par saza deta hai aur museebat pa “إِنَّا لِلہِ وَإِنَّا إِلَیْہِ رَاجِعُوْنَ”padhne aur dua wa istigfar karne rahmat fermata hai.(saheeh bukhaari sharif muslim sharif)Hazrate ummu salaama رضی اللہ تعالیٰ عنہا  se riwaayat hai ke un ke shohar abu salaama رضی اللہ تعالیٰ عنہ ki wafat ke waqt rasool Allah ﷺ tashreef laye un ki aankhen khuli rah gayi thi, aap ﷺne anhe band kiya aaur farmaaya jab ruh jism se nikal jaati hai to binayi bhi us ke saath chali jaati hai, is liye mout ke baad aankhon ko band hi kar dena chahiye, aap ﷺki ye bat sun kar un ke ghar ke aadmi chilla chilla kar rone lage aur is ranj aur sadmain ki haalat main un ki zubaan se aisi baten niklne lagi jo khud un logon ky haqq main bad dua thi, to aap ﷺ be farmaaya ke logo! Apne haqq main khair aur bhalayi ki dua karo is liye ke tum jo kah rahe ho malaika us par aaameen  kahte hain phir aap ﷺ ne is tarah dua farmayi …………………aye Alla! Abu salaama ki magfirat farma aur apne hidayat yafta bandon main un ka darja buland farma aur us ke bajaaye tu hi nigrani farma un ke pasmandagan ki aur rabbul alaameen  bakhsh de ham ko aur us ko aur us ki qabar ko wasee aur munawwar farma. (saheeh muslim) Mayyit ko bosa dena jaaiz hai aan Hazrat ﷺ ne usman bin mz’un raziyAllahu anhu ka bosa liya, is tarah Hazrate aabu bakar siddeeq raziyAllahu anhu ne nabi ﷺ ki wafat ke baad aap ﷺki peshaani ka bosa liya.",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Ghusl e mayyit ka tareeqah",
+                "introduction":"Mayyit ko nihlane ka haqq sab se pehle to us ke qareeb tareen rishtadaron ko hai, behtar hai ke wo khud nihlaye aur aurat ki mayyit ko qareebi rishtadar aurat nihlaye koi dusra shakhs bhi nihla sakta hai.lekin mard ko mard aur aurat ko aurat ghusl de, jo zaroori masaail se waqif aur deendar ho. Har gair shaheed musalmaan ki mayyit ko kafnaana, dafnana, gusal dena aur us par namaaze janaazah ka padhna farz kifaya hai. Shaheed ki mayyit ko ghusl dilaana aur us par namaaze janaazah padhna haraam hai, jis haalat main shaheed hua ho waise hi khoon ke kapde main dafnaana farz e kifaya hai. haan agar shaheed ke kapde se tamaam badan ko dhanp nahi sakte to us kapde ke saath dusra kapda mila sakte hain.",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "ghusl e mayyit ke arkaan kitne hai?",
+                        "Jawaab": "ghusl e mayyit ka ek hi rukn hai aur wo tamaam badan par paani ka bahana hai."
+                    },
+                    {
+                        "Suwaal": "mayyit ko ghusl dilate waqt niyyat karne ka kya hukm hai?",
+                        "Jawaab": "mayyit ghusl dilate waqt niyyat karna sunnat hai."
+                    },
+                    {
+                        "Suwaal": "mayyit ko ghusl dene ka tareeqah bayaan kijiye.",
+                        "Jawaab": "ghusl dene keliye aisi jagah tayyar karein jis ke upar chat ho aur Chaaron taraf pardah ho aur us jagah loban jaisi khushbudar cheez jalaye take mayyit ke pet se nikalne waali cheez ki badbu se logon ko takleef na pahunche.mayyit ko litaye jaane waali jagah aisi rah eke mayyit ka sr per se uancha ho, take sar par bahaya hua paani pair se bah kar jaaye. Mayyit ke ghusl khaane main teen aadmi ka hona sunnat hai.(ghusl dete waqt gasil (ghusl dene waala)madad karne waly aur mayyit ke waali ke siwa us jagah aur koi no ho) phir ghar ke andar se mayyit ko ghusl dene kyliye le jaaye. Aur mayyit ko uthaate waqt ـ” بِسْمِ اللّٰہ” kahte hue uthaye aur ghusl khaane tak le jaate waqt tasbeeh “سُبْحَانَ اللّٰہِ وَالْحَمْدُ لِلّٰہِ وَلَا إِلٰہَ إِلَّا اللّٰہُ وَاللّٰہُ أَکْبَرُ وَلَا حَوْلَ وَلَاقُوَّۃَ إِلَّا بِاللّٰہِ الْعَلِيِّ الْعَظِیمِ”padhte rahe aur mayyit ko unche takht par litaya jaaye. Phir mayyit ko ghusl dene waale ke guthne se tek lag kar bithayen aur wo seedha haath mayyit ke garden par rakhe aur us ka angutha sar par rakhe take mayyit ka sar na jhuke aur ulte haath se mayyit ke pet ko daba kar masah kare take pet ke fazlat baahar nikal jaaye.phir mayyit ko peeth ke bal lita kar ulte haath se sharm gah ko dhoye. Us waqt haath main kapda lapeta hua ho kyunke shargah ko nange haath se chhuna haraam hai. Phir haath ka kapda nikal kar phenk de aur haath ko achchi tarah dhoye. Phir baayein haath ki chingli par kapda lepet kar naak saaf kare aur shaha maanind   ki ungli se daant  saaf kare. Nakhun main mail jami hue ho to naram tinke ke zariye  saaf kare phir dubaarah haath par dusra kapda lepet kar badan par koi najaasat lagi ho to use saf kare aur donon haathon main kapda lepet kar namaaz sa mukammal wuzu karaye( yani donon haathon ko gatton tak dhoye, kulli karaye aur naak main paani chadhaye) wuzu main niyyat waajib hai kulli karate aur naak main paani chadhate waqt mayyit ke muh ko ek side ghuma de take paani andar na chala jaaye phir ghusl ki niyyat karte hue ghusl dena shuru kare yani ghusl dene waala ye niyyat kare ke is mayyit par namaaze janaazah jaaiz hone keliye ghusl karata hum. Pehle sar ko beri ke patte ya saban wagairah se dhoye phir dadhi aur sar ke baalon main itni narmi se knghi kare ke bal na tute( aur agar bal toot jaaye to use bhi jama kare take kafnaate waqt use kafan main dal sake) mayyit ke daaein side ke saamne ke hisse par garden se le kar per tak saban lagaaye phir baaein side ke saamne ke hisse par saban lagaaye phir baaein karwat pa lita kar daaein side ke pichle hisse par saban lagaaye aur daaein karwat pa lita kar baaein side ke pichle hisse par saban lagaaye phir isi tarah pehle daaein side ke saamne ke hisse ko paani se dhoye phir baaein side ke saamne ke hisse ko phir baaein karwat par lita kar daaein side ke pichle hisse ko aur daaein karwat pa lita kar baaein side ke pichle hisse ko paani se dhoye isi tarah aur 2 martaba marne se 3 martaba saban lagane ki sunnat haasil ho jaati hai phir paani main itni miqdaar main kafoor dale jis se paani main ziyaada taggayyur paida no ho jaaye aur sar se le kar  pawu tak 3 martaba paani bahaye is paani ko fuqaha ne maye qirah kahte hain. Pehli martaba paani bahane se farz adaa ho jaayega dusri aur teesri martaba paani bahana sunnat hai. Phir naram kapde se mayyit ke badan ko narmi se ponche (sunnat hai ke nihlane keliye thanda aur nakeen paani ka istimaal kare, garam paani se nihlane se mayyit jald sad jaane ka khadsha rahta hai) Ghusl aur wuzu karane ke baad yun dua kare: أَشْہَدُ أَن لَّا إِلٰہَ  إِلَّا اللہُ وَحْدَہٗ لَا شَرِیْکَ لَہٗ  وَأَشْہَدُ أَنَّ  مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہُ اَللّٰہُمَّ اجْعَلْنِیْ وَإِیّاہُ(ہَا) مِنَ التَّوَابِیْنَ وَاجْعَلْنِیْ وَإِیّاہُ(ہَا) مِنَ الْمُتَطَہِّرِیْنَ وَاجْعَلْنِیْ وَإِیّاہُ(ہَا)مِنْ عِبَادِکَ الصَّالِحِیْنَ سُبْحَانَکَ اللّٰہُمَّ وَبِحَمْدِکَ أَشْہَدُ أَن لَّا إِلٰہَ  إِلاَّ أَنْتَ أَسْتَغْفِرُکَ وَأَتُوْبُ إِلَیْکَ وَصَلَّی اللہُ عَلَی سَیِّدِنَا مُحَمَّدٍ وَّعَلَی اٰلِہٖ وَصَحْبِہٖ وَسَلَّمَ"
+                    }
+                    
+                ]
+            },
+            {
+                "sub_category":"Kafnaane ka tareeqah",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "ghusl dene ke baad mayyit ko kya kare?",
+                        "Jawaab": "mayyit ghusl de chuke to fauran kafnaye sufed kapde se kafnaana afzal hai sunnat hai ke mayyit par jo qarz hai us ko adaa karne ke baad jo maal bacha ho us se 3 lifafe khareed kar kafnaye jin se pure badan dhank jaaye kam az kam ek lifafe se kafnaana waajib hai is se kam karne ka haqq kisi ko nahi. Mayyit agar shadi shuda aurat ki ho to us ki tajheez wa takfeen ka kharch us ke shohar karega agarcha aurat ne maal choda ho. Mayyit mard ya gair shadi shuda aurat ho to us ki tajheez wa takfeen ka kharch us ke tarike se kiya jaayega aur mayyit ne maal bilkul nahi choda to us ki tajheez wa takfeen ka kharch us shakhs ke zimma hai jis par mayyit ki zindagi main us ka kharch (nafaqa) waajib tha agar mayyit ne maal nahi choda aur aisa bhi koi shakhs zinda nahi jis par us ka nafaqa waajib ho to islami hukumat ka farz hai ke wo tajheez wa takfen ka kharch baitul maal se (sarkari khazaane) se kare. Agar hukumat bhi ye fareeza adaa nahi karti to jin jin gaaon ke musalmaan maaldaar ko us mayyit ki ittila ho un sab par farz e kifaya ke tour par lazim hai ke ye kharch bardasht kare."
+                    },
+                    {
+                        "Suwaal": "kafnaane ka tareeqah bayaan kijiye.",
+                        "Jawaab": "mayyit mard ho to pehle ek chaadar bichaaye aur us par khushbu aur kafoor chhidkein phir us par dusri aur teesri chaadar bichhaa kar har ek chaadar par kafoor chhidkein us ke baad mayyit ko us par litaa dein aur har ek chaadar ko pehle mayyit ke baaein taraf se phir daaein taraf se lapetein aur sar ke upar aur pairon ke niche ek ek band(ganth) baandein aur isi tarah kamar ke paas ek baandh (ganth) bandhein aurat ki mayyit ho to use pehle tahband aur qamees pehnayein phir sar ke baalon ko 3 hisse kar ke odhni udhaye us ke baad 2 chaadarein lepet lein aur baandhein khawateen ki mayyit main seene par bhi ek chouda band bandha jaaye jise seena band kaha jaata hai aur ye mukammal kafnaane  ke baad bandha jaayega. Mard aur aurat ko kafnaane se pehle ek kapde main kafoor waala kapaas bichaa kar us kapde se langut bandhein sunnat hai tamaam suraakhon main kafas rakhein isi tarah tamaam sajde ke aaza main kapaas rakhen."
+                    },
+                    {
+                        "Suwaal": "khawateen ko kitne kapdon se kafnaaya jaayega?",
+                        "Jawaab": "khawateen ko 5 kapdon se kafnaaya jaayega aur woh ek izaar ek qamees ek dupatta, 2 lifaafey hain."
+                    },
+                    {
+                        "Suwaal": "mard ko kitne kapdon se kafnaaya jaayega?",
+                        "Jawaab": "mard ko sirf 3 kapdon se kafnaaya jaayega aur wo 3 lifaafey hain."
+                    },
+                    {
+                        "Suwaal": "mard ko kafnaane main qamees aur emaama pehnaaya jaata hai kya ye jaaiz hai?",
+                        "Jawaab": "agar kisi aaqil wa baaligh ke maal se, us ki ijaazat ke saath emaama aur qamees ka izaafa karna chahe to emaama aur qamees ka izaafa kiya jaa sakta hai, is liye ke Hazrate ibn umar raziyallahu anhuma ne apne bête ko kafnaate waqt 3 lifaafon ke saath qamees aur emaama bhi pehnaaya hai (baihaqqi) aur jab munaafiq abdullahibn ubayy mara to bete ne, sayyiduna Muhammad ﷺ ke paas aakar arz kiya ke ai rasoolallah sallallahu alaika wa sallam! Aap ka qamees ata farmaayiye taake us se mere waalid ko kafnaa sakun, us waqt huzoor ﷺne apna qamees ata farmaaya(bukhaari, muslim) yani aap ﷺne kafan main qamees pehnaane se mana nahi farmaaya. In baton se maaloom hua ke kafan main qamees aur emaama pehnana jaaiz hai bashart ye ke kisi baaligh ke maal se us ki ijaazat se kafnaaya jaraha ho. Mard ho ya aurat use paanch se ziyaada kapdon se kafnaana makrooh hai baaz ulama ne najaaiz wa haraam kaha hai. Isi tarah baaligh ke maal se us ki ijaazat ke bigair ya naabaaligh ke maal se agarcha us ki ijaazat ho 3 se ziyaada kapdon se kafnaana najaaiz wa haraam hai albatta ek langot aur aurat ki mayyit keliye seena band ka shumaar in kapdon mein nahi hota is liye langut aur seena band ka izafa kiya jasakta hai. (mas’ala)kafnaane keliye waqf kiye hue maal se kafnaate waqt ek lifafe se ziyaada kapdon se kafnaana bhi na jaaiz wa haraam hai."
+                    }
+
+                ]
+            },
+            {
+                "sub_category":"Namaaze janaaze ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    
+                        {
+                            "Suwaal": "kafnaane ke baad kya kare ?",
+                            "Jawaab": "kafnaane ke baad mayyit ko masjid le ja kar namaaze janaazah padhein. Note:sunnat hai ke janaazah le jate waqt log Janaaze kea aage aage waqaar w itminaan ke saath zikr e ilahi karte hue chalein no ke Janaaze ke peeche .aaj kal log Janaaze ke peechhe chalte hai ye sunnat ke khilaaf hai."
+                        },
+                        {
+                            "Suwaal": "namaaze Janaaze ke arkaan kitne hain? bayaan kijiye.",
+                            "Jawaab": "namaaze Janaaze ke arkaan 7 hain (1) niyyat karna (2)qiyaam (3)chaar  takbeerein (4)surah e faatihah ka padhna (5)dusri takbeer ke baad huzoor sallahu alahi wal sallam par durood shareef padhna (6)teesri takbeer ke baad mayyit keliye magfirat ki dua karna (7)chouti takbeer ke baad salaam pherna."
+                        },
+                        {
+                            "Suwaal": "namaaze Janaaze ki shartein bataayein.",
+                            "Jawaab": "namaaze Janaaze ki shartein 6 hain : namaazi ka hadas se paak hona, najaasat se paak hona, satar  chupaana, qibla rukh hona, mayyit ka ghusl aur Janaaze ka namaazi ke saamne hona jaisa emaam muqtadi ke saamne jab ke wo ghaaibaana namaaze janaazah na ho."
+                        },
+                        {
+                            "Suwaal": "dafan ki hue mayyit par namaaze janaazah adaa kar sakte hain?",
+                            "Jawaab": "ji haan! Adaa kar sakte hain lekin jis gaaon main mayyit dafan ki gayi hai usi gaaon main namaaze janaazah padhni ho to us mayyit ki qabar ke paas padhna hoga us waqt qabar namaazi ke saamne ho jaisa ke emaam muqtadi ke saamne aur agar wo mayyit dusre gaaon main ho to ghaaibaana namaaz adaa kar sakte hain."
+                        }
+                    
+                ]
+            },
+            {
+                "sub_category":"Namaaze janaaze ka mukammal sunnat tareeqah",
+                "introduction":"",
+                "qa_pairs":[
+                    
+                        {
+                            "Suwaal": "namaaze janaaza ka mukammal sunnat tareeqah bayaan kijiye.",
+                            "Jawaab": "mayyit ko ghusl dilane ke baad kafnaa kar emaam Janaaze ke saamne mard ke sar ke paas aur aurat ki kamar ke paas khada ho, aur muqtadi hazraat emaam ke peche seedhi saff bandhe, safe kam se kam 3 hon, log ziyaada hon aur 3 se ziyaada safein ho rahi hon to unhein taaq adad banaana ki zaroorat nahi takbeere tahreema se pehle namaaze janaaze ki niyyat karein “is mayyit par main chaar  takbeeron ke saath farz kifaya namaaz padhta hoon  muh mera kaba shareef ki taraf Allah ta’ala ke waaste” , muqtadi niyyat main aur itna izaafa kare ke “peeche is emaam ke” ya “ muqtadi ban kar” yun hi emaam emaamat ki niyyat kare, janaazah agar ghaib ho to mayyit ke naam wa gaira se ta’ayyun karein jaise ahmad par main namaaze janaazah padhta hum ya emaam jis mayyit par namaaze janaazah padh raha hai us par main namaaze janaazah padhta hum wagairah. Niyyat karte hue takbeere tahreema ke waqt donon haathon ko kandhon tak uthaayein phir seene aur naaf ke darmiyaan bandh lein phir taauz yani aauzubilla shareef padhein phir bismillah shareef aur surahe faatihah padhein phir dubaara Allahuakbar kahta hua donon haathon ko kandhon tak uathaein phir pehle ke misl seene ke neeche haathon ko bandhein aur huzoor sallallahu alaihi wa sallam par durood bhejein phir Allahuakbar kahta hua donon haathon ko kandhon tak utha kar pehle ke misl seene ke neeche baandhne ke baad mayyit ke haqq main ukhravi dua karein phir Allahuakbar kahta hua donon haathon ko kandhon tak utha kar misle sabiq seene ke neeche haathon ko bandhein phir salaam phere . Surah e faatihah kisi bhi takbeer ke baad padhi ja sakti hai albatta behtar hai ke pehli takbeer ke baad surah e faatihah padhein sunnat hai ke surah e faatihah se pehle a’uzu billah shareef padhein aur surah e faatihah ke baad aameen kahein. Namaaze janaazah main dusri takbeer ke baad durood shareef padhna waajib hai, jis main kam az kam “اَللّٰہُمَّ صَلِّ عَلٰی مُحَمَّدٍ” kahein. Aur behtar hai ke duroode ibraaheem padhein jo namaaz main tahyaat  ke baad padha jaata hai. Mustahab hai ke durood se pehle “اَلْحَمْدُلِلہِ رَبِّ الْعَالَمِیْنَ” is tarah Allah ta’ala ki hamd karein, durood ke baad muamineen ke haqq main yun dua karein “اَللّٰہُمَّ اغْفِرْلِلْمُؤْمِنِیْنَ وَالْمُؤْمِنَاتِ”durood ke saath “اَللّٰہُمَّ سَلِّمْ عَلٰی سَیِّدِنَا مُحَمَّدٍ” is tarah huzoor sallallahu alahi wa sallam par salaam padhein. Teesri takbeer ke baad mayyit keliye magfirat ki dua karna waajib hai jis main kam az kam “اَللّٰہُمَّ اغْفِرْ لَہٗ (لَہَا)” kahein aur sunnat hai ke ye dua padhein: اَللّٰہُمَّ اغْفِرْ لَہٗ(لَہَا) وَارْحَمْہُ(ہَا) وَاعْفُ عَنْہُ(ہَا) وَعَافِہٖ(ہَا) وَأَکْرِمْ نُزُلَہٗ(ہَا) وَوَسِّعْ مَدْخَلَہٗ(ہَا) وَاغْسِلْہُ (ہَا)بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّہٖ (ہَا)مِنْ الْخَطَایَا کَمَا یُنَقَّی الثَّوْبُ الْأَبْیَضُ مِنْ الدَّنَسِ وَأَبْدِلْہُ (ہَا) دَارًا خَیْرًا مِّنْ دَارِہٖ (ہَا)وَأَہْلًا خَیْرًا مِّنْ أَہْلِہٖ (ہَا) وَزَوْجًا خَیْرًا مِّنْ زَوْجِہٖ (ہَا)وَأَدْخِلْہُ (ہَا)الْجَنَّۃَ وَأَعِذْہُ (ہَا)مِنْ عَذَابِ الْقَبْرِ وَفِتْنَتِہٖ وَمِنْ عَذَابِ النَّارِ. Note: mayyit khatoon ki ho to mundarija bala aur aane waale duaaon mein qousain (….) main diye huye jumlon ko padhein masalan “اَللّٰہُمَّ اغْفِرْ لَہٗ”ke bajaaye ” اَللّٰہُمَّ اغْفِرْ لَہَا” ” وَارْحَمْہُ” ke bajaaye ”وَارْحَمْہَا”” وَعَافِہٖ”ke bajaaye” وَعَافِہَا”padhein. Teesri takbeer ke baad mazeed ye dua bhi padhein: اَللّٰہُمَّ اغْفِرْ لِحَیِّنَا وَمَیِّتِنَا وَشَاہِدِنَا وَغَائِبِنَا وَصَغِیْرِنَا  وَکَبِیْرِنَا وَذَکَرِنَا وَأُنْثَانَا.اَللّٰہُمَّ مَنْ أَحْیَیْتَہٗ مِنَّا فَأَحْیِہٖ عَلَی الْإِسْلَامِ وَمَنْ تَوَفَّیْتَہٗ مِنَّا فَتَوَفَّہٗ عَلَی الْإِیْمَانِ. اَللّٰہُمَّ لَا تَحْرِمْنَا أَجْرَہٗ (ہَا)وَلَاتُضِلَّنَا بَعْدَہُ (ہَا) Mas’ala:teesri takbeer ke baad is dua ko ”اَللّٰہُمَّ اغْفِرْ لَہٗ” waali dua se pehle padhna sunnat hai. Note:yad rakhen! Ke baaz log teesri takbeer ke baad“اَللّٰہُمَّ اغْفِرْ لِحَیِّنَا وَمَیِّتِنَا” sirf ye dua padhte hain aur “اَللّٰہُمَّ اغْفِرْ لَہُ(لَہَا)” jaisi koi dua nahi padhte jis main mayyit ke haqq main ukhrawi dua ho, is tarah karne se namaaze janaazah nahi hoti kyunke teesri takbeer ke baad mayyit ke haqq main khusoosi aur ukhravi dua karna waajib hai aur “اَللّٰہُمَّ اغْفِرْ لِحَیِّنَا وَ مَیِّتِنَا”main mayyit ke haq main khusoosi dua nahi. Sunnat hai ke teesri takbeer ke baad “اَللّٰہُمَّ اغْفِرْ لِحَیِّنَا” waali dua padhne ke baad “اَللّٰہُمَّ اغْفِرْ لَہُ(لَہَا)”waali dua padhne se pehle padhein: اَللّٰهُمَّ هٰذَا عَبْدُكَ وَابْنُ عَبْدَيْكَ (ہٰذِہٖ أَمَتُكَ وَبِنْتُ عَبْدَيْكَ)  خَرَجَ (خَرَجَتْ) مِنْ رَّوْحِ الدُّنْيَا وَسَعَتِهَا وَمَحْبُوْبُهٗ(ہَا) وَأَحِبَّاؤُهٗ (ہَا) فِيْهَا إِلٰى ظُلْمَةِ الْقَبْرِ وَمَا هُوَ لَاقِيْهِ(ہَا) كَانَ يَشْهَدُ(كَانَتْ تَشْهَدُ ) أَنْ لَّا إِلٰهَ إلَّا أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَ رَسُوْلُكَ وَأَنْتَ أَعْلَمُ بِهِ  اَللّٰهُمَّ إِنَّهٗ نَزَلَ (إِنَّهَا نَزَلَتْ) بِكَ وَأَنْتَ خَيْرُ مَنْزُوْلٍ بِهٖ(ہَا)وَأَصْبَحَ فَقِيْرًا (وَأَصْبَحَتْ فَقِيْرَۃً ) إِلٰى رَحْمَتِكَ وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهٖ(ہَا) وَقَدْ جِئْنَاكَ رَاغِبِيْنَ إِلَيْكَ شُفَعَاءً لَّهُ(لَہَا)،اَللّٰهُمَّ إِنْ كَانَ مُحْسِنًا(إِنْ كَانَتْ مُحْسِنَۃً ) فَزِدْ فِي إِحْسَانِهٖ(ہَا) وَإِنْ كَانَ مُسِيْئًا (وَإِنْ كَانَتْ مُسِيْئَۃً)فَاغْفِرْ لَهٗ (ہَا) وَتَجَاوَزْ عَنْهُ(ہَا) وَلَقِّهٖ(ہَا) بِرَحْمَتِكَ رِضَاكَ’ وَقِهٖ(ہَا) فِتْنَةَ الْقَبْرِ وَعَذَابَهٗ وَأَفْسِحْ لَهٗ(ہَا) فِي قَبْرِهٖ (ہَا)وَجَافِ الْأَرْضَ عَنْ جَنْبَيْهِ (ہَا) وَلَقِّهٖ (ہَا) بِرَحْمَتِكَ الْأَمْنَ مِنْ عَذَابِكَ حَتَّى تَبْعَثَهٗ(ہَا) إِلٰى جَنَّتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ. Is dua ke baad hi “اَللّٰہُمَّ اغْفِرْ لَہٗ وَارْحَمْہُ” waali dua padhi jaayegi. Mayyit naabaaligh ladke ya ladki ki ho to “اَللّٰہُمَّ اغْفِرْ لَہُ” waali dua ke saath ye dua padhna sunnat hai: اَللّٰہُمَّ اجْعَلْہُ(ہَا) فَرَطًا لِّأَبَوَیْہِ(ہَا) وَسَلَفًا وَّذُخْرًا وَّعِظَۃً وَّاعْتِبَارًا وَّشَفِیْعًا(وَشَفِیْعَۃً)وَّثَقِّلْ بِہٖ(بِہَا) مَوَازِیْنَہُمَا وَأَفْرِغِ الصَّبْرَ عَلَی قُلُوْبِہِمَا وَلاَتَفْتِنْہُمَا بَعْدَہٗ(ہَا)وَلاَ تَحْرِمْہُمَا أَجْرَہُ(ہَا). Note:teesri takbeer main naabaaligh bcche par padhi jaane waali namaaze janaazah main bhi “اَللّٰہُمَّ اغْفِرْ لَہُ(لَہَا)” jaisi koi dua padhna zaroori hai jis main mayyit ke haqq main ukhravi dua ho sirf “اَللّٰہُمَّ اجْعَلْہٗ (ہَا) فَرَطًا لِأَبَوَیْہٖ(ھا)” waali dua padhna kaafi nahi. Mas’ala:chouthi takbeer ke baad kuch na padhe to koi haraj nahi albatta sunnat hai “اَللّٰہُمَّ لَاتَحْرِمْنَااَجْرَہُ(ہَا) وَلَاتَفْتِنَّا بَعْدَہُ(ہَا) وَاغْفِرْلَنَا وَلَہُ(ہَا)”padhein."
+                        },
+                        {
+                            "Suwaal": "hanafi imam ke peechhe shafiee muqtadi ki namaaze janaazah ka kya hukm hai?",
+                            "Jawaab": "hanfi emaam ke pechhe shafiee muqtdi ki namaaze janaazah durust hoti hai."
+                        },
+                        {
+                            "Suwaal": "jamaa’at ke saath namaaze janaazah padhte waqt muqtdi ko faatihah padhne ka waqt na mile to kya kare?",
+                            "Jawaab": "muqtadi ko faatihah padhne ka waqt na mile to muqtadi emaam ki iqtida main dusri takbeer kahe yani faatihah na padhe. Note: namaaze janaazah padhte waqt aam namaazon ke maanind sajde ki jagah dekhna sunnat hai."
+                        },
+                        {
+                            "Suwaal": "namaaze janaazah padhane ka haqqdaar kon hai?",
+                            "Jawaab": "namaaze janaazah padhane ka sab se pehla haqqdar mayyit ka waalid phir dada phir par dada kitni hi unchi peedhi ho phir mayyit ka beta phir pota phir par pota aakhir peedhi tak phir mayyit ka shaqeeq bhai phir allaati (baap shareek)bhai phir akhyaafi (ma shareek)bhai phir shaqeeq bhateeja phir allaati bhateeja phir shaqeeq chacha phir allaati chacha phir shaqeeq chacha ka beta phir allaati chacha ka beta is ke baad waris ki tarteeb se baaqi ahle asaba phir bittarteeb zavil arhaam phir shohar."
+                        },
+                        {
+                            "Suwaal": "agar ek hi darje waale kayi wariseen jama ho gaye to kis ko muqaddam kiya jaayega?",
+                            "Jawaab": "agar ek hi darje waale kayi warseen jama ho gaye to un main se ziyaada masala janne waale ko muqaddam kiya jaayega. Agar ilm main bhi baraabar hon to ziyaada umr waale ko muqaddam kiya jaayega."
+                        },
+                        {
+                            "Suwaal":"mayyit ke 2 bhaiyon main se agar ek bad mazhab ho aur dusra sunni saheehul aqeeda ho to un donon main se emaamat karne ka haqq kis ko haasil hoga?",
+                            "Jawaab":"mayyit ke 2bhaiyon main se jo sunni saheehul aqeeda hai use namaaze janaazah ki emaamat karne ka haqq haasil hoga, bad mazhab ko nahi kyunke bad mazhab ke peche namaaz hi nahi hoti, mayyit sunni ho aur rishtaadar tamaam bad mazhab hon to kisi rishtaadar ko ye haqq nahi ke us mayyit par namaaze janaazah padhaayein balke koi sunni saheehul aqeeda namaaze janaazah padhayega, jo rishtadar panjagana namaaz ka paaband na ho ya faasiq ho use bhi namaaze janaazah main emaamat karne ka haqq nahi agarcha mayyit ki wasiyyat ho. "
+                        },
+                        {
+                            "Suwaal": "kya kayi janaaiz par ek hi namaaz padh sakte hain?",
+                            "Jawaab": "ji haan! kayi janaaiz par ek hi namaaz padh sakte hain lekin dua ko jama kar ke padhna chahiye: اَللّٰہُمَّ اغْفِرْلَہُمْ وَارْحَمْہُمْ وَاعْفُ عَنْہُمْ وَعَافِہِمْ وَأَکْرِمْ نُزُلَہُمْ وَوَسِّعْ مَدْخَلَہُمْ وَاغْسِلْہُمْ بِالْمَائِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّہِمْ مِّنَ الْخَطَایَا کَمَا یُنَقَّی الثَّوْبُ الْأَبْیَضُ مِنْ الدَّنَسِ وَأَبْدِلْہُمْ دَارًا خَیْرًا مِّنْ دَارِہِمْ وَأَہْلًا خَیْرًا مِّنْ أَہْلِہِمْ وَزَوْجًا خَیْرًا مِّنْ زَوْجِہِمْ وَأَدْخِلْہُمْ الْجَنَّۃَ وَأَعِذْہُمْ مِنْ عَذَابِ الْقَبْرِ وَفِتْنَتِہٖ وَمِنْ عَذَابِ النَّارِ Namaaze janaazah padhne ki wasiyat:"
+                        }
+                    
+                ]
+            },
+            {
+                "sub_category":"Namaaze janaazah padhne ki wasiyat",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "mayyit ne agar kisi be namaazi ko namaaze janaazah padhaane ki wasiyat ki to wo wasiyat naafiz kijaayegi?",
+                        "Jawaab": "bilkul nahi ! naafiz nahi kijaayegi is liye ke benamaazi ki iaqtida main namaaz padhna makrooh hai balke kisi namaaze janaazah ka emaam be namaazi ho to us ki iqtida main namaaze janaazah nahi padhijaayegi. Isi tarah kisi Wahhabi ya dewbandi ya rafizi ko namaaze janaazah padhne ki wasiyyat ho tab bhi wasiyyat naafiz nahi kijaayegi is liye ke bad mazhabon ki iqtida main bhi namaaz padhna sakht mana hai agarcha namaaze janaazah ho. Note:mayyit ke wo rishtadaar jo namaaze janaaza padhane ka ziyaada haqqdaar ho us ki ijaazat ke bigair wasiyat kardah agarcha wo nek aur sunni ho namaaze janaazah padhne ka haqq nahi rakhta. Albtta wasiyyat nafiz karte hue wasiyat kardah ko ijaazat dena behtar hai. Mas’ala:ye zaroori nahi ke mayyit ka beta wagairah rishtadar hi namaaze janaazah padhaaye. Adab yahi hai ke hazireen main se nek aur ba-amal shakhs ko namaaze janaazah padhane ki ijaazat de di jaaye. Na tamaam (kacche) bachche keahkam:"
+                    }
+                ]
+
+            },
+            {
+                "sub_category":"Na tamaam (kacche) bachche ke ahkaam",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "mayyit agar kacche bachche ki ho to kya kiya jaaye?",
+                        "Jawaab": "agar chaar  mahinon se ziyaada muddat ka hamal gir jaaye to paida hone ke baad hile ya aawaaz kare to ghusl dena, kafnaana, us par namaaze janaazah adaa karna aur dafnaana waajib hai. Aur agar paida hone ke baad na hile na hi aawaaz nikaale lekin wo chaar ya chaar se ziyaada mehnon ki muddat ka hamal hai to namaaze Janaaze ke siwa tamaam baatein waajib hain aur namaaze janaazah waajib nahi. chaar   mehnon se kam muddat ka hamal agar gir jaaye to us ko kapde se chupaana aur dafnaana sunnat hai, khoon aur gosht ka lothda ho to sirf dafnaana sunnat hai. kapde se  chupaana sunnat nahi. Dafnaane ke masaail:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Dafnaane ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "qabar kitni lambi, choudi aur gahri honi chahiye?",
+                        "Jawaab": "qabar kam az kam itni chahiye ke bu ko chupaaye aur darindon se mayyit ko bachaaye aur qabar  ki chhatt mayyit se na mile aur sunnat hai ke qabar sadhe chaar haath gehri ho aur itni kushaadah (lambi choudi)ho jis main mayyit aur dafnaane waale utar sakein."
+                    },
+                    {
+                        "Suwaal": "mayyit ko dafnaane ka mukammal tareeqah kya hai?",
+                        "Jawaab": "dafnaane keliye mayyit ke sar ke jaanib waale chaarpaayi ke hisse ko qabar ke pair ki taraf rakhe take mayyit ko us se nikaal kar qabar main aasani se rakh sake phir mayyit ke sar ko pehle chaarpaayi se nikal kar qabar main   daakhil   kare mayyit ko qabar main utarne waale taaq adad hona chahiye. Qabar main utarte waqt sabhi utaarne waale padhein“بِسْمِ اللّٰہِ  وَ عَلٰی مِلَّۃِ رَسُوْلِ اللّٰہِ ﷺ” qabar  main mayyit ko dahini karwat par litaayein. Kafan par baandhe hue tamaam bandh ko kholein yahan tak ke khawateen ke seene par baandhe hue seena band ko bhi kholein. waajib hai ke mayyit ke chehra aur seene ko qibla rukh kare. Mayyit ke chehre se kapda hata kar ek int se tek lagaaye (tab mayyit ko ruku karne waale ki shakl main paayengi) takhta ya patthar se band kare is tour par ke takhta ya patthar mayyit ko na lage. Takhta ya patthar se qabar ko dhaankne ke baad qabar ke Chaaron taraf ke log apne donon haathon se 3 martaba mitti dalein, pehli martaba mitti dalte waqt “مِنْہَا خَلَقْنَاکُمْ”dusri martaba dalte waqt “وَفِیہَا نُعِیدُکُم” aur teesri martaba dalte waqt“وَمِنْہَا نُخْرِجُکُمْ تَارَۃً اُخْرَی” padhein aur agar logon ki kami ki wajh se na bhare to kudal se matti dale. Qabar ko matti daal kar zameen se ek balisht ki qadr uncha kare phir us par paani chhidke aur tazi tahni lagaaye phir sar aur pair ke muqabil main patthar rakhe. Tadfeen mukammal hone ke baad mayyit ko talqeen kare. (talqeen ke kalimat aage aarahe hai) talqeen karne waala mayyit ke chehre ki taraf mutawajjih ho kar is tarah baithe ke talqeen parhne waale ki peeth qible ki taraf ho aur douran e talqeen hazireen qabr ke gird khade hon. Dafan ke baad qabar par surahe baqara ka awwal wa aakhir padhe sarhaane “آلٓمٓ”se “مُفْلِحُوْن” tal aur paenti“اٰمن الرسول” se khatam e surah tak padhe. Aur sunnat hai ke dafan ke baad qabar ke paas itni der tak thahre jitni der unt zabah kar ke gosht taqseem ki jasake."
+                    },
+                    {
+                        "Suwaal": "mayyit ko qabar main koun utaare?",
+                        "Jawaab": "mayyit ko qabar main wahi utaare jo namaaze janaazah padhane ka ziyaada haqqdaar hai lekin aurat ko qabar main utarne keliye us ka shohar dusron se ziyaada haqdaar hai. Isi tarah koi  aurat na rahe to ghusl bhi shohar hi de. shohar ke baad aurat ko qabar main utaarne  uar ghusl dene ka haqq dar mahram hai aur agar mahram bhi na ho to ghusl na dilaaye balke tayammum kara ke dafnaaye."
+                    },
+                    {
+                        "Suwaal": "agar koi watan ke baahar margaya to kya us ki wasiyat ke bina par use watan le aasakte hain?",
+                        "Jawaab": "ji nahi! Jahan margaya ho wahan se dusre gaaon le jana haraam hai. haan agar makka e mukarrama ya madeena e munawwara  ya baitul muqaddas ke qareeb mar jaaye to use in muqaddas jagahon ki taraf le ja sakte hain."
+                    },
+                    {
+                        "Suwaal": "kitni cheezon keliye mayyit ko qabar se nikaalna waajib hai?bayaan kijiye.",
+                        "Jawaab": "chaar cheezon keliye mayyit ko qabar se nikaalna waajib hai. (1) ghusl dene keliye jab ke sadi na ho(2) qibla ki taraf seena karne keliye (3) saath dafnaaya hua maal nikaalne keliye (4) mayyit ke peth se bachcha nikaalne keliye jo maa ke saath dafan kiya gaya ho jab ke us ka zindah rahna mumkin ho. Masala: qabar se kuch mitti le kar us par saat martba surah e qadr yani إِنَّا أَنْزَلْنَا فِیْ لَیْلَہِ الْقَدْرِpadhe aur us mitti ko qabar main mayyit ke seene se lagaaye hue rakhe."
+                    },
+                    {
+                        "Suwaal": "kis mayyit par talqeen karna sunnat hai?",
+                        "Jawaab": "mayyit baaligh ho to talqeen karna sunnat hai. Naabaaligh bachhe ko talqeen nahi."
+                    },
+                    {
+                        "Suwaal": "talqeen ke alfaaz bataaein.",
+                        "Jawaab": "talqeen ke alfaaz ye hai: يَا عَبْدَ اللهِ بْنَ  أَمَةِ اللَّهِ  اذْكُرْ(یَا أَمَةَ اللَّهِ بِنْتَ أَمَةِ اللَّهِ اذْكُرِی) الْعَہْدَ الَّذِیْ خَرَجْتَ(خَرَجْتِ)عَلَيْهِ مِنَ الدُّنْيَا شَهَادَةَ أَنْ لَّا إِلٰهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًارَّسُوْلُ اللهِ وَأَنَّ الْجَنَّةَ حَقٌّ وَّأَنَّ النَّارَحَقٌّ وَّأَنَّ الْبَعْثَ حَقٌّ وَّأَنَّ السَّاعَةَ اٰتِيَةٌ لَّارَيْبَ فِيْهَا وَأَنَّ اللهَ يَبْعَثُ مَن فِي الْقُبُوْرِ وَأَنَّكَ رَضِيْتَ (وَأَنَّكِ رَضِيْتِ) بِاللهِ رَبًّا وَّبِالْإِسْلَامِ دِينًاوَّبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا وَّبِالْقُرْآنِ إِمَامًا وَّبِالْكَعْبَةِ قِبْلَةً وَّبِالْمُؤْمِنِينَ إِخْوَانًا. رَبِّیَ اللہُ لَا إِلٰہَ إِلَّا ہُوَ عَلَیْہِ تَوَکَّلْتُ وَہُوَرَبُّ الْعَرْشِ الْعَظِیْمِ. *talqeen ko 3 martaba duhraye *talqeen main qousain(……) main diye huye jumlon ko khawaateen keliye padhein *dafnaane ke baad tasbeet padhna yani “اَللّٰہُمَّ ثَبِّتْہٗ عَلَی الْحَقِّ اَللّٰہُمَّ لَقِّنْہٗ حُجَّتَہٗ”jise alfaaz se mayyit ki saabit qadami keliye dua maangna sunnat hai isi tarah mayyit keliye magfirat ki dua karna bhi sunnat hai. Tasbeet ka murawwija seega ye hai: اَللّٰہُمَّ ثَبِّتْہٗ(ھَا)عِنْدَ السُّؤَالِ، اَللّٰہُمَّ أَلْہِمْہُ(ھَا) الْجَوَابِ،اَللّٰہُمَّ جَافِ الْقَبْرَ عَنْ جَنْبَیْہِ،(ھا) اَللّٰہُمَّ اٰمِنْہُ(ھا) مِنْ کُلِّ الْفَزَعِ، اَللّٰہُمَّ اغْفِرْلَہٗ (ھا)وَارْحَمْہُ(ھا). Mayyit khatoon ki ho to”ثَبِّتْہٗ”  ki bajaaye ”ثَبِّتْہَا”isi tarah ”أَلْہِمْہٗ” ki bajaaye”أَلْہِمْہَا” ‘”جَنْبَیْہِ” ki bajaaye ”جَنْبَیْہَا”، ”اٰمِنْہُ” ki bajaaye”اٰمِنْہَا” ”اِغْفِرْلَہٗ”  ki bajaaye”اِغْفِرْلَہَا” aur  ”وَارْحَمْہُ” ki bajaaye ” وَارْحَمْہَا” padhe. Masala:qabr par peshaab, paakhaana karna haraam hai aur qabar ke qareeb peshaab aur paakhaana karna us par baithna qabrstaan main raat ke waqt tanha rahna aur kuffaar ke qabrstaan main bila wajah rahna makrooh hai. Masala:qabrstaan keliye waqf ki hue jagah ho to qabar ko pukhta karna aur qabar par chhatt banaana haraam hai lekin nabiyon shahidon aur saliheen ki qabaron ko pukhta karne min koi haraj nahi. Ta’aziyat ka bayaan:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Ta’aziyat ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "ta’aziyat ka kya hukm hai?",
+                        "Jawaab": "mayyit ke qareebi rishtadar ki ziyaarat karna sunnate muakkadah hai ye sunnat sirf mout ke baad 3 din tak hai. Phir ta’aziyat karna makrooh hai agar ta’aziyat karne waala ghaaib, qaidi, ya beemar ho ya mout ki khabar us tak na pahunchi ho to wo safar se loutne ya uzr zaail hone ya us tak khabar pahunchne par ta’aziya kar sakta hai."
+                    },
+                    {
+                        "Suwaal": "ta’aziyat karne ka tareeqah kya hai?",
+                        "Jawaab": "ta’aziyat main ta’aziyat karne waale ko chahiye ke mayyit ke ghar waalon ko sabar ki talqeen kare aur noha maatam ke alf’aal se baz rahne ka hukm de. Mayyit ke haqq main dua kare. Sunnat hai ke ta’aziyat karne waala mayyit ke aqaarib se musafaha karte hue ye kahe“أَعْظَمَ اللّٰہُ أَجْرَکَ وَأَحْسَنَ عَزَاءَکَ وَغَفَرَ لِمَیِّتِکَ”aur jis ki ta’aziyat ki jaati hai wo jawaab main ye kahe “جَزَاکَ اللّٰہُ خَیْرًا وَتَقَبَّلَ اللّٰہُ  مِنْکَ”"
+                    },
+                    {
+                        "Suwaal": "kay ma’azoor shakhs khatt ya phone ke zariye ta’aziyat ki sunnat haasil kar sakta hai?",
+                        "Jawaab": "ji haan! Ghaaib aur ma’azur khatt ya phone ke zariye ta’aziyat ki sunnat haasil kar sakta hai. Mas’ala:zimmi Kaafir ki ta’aziyat kar sakte hain lekin bad mazhab, benamaazi, aur sharabi ki ta’aziyat karna makrooh hai. Ba’az ilaaqon mein 40 din tak aur baaz ilaaqon main teen teen din tak log mayyit ke gharon main pade rahte hai ye buri rasm hai baaz ilaaqon main mayyit ke ghar pehli eid ki tour par mayyit ke rishtadaaron se milne keliye jaate hai ye bhi buri rasm hai balke makrooh hai jis se pasmandagan ka gamm taza ho jaata hai. "
+                    }
+                ]
+            },
+            {
+                "sub_category":"Ziyaarat e qabr",
+                "introduction":" masala:qabr ziyaarat karna mard keliye sunnat hai aur auraton keliye makrooh hai. Lekin anbiya, auliya, salheen ke mazaraat ki ziyaarat baparda auraton par bhi sunnat hai albatta mazaron ki ziyaarat keliye bigair mahram ya shohar ke safar karna na jaaiz wa haraam hai.",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "ziyaarate qabr ke aadaab bayaan kijiye.",
+                        "Jawaab": "sunnat hai ke ziyaarat karne waala bawuzu ho aur maqbara (qabrstaan) ke andar   daakhil   hote waqt sab madfuneen ko salaam kare us waqt ye kahe “اَلسَّلَامُ عَلَیْکُمْ یَاأَہْلَ الْقُبُوْرِ  ya  اَلسَّلَامُ عَلَیْکُمْ دَارَ قَوْمٍ مُّؤْمِنِیْنَ وَإِنَّا إِنْ شَاءَ اللّٰہُ بِکُمْ لَاحِقُوْنَ” aur ziyaarat karne waala us qabr ke paas jaaye jis qabr ki ziyaarat karna chahta ho aur dubaara use salaam kare jaisa ke waalid ki qabr ki ziyaarat maqsood ho to waalid ke paas ja kar “اَلسَّلَامُ عَلَیْکَ یَاأَبِیْ” kahe. Salaam kahte waqt mayyit ke chehre ki taraf rukh kare yani ziyaarat karne waale ki peeth qible ki taraf ho phir qible rukh ho kar quraan se jo muyassir aaye padhe aur dua kare baaz ulama  e kiraam ne farmaaya hai ke dua karte waqt aur quraan padhte waqt bhi mayyit ke chehre ki taraf rukh karna sunnat hai. Shafii Muallimuddeen Voli:3 Zakaat, rooze, hajj ke Masaail ke bayaan main Zakaat ke masaail"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "category":"Zakaat ke masaail",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Zakaat ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kya zakaat farz hai?",
+                        "Jawaab": "ji haan! Zakaat farz hai. Us ki farziyat ka munkir Kaafir aur na adaa karne waala faasiq hai."
+                    },
+                    {
+                        "Suwaal": "maal ki kitni qismon main zakaat waajib hai?",
+                        "Jawaab": "maal ki 6 qismon main zakaat waajib hai. Wo 6 qismein ye hain (1)jaanwar: unt, gaye,bakri. (2)dhaat: sona, vhandi,(3)fasl: danon main chawal, gehu, jawn, chana, lobiya, wagairah har qism ke anaaj aur phalon main sirf khajoor aur angoor (4)dafeena (5)ma’adin (6)maale tijaarat."
+                    },
+                    {
+                        "Suwaal": "unt,gaye, bakri main zakaat waajib hone keliye kitni shartein hain?",
+                        "Jawaab": "unt, gaye, bakri main zakaat waajib hone keliye 7 shartein hain (1) maalik ka musalmaan hona (2) aazaad hona (3)jaanwaron par milkiyate taamma hona (4)nisaab hona (5) saal guzarna (6)saima (yani charai ka jaanwar hona)(7) jaanwar ka kaam kaaj karne waala na hona. Gaye ka nisaab:"
+                    }
+
+                ]
+                
+            },
+            {
+                "sub_category":"Gaaye ka nisaab",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "gaye ka nisaab kya hai?",
+                        "Jawaab": "gaye main zakaat waajib hone keliye kam se kam  nisaab 30 adad gaye hain."
+                    },
+                    {
+                        "Suwaal": "gaye ka nisaab pura hone par batoure zakaat kya waajib hai?",
+                        "Jawaab": "30 ta 39 gaye ek saal tak ek aadmi ke paas rahein to batoure zakaat ek saal ka ek bachchdah dena hoga.30 se kam gaye main kuch waajib nahi.aur 40 ta 59 hon to 2 saal ki ek bachchiya deni hogi 60 ta 69 main ek saal ke 2 bachchde dene hain us ke baad har 30 main ek saal ka ek bachchda aur har  40 main 2 saal ka ek bachchiya deni hai. Note:yaad rakhiye ke ek saal ke bachchde ko tabi’a aur 2 saal ki bachiye ko musinnah kahte hain. Mzeed aasani keliye zail ka naqsha mulaahaza kijiye: Note:jahan 1 saal ka bachchda dena hai wahan 1 saal ki bachchiya bhi di ja sakti hai lekin jahan 2 saal ki bachchiya deni hai wahan 2 saal ka bachchda dena kaafi nahi."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Bakri ka nisaab",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "bakri ka nisaab kya hai?aur us main batoure zakaat kya waajib hai?",
+                        "Jawaab": "bakri ka chhota nisaab 40 bakriyan hain, 40 se kam main kuchh waajib nahi. 40 ta 120 bakriyon main bhed ka 1 jiz’a ya bakri ka 1 saniya dena waajib hai. Aur 121 ta 200 bakriyon main 2 jiz’a ya 2 saniya aur 201 ta 399 bakriyon main 3 jaz’a ya 3 saniya batoure zakaat dene waajib hai. Uske baad har ek 100 main ek jiz’a ya ek saniya dena hai.Note:yad rah ek bhed ka bachcha jo 1 saal ka ho kar dusre saal main daakhil   ho use jiz’a aur bakri ka bachcha jo 2 saal ho kar teesre saal main daakhil ho use saniya kahte hain."
+                    },
+                    {
+                        "Suwaal": "unt ka nisaab kya hai us main batoure zakaat kya waajib hai?",
+                        "Jawaab": "unt ka nisaab paanch adad hai, 5 se kam main zakaat waajib nahi. 5 ta 9 unton main 1 bakra batoure zakaat dena waajib hai. 10 ta 14 unton main 2 bakre,15 ta 19 unton main 3 bakre, 20 ta 24 unton main 4 bakre phir 25 ta 35 main 1 saal ka 1 untni, 36 ta 45 main 2 saal ki 1untni, 46 ta 60 main 3 saal ki 1 utni aur 61 ta 75 main 4 saal ki 1 untni, 76 ta 90 main 2 saal ki 2 utni deni hain. Note:1 saal waali untni ko bint makhaal, 2 saal waali untni ko bint laboon teen saal waali untni ko hiqqah aur 4 saal waali untni ko jiz’a kahte hain. Mazeed aasaani keliye zail ka naqsha mulaahaza kijiye: Isi tarah har ek 40 unt main 1 bintu laboon aur har ek 50 main 1 hiqqa dena waajib hai paas 180 unton main 2 hiqqa aur 2 bint laboon kyunke us main do 40 aur do 50 hai. Note: zakaat main jo bakri di jaaye wo saal bhar se kam no ho."
+                    }
+
+                ]
+            },
+            {
+                "sub_category":"Sone chaandi ka nisaab",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "sone chaandi ka nisaab kya hai? aur us main batoure zakaat kya waajib hai?aur nisaab nae wazan yani gram ke itibaar se kitna wazan hai?",
+                        "Jawaab": "sone ka nisaab 20 misqaal (85grm)hai aur chaandi ka nisaab 200 dirham (595grm)hai aur un donon main ba toure zakaat chaleeswa hissa yani dhaae feesad dena waajib hai.in nisaabon se kuch bhi kam ho to us main zakaat waajib nahi. Nisaab se ziyaada ho to us ziyaada ki bhi zakaat di jaayegi."
+                    },
+                    {
+                        "Suwaal": "kin zewaraat par zakaat waajib hai aur kin par nahi?",
+                        "Jawaab": "jin sona aur chaandi ke zewaraat pehnna jaaiz ho us main zakaat nahi. haan agar sharayee had se bada zewar ho to us main zakaat waajib hai. Yun hi khazeena ke tour par rakhe hue zewar par zakaat waajib hai. Mard keliye banaye hue sone ya chaandi ke zewar min zakaat waajib hoti hai kyunke mard ko sona aur chaandi ka istimaal haraam hai albatta mard chaandi ki angothi pehan sakta hai. Is liye angothiyan agar nisaab ki miqdaar pahunche tab bhi zakaat waajib nahi. Note:zakaat dete waqt wahi cheez jis ki zakaat waajib ho deni hai warna zakaat adaa nahi hogi masalan sone ki zakaat main sona hi dein, chaandi ki zakaat main chaandi dein anaaj ki zakaat main anaaj dein aur jaanwar ki zakaat main jaanwar dein yani sone ki zakaat main sone ky bajaaye kisi ne qeemat adaa ki, chaandi ki zakaat main chaandi ky bajaaye kisi ne reshan bhar diya to zakaat adaa nahi hogi. albatta tijaarat ki zakaat main qeemat deni hogi saamaan dena durust nahi."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Ushr ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "galla aur phal main kitni zakaat waajib hoti hai?nez kin suraton main daswan hissa aur kin suraton main biswan hissa waajib hai?",
+                        "Jawaab": "galla aur phal agar chhilke ke saath dakheera kiya jaata hai aur us ke saath khaya nahi jaata jaise chaawal us ka nisaab sukhaane aur saf karne ke baad 600 swa’a hai us main batoure zakaat daswa hissa waajib hota hai jab ke khet barish ya behne waale paani ya naale se sairaab kiya jaaye ya khud bakhud sairaab ho jaaye aur agar us main aabpaashi dol se ya paani khareed kar ke ki jaaye to us main biswaan hissa dena waajib hai agar bigair chilke ke saath zakira kiya jaata hai ya chilke ke saath zakhira kiya jaata hai aur us ke saath khaya jaata hai to us ka nisaab 300 swa’a hai galle ki zakaat main saal pura hona shart nahi galle ki zakaat main ek swa’a wazan ke Ihtibaar se ihtiyatan 2kilo 400 gram hoga aur fitra main ek swa’a  ihtiyatan 3kg hoga bahtar hai mudd ya swa’a ke bartan se hi naap kar anaaj ko shumaar kiya jaaye."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Sadaqa e fitra ka bayaan:",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "sadaqa e fitr kis par waajib hai?",
+                        "Jawaab": "sadaqa e fitr har aazaad musalmaan mustatee’a par waajib hai."
+                    },
+                    {
+                        "Suwaal": "mustatee’a kise kahte hain?",
+                        "Jawaab": "mustatee’a wo hai jis ke paas eidul fitr ke shab o roz main apni aur apne ahle o iyaal ki haajate asli se ziyaada maal ho. 3 cheezon se sadaqa e fitr waajib hoti hai (1) islam (2)maahe Ramzaan ke aakhiri din ka suraj ghuroob hona(3)eid ke din aur raat main apni aur apne iyaal ki haajate asli se ziyaada maal rahna. Masala:jo bachcha eid ki raat ghuroobe aaftab ke baad ya eid ke din paida ho us ki taraf se sadaqa e fitr nahi hai kyunke  wo bachcha ghuroobe aaftaab ke waqt maujood na tha agar koi shakhs Ramzaan ke aakhiri din ghuroobe aaftab se kuch der pehle marjaye tab bhi us ki taraf se sadaqa e fitr waajib nahi. Masala:har ek musalmaan apni aur un afraad ki taraf se sadaqa e fitr adaa karega jin ka nafaqa us par waajib ho. Note:jis shakhs ki taraf se sadaqa e fitr adaa karna hai wo eid ke shab ke ghuroob e aaftab ke waqt jahan hai wahan jis aanaj ko batoure qoot aksar istimaal kiya jaa raha ho use batoure sadaqa e fatr diya jaaye."
+                    },
+                    {
+                        "Suwaal": "ek shakhs ki taraf se sadaqa e fitr ki miqdaar kitni hai?",
+                        "Jawaab": "ek shakhs ki taraf se sadaqa e fitr ki miqdaar us shahr ke galle se ek swa dena hai agar ek swa na ho to jo kuch ho dedein . Note:swa ki miqdaar 3 liter 200 milli leter hai swa ko wazan ke e’atibaar se ek mu’ayyan wazan bataana dushwaar hai is liye wazan se sadaqa e fitr adaa karte waqt ehtiyaat barte yani ek shakhs ki taraf se 2kilo 700 gram se kam aanaj na de. Jin anaaj ko aap batour e fitra dena chaahte hai wo agar ziyaada wazan waala ho to 2 kilo 700 garm dena bhi kaafi nahi is liye ihtiyaat bartte hue ek shakhs ki taraf se 3 kg anaaj dein. Ziayada ihtiyaat yahi hai ke swa ya mudd ke bartan se hi naap kar fitra diya jaaye."
+                    },
+                    {
+                        "Suwaal": "shohar tangdast ho to aurat kiya kare?",
+                        "Jawaab": "shohar takgdast ho to aurat par sadaqa e fitr waajib nahi agarcha maaldaar ho lekin is surat main us maaldaar aurat par sunnat hai ke wo apni taraf se sadaqa e fitr adaa kare. Masala:haan agar apni taraf se sadaqa e fitr adaa karne ke baad aur itna maal baaqi rahe jis se apne ahl o iyaal main se baaz ki taraf se hi sadaqa e fitr adaa kar sakta hai to pehle apni bivi ki taraf se adaa kare phir (ho sake to)apni naabaaligh aulaad ki phir baap ki phir maan ki phir baaligh aulaad ki taraf se adaa kare."
+                    },
+                    {
+                        "Suwaal": "sadaqa e fitr adaa karne ka waqt kya hai?",
+                        "Jawaab": "sadaqa e fitr  shabe eidul fitr ke ghuroobe aftab se waajib hota hai use jabtak adaa na kare us ke zimme main baaqi rahega eidul fitr ke din ghuroobe aftab se pehle nahi dena haraam hai aur namaaze eid se pehle adaa karna sunnat hai eid ke din namaaz eid se taakheer karna makrooh hai Ramzaan shuru hone ke baad adaa kare to bhi sadaqa e fitr adaa ho jaata hai Ramzaan shuru hone se pehle sadaqa e fitr dena durust nahi."
+                    },
+                    {
+                        "Suwaal": "behruni mamaalik main rahne waala sadaqa e fitr kaha adaa kare?",
+                        "Jawaab": "ghuroob e aftab ke waqt jahan ho wahi apna sadaqa e fitr de na ye ke ghar pahunch kar dene keliye taakeer kare masala Africa se aate waqt Mumbai pahunchte hi eid ka ghuroobe aftab ho gaya to sadaqa e fitr Mumbai main hi adaa kare ke ye waajib hai. Agar koi shakhs Africa main rahta hai to apna sadaqa e fitr Africa main  hi de aur bivi ka sadaqa e fitr jahan biwi hai wahan pahuncha de aur kisi ko fitra adaa karne ka wakeel banaye."
+                    },
+                    {
+                        "Suwaal": "sadaqa e fitr kin logon ko dena jaaiz hai?",
+                        "Jawaab": "jin logon ko zakaat dena jaaiz hai un ko sadaqa e fitr dena jaaiz hai aur jin logon ko zakaat dena jaaiz nahi un ko sadaqa e  fitr bhi dena jaaiz nahi. Masaarife zakaat ka bayaan:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Masaarif e zakaat ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "zakaat kis ko de sakte hain?",
+                        "Jawaab": "zakaat un 8 logon ko de sakte hain jin ka tazkira Allah ta’ala ne quraane kareem main farmaaya hai wo ye hai fuqara (wo shakhs jis ke paas apni zarooratein  poori karne keliye na to maal hai na mazdoori ka zareea aur na kisi aise shakhs ka sahaara jis par us ka nafaqa waajib ho)miskeen(jis ke paas kuch maal ya mazdoori ka zareea wagairah hai magar na us qadr ke us ki zaruraton ko kaafi ho) zakaat wusool karne waala (use us kaam ke iwaz kaam ke muwaafiq zakaat ke maal se diya jaayega) mukaatab (wo ghulaam jise us ke maalik ne likh diya ho ke tum is qadr raqam kama kar do to aazaad ho jaawonge) qarz dar( jo apna qarz nahi adaa kar sakta)  musaafir (jis ke paas safar main kharch keliye maal moujood na ho) jihaad karne waala(jab ke wo mehz Allah keliye jihaad kare) taleeful quloob( jo shakhs nou-muslim aur zaeeful emaan ho us ki dil joe keliye take us ke emaan main mazbooti aajaye) Note:zakaat wusul karne waala, mukaatab, aur bigair muawize ke jihaad karne waala ye sab log doure haazir main nahi hai."
+                    },
+                    {
+                        "Suwaal": "maale zakaat se masjid wagairah banaana ya kaare khir main lagaana jaaiz hai ya nahi?",
+                        "Jawaab": "maale zakaat se masjid, madrasa wgaira banaana ya us se mayyit ko kafan dena ya kunve wagairah kisi kaare khair main sarf karna jaaiz nahi yani agar un cheezon main zakaat ka maal kharch kiya jaaye to zakaat adaa na hogi."
+                    },
+                    {
+                        "Suwaal": "kin logon ko zakaat dena jaaiz nahi?",
+                        "Jawaab": "ghulaam, aale rasool, Kaafir, gani ko zakaat dena jaaiz nahi na hi us se zakaat adaa hogi. Aal e rasool aur ghulaam ko kabhi bhi zakaat lena ya unhe dena jaaiz nahi agarcha wo gareeb hi kyu na ho, madrase main dene se zakaat adaa nahi hogi."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Sadqa e nafila ke masaail",
+                "introduction":"Sadaqa e naafila kabhi bhi adaa kar sakte hain us ka koi hisaab nahi aur na us ka koi sabab. Maaldar, faqeer koi bhi ho sadaqa de sakta hai aur le bhi sakata hai lekin khaas mouqe par sadaqa dena sunnat hai jaisa ke touba se pehle aur gunaah ke baad.",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Zaroori masaail",
+                "introduction":"Mard keliye sona pehnna haraam hai, shadi ke mouqe par kuch mard sone ki anguthi pehnty hai ye sakht gunaah hai aur anguthi ke siwa chaandi ke kisi bhi qism ke zewarat pehnna jaaiz nahi. Chaandi ki anguthi pehnna sunnat hai. Ulama farmate hai ke ek se ziyaada anguthi pehnna na jaaiz wa haraam hai. Anguthi daaein haath ki chingli main pehnna sunnat hai phir baaein haath ki chingli main pehnna . aqeeq ki anguthi pehnna behtar hai. Aqeeq yamani pehne. Aur mard keliye resham ka kapda bhi pehnna haraam hai aur us ka bistar bhi haraam hai. Aurat ko resham pehnna aur sona aur chaandi ka zewar pehnna jaaiz hai jab ke sharayee had se ziayada na ho. Khawateen zeenat keliye sona aur chaandi ke ilawa aur dhaat ke zewaraat bhi pehan sakti hai aur mard dhat ke zewaraat nahi pehn sakta jab ke us main aurat ya fussaq ki mushaabahat ho. Aurat ko nath pehanne keliye naak chhidwaana haraam hai kyunke us main bilaa zaroorat takleef ponchaana hai. Agar chidwaaya ho to us main nath pehanne main koi haraj nahi. Roze ke masaail",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "category":"Roze ke masaail",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Roze ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "roza kise kahte hain?",
+                        "Jawaab": "subah saadiq se ghuroob tak niyyat ke saath khaane peene aur hambistari se rukne ka nam roza hai."
+                    },
+                    {
+                        "Suwaal": "maahe Ramzaan ke roze kis par farz hai? Nez us ke munkir ya bila uzr chhodne waale ka kya hukm hai?",
+                        "Jawaab": "maahe Ramzaan ke roze rakhna roze par qudrat rakhne waale har musalmaan aaqil baaligh paak mard o aurat par farz hai. Us ki farziyat ka inkaar karne waala Kaafir aur bila uzr chhodne waala sakht gunahgaar’ faasiq aur mardoode shahaada hai."
+                    },
+                    {
+                        "Suwaal": "agar koi shakhs kisi uzr ki wajh se roza na rakh sake to kya hukm hai?",
+                        "Jawaab": "agar koi shaks kisi uzr ki wajh se roza na rakh sake to us ki qaza karna farz hai."
+                    },
+                    {
+                        "Suwaal": "kya Ramzaan ke ilawa bhi kuch roze farz hai?",
+                        "Jawaab": "ji haan! Nazar, kaffaare ke roze bhi farz hai. Masala:sha’abaan ke 30 din mukammal hone ya 1 aadil shakhs ko chaand ke nazar aane se Ramzaan ka roza farz ho jaata hai jabke wo qaazi ke paas aakar gawaahi de."
+                    },
+                    {
+                        "Suwaal": "kis ki gawaahi shari’at main mutabar nahi ke us ke dekhne se chaand ki ruyat ka subut nahi hota?",
+                        "Jawaab": "ghulaam, aurat, faasiq, Kaafir jaise logon ne maahe Ramzaan ka chaand dekhe aur us ki gawaahi di tab bhi qaazi ke nazdeek Ramzaan ke chaand ki ruyat ka subut nahi hota is liye ke un logon ki gawaahi shari’at main mutabar nahi. Aadil muslim aazaad mard maahe Ramzaan ka chaand dekh kar us ki gawaahi qaazi ke paas de to qaazi ke nazdeek ruyat e Ramzaan ka subut hota hai qaazi ke nazdeek Ramzaan ki ruyat ka subut ho jaaye to logon par waajib hai ke wo roza rakhein."
+                    },
+                    {
+                        "Suwaal": "kya sirf ek mard ki gawaahi se Ramzaan ki pehli tareekh ki ruyat ka subut ho jaata hai?",
+                        "Jawaab": "ji haan! Ramzaan ki pehli tareekh ki ruyat ka subut sirf ek hi gawah se ho jaata hai aur Ramzaan ke siwa dusre mehinon ki ruyat ke subut keliye 2 gawaah zaroori hai. Masalan shawwal ky chaand ki subut keliye 2 gawaah zaroori hai. Aur agar ek hi shakhs ko shawwal ka chaand nazar aaya to us ek shakhs ki gawaahi par qaazi ruyat ka faisala nahi karega albatta us dekhne waale ky haqq main shawwal hoga us par waajib hai ke wo khud eid manaaye yani roza na rakhe. Masala:kisi faasiq ya khaatun ko Ramzaan ka chaand nazar aaya to us par roza rakhna waajib hai isi tarah us shakhs par bhi roza rakhna waajib hoga jis ne ruyate hilaal ke mu’amile main  kisi faasiq ya khaatun ki tasdeeq ki ho jaise ke naabaaligh ne kaha ke  main ne Ramzaan ka chaand dekha aur sunne waale ne us naabaaligh ki tasdeeq ki to us sunne waale par roza rakhna waajib hai. Masala:faasiqeen, khwateen, kuffaar ya bachchon ki badi tadaad ne mukhtalif simt se aakar ye khabar di ke unhon ne Ramzaan ka chaand dekha to use khabare mutawaatir kahte hain khabare mutawaatir par roza rakhna farz hota hai kyunke khabare mutawaatir qaazi ke hukm ke baraabar hai."
+                    },
+                    {
+                        "Suwaal": "faasiq ka kya matlab hai?",
+                        "Jawaab": "faasiq wo hai jo farz ka paaband na ho ya gunaah e kabira kiya ho ya gunaahe sageera ka aadi ho pas be namaazi, sharaabi wagairah faasiq hai yun hi namaaze panjgaana ko qaza karne waala bhi faasiq hai. Roze ke faraiz:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Roze ke faraaiz",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "roze ke kitne arkaan hain?",
+                        "Jawaab": "roze ke 2 Arkaan hain. (1)niyyat (2)har aisi bat se ruke rahna jis se roza toot jaata ho."
+                    },
+                    {
+                        "Suwaal": "niyyat  kab kare?",
+                        "Jawaab": "farz roze ki niyyat raat hi main subah saadiq se pehle karna zaroori hi. Nafl ki niyyat zawaal se pehle karna kaafi hai Is sharat ke saath ke subah saadiq se niyyat karne tak roze ko baatil karne waali batein pai nahi gayi ho."
+                    },
+                    {
+                        "Suwaal": "niyyat main kya kare?",
+                        "Jawaab": "farz roze ki niyyat main roze ko ta’ayyun karna zaroori hai  jaisa ke Ramzaan ka roza, nazar ka roza, kafaare ka roza wagairah. Aur ramzaan ke roze ki niyyat  kare “نَوَیْتُ صَوْمَ رَمَضَانَ”(yani Ramzaan ka roza rakhne ki niyyat main ne ki)sunnat roze ki niyyat main sirf roze ki niyyat kaafi hai ta’ayyun zaroori nahi."
+                    },
+                    {
+                        "Suwaal": "Ramzaan ke roze ki mukammal niyyat bataeye.",
+                        "Jawaab": "“نَوَیْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ رَمَضَانِ ھٰذِہِ السَّنَۃِ لِلٰہِ تَعَالیٰ”(niyyat ki main ne is saal ke Ramzaan ke mehine ke kal ke farz adaa roze ki Allah ta’ala keliye) Masala:niyyat dil ke pukhta iraade ko kahte hain is liye dil main pukhta iraada karna waajib hai sirf zubaan se niyyat ke alfaaz ko talaffuz karna kaafi nahi lekin mustahab hai ke wo zubaan se bhi niyyat ke alfaaz kahe. Roza na rakhne aur todne ki rukhsatein:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Roza na rakhne aur todne ki rukhsat",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kin suraton main roza na rakhne ki ijaazat hai?",
+                        "Jawaab": "beemaari ki wajh se roza rakhne main sakht takleef ho rahi ho to roza na rakhein isi tarah roza rakhne se halaak hone ya beemaari ki muddat badh jaane ya kisi azu ke bekaar hone ka khouf ho to bhi roza na rakhein."
+                    },
+                    {
+                        "Suwaal": "beemaari ki wajh se Ramzaan ka roza tode to kya karein?",
+                        "Jawaab": "beemaari se shifa paane ki ummeed ho to roze ki qaza waajib hai haan agar shifa paane ki ummeed na ho to har ek din ke badle ek mudd anaaj batoure fidya dena waajib hai. Masala:agar koi shakhs saheeh maqsad keliye jaaiz aur lambe safar main ho aur roza rakhne main koi diqqat na ho to behtar hai ke roza rakhe aur koi diqqat ho to behtar hai ke roza na rakhe albatta us roze ki qaza waajib hai. Safar chota ho ya saheeh maqsad keliye na ho ya naajaaiz safar main ho to roza na rakhna gunaah hai haan agar roze ki wajh se halaak hone ka khouf ho to roza todega us ke baad us roze ki qaza karega. Pyaas aur bhook ki wajh se halaak hone ka andesha ho to roza toodna jaaiz hai aur us roze ki qaza waajib hai. Haamila aur bachche ko dudh pilaane waali khaatoon ko agar roza rakhne se apni jaan ya bachche ki jaan ko nuqsaan pahunchne ka khouf ho to wo roza na rakhe. Albatta bachche ki jaan ko nuqsaan pahunchne ke khouf se agar koi khaatoon roza na rakhe to us par waajib hai ke rozy ki qaza rakhe aur har ek roze ke badle ek mudd anaaj batoure fidya de de aur agar us khaatoon ne apni jaan ko nuqsaan pahunchne ke khouf se roza nahi rakha ya roza toda to sirf qaza waajib hai yani fidya waajib nahi. Dusre Ramzaan aane tak kisi fout shuda roze ko taakheer kare to us par waajib hai ke wo har ek roze ki qaza ke saath ek mudd anaaj batoure fidya de haan agar 2 saal guzar gaye to har ek roze ki qaza ke saath 2 mudd anaaj de haan agar uzran kisi ne Ramzaan ka roza narakha aur dusre Ramzaan tak uzr zaail na hua to taakheer ka mudd waajib nahi hoga. koi uzr ki wajh se ek roza na rakh saka aur uzr zaail hone ke baad bhi roza na rakha dusra Ramzaan aane se pehle hi margaya to gunaah gaar hone ke saath saath us ke tarike se ek roze ke badle ek mudd anaaj batoure fidya diya jaayega ke ye waajib hai aur ye mudd anaaj roze ke fout hone ki wajh se hai aur agar dusra Ramzaan aane ke bad margaya to 2 mudd anaaj dena waajib hai 1 mudd dusre Ramzaan ke aane tak taakheer karne ki wajh se aur dusra mudd roze ke fout hone ki wajh se. Roza todne aur na todene waali cheezon ka bayaan:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Roza todne aur na todene waali cheezon ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kin kin baaton se roza toot jaata hai?",
+                        "Jawaab": "in baaton se roza toot jaata hai: (1)jaan bujh kar jimaa karna (2) jaan bujh kar mani ka nikaalna (3)jaan bujh kar haath wagairah daal kar qai karna (4)jaan bujh kar khana ya apeena (5) jaan bujh kar kaan ya naak jise suraakhon main dawa wagairah dalna (6)haiz ya nifaas ka aana (7)wila maanind  (8) murtad hona. Masala:pak khaalis thook jo muh se baahar na aaya ho nigl jaaye to roza nahi tutta. Masala:wuzu ya ghusl main mubaalagaa ya gargarah karte waqt paani andar jaaye to roza toot jaayega is liye ke rozedaar ke liy wuzu ya ghusl main kulli ya naak main paani chadhaate waqt gargarah aur mubaalaga karna mukrooh hai haan agar mubaalagha aur gargarah karne se paani andar jaane ka yaqeen ho to gargarah aur mubaalagha karna haraam hai. Masala: makhkhi ke khud bakhud muh ya naak ke andar jaane se roza nahi tutta haan agar us makhkhi ko baahar nikaale to roza toot jaayega. Is liye nikaalna haraam hai agar na nikaalne main takleef ho to nikaal sakte hain lekin roza toot jaayega us rozu ki qaza waajib hai."
+                    },
+                    {
+                        "Suwaal": "kin baaton se roza nahi tutta?",
+                        "Jawaab": "ihtilaam hone se ya bhool kar hambistari karne se ya khud bakhud qai hone se ya bhul kar khaane ya peene se roza nahi tutta. Agar koi shakhs din ke baaz hisse main behosh raha to us ka roza baatil na hoga haan agar tamaam din behosh pada raha aur tamaam din main ek lamha bhi hosh main na aaya to us ka roza toot jaayega. Masala:sahri na karne se roza saheeh hota hai albatta sahri karna sunnat hai. Masala:huqna lagaane se roza toot jaata hai, kaan mein buds lagaane se bhi roza toot jaata hai. Aankh main dawa ya surma lagaane se roza nahi tutta lekin roze ki haalat main surma lagaana khilafe sunnat hai. Masala:Baaz ulama ne kaha ke nas main injaction lagaane aur nas main sui chubhwa kar khun nikalne se roza tutta hai is liye ihtiyaat yahi hai ke roze rakh kar din me khoon na nikaale na hi nas main injaction lagwaayein."
+                    }
+
+                ]
+            },
+            {
+                "sub_category":"Roze ki sunnatein",
+                "introduction":"Rat ke dusre hisse main sahri karna sunnat hai afzal hai ke sahri main itni taakheer kare ke sahri aur fajre saadiq ke darmiyaan 50 aayaton ki tilaawat karne ki miqdaar waqt baaqi ho. Janaabat waale ka tulu e fajr se pehle ghusl karna, sahri ke waqt attar aur surma lagaana, din main attar aur surma na lagaana, dupehar ke baad miswaak na karna, iftaar ke baad “اَللّٰہُمَّ لَکَ صُمْتُ وَعَلَی رِزْقِکَ أَفْطَرْتُ”kahna, iftaar ke waqt dua maangna, sadqa aur tilaawate quraan jaise aamaal ziyaada karna, iftaar 3 khajooron se karna, namaaze magarib se pehle iftaar karna, zubaan ko jhoot geebat se mahfooz rakhna aur nafsaani shahwaat se apne aap ko bachaana aur fuzool baaton se apne aap ko mahfooz rakhna roze ki sunnaton main se hain.",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Roze ka kaffaara",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "sharayee uzr ke bigair Ramzaan ka roza todna kaisa hai?",
+                        "Jawaab": "sharayee uzr ke bigair Ramzaan ka roza toodna haraam hai aur foura qaza rakhna waajib hai. haan agar Ramzaan ka ada, roza hambistari se tode to qaza ke saath saath kaffaara bhi waajib hoga."
+                    },
+                    {
+                        "Suwaal": "hambistari se roza todne waale ka kaffaara kya hai?",
+                        "Jawaab": "ramzaan main hambistari kar ke roza tode to kaffaare ke tour par ek ghulaam ko aazaad karna hoga aur agar ghulaam aazaad na kar sake to 2 mahine musalsal roze rakhne honge wo bhi na kar sake to 60 miskeenon ko khana khilaana hoga. Masala:kaffaare main ghulaam ka musalmaan hona shart hai yun hi 2 mahinon ke rozon main tasalsul bhi shart hai agar kisi ne 30 roze rakhein phir beemaari wagairah ki wajh se roza nahi rakh saka to dubaara az sar nou rakhna waajib hai. Nafl roze ka bayaan:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Nafal roze ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kin ayyaam main roza rakhna sunnat hai?",
+                        "Jawaab": "peer, jumeraat, arafah, zilhijja ki 8vi tareekh, muharram ki 9 vi aur 10vi tareekh, sha’abaan ki 15vi tarikh, aur rajab ki 27vi tareekh mien roza rakhna sunnat hai. isi tarah har mehne ki 13vi, 14vi, 15vi,  27vi, 28vi, 29vi aur 30vi tareekhon mein roza rakhna bhi sunnat hai. Shawaal mein 6 din muharram ke pehle 10 dinon aur zillhijje ke pehle 9dinon mein bhi roza rakhna sunnat hai. Masala:ayyaame tashreeq, eidein, youmusshaqq, aur sha’abaan ke aakhiri nisf(jabke pandravi sha’aban ka roza na rakhe ya musalasal na rakha ho) ke siwa saal ke kisi bhi din roza rakh sakte hain lekin saal bhar roza rakhna makrooh hai. Isi tarah maahe ramzaan main maahe Ramzaan ke farz roze ke siwa koi aur roza saheeh nahi hota."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Mannat ke roze ka bayaan",
+                "introduction":"Masala:ramazaan aur kaffaare ke roze ke siwa tamaam roze sunnat hai. Agar kisi ne koi sunnat roza rakhne ki mannat maani to mannat pari karte hue roza rakhna waajib hai.",
+                "qa_pairs":[]
+
+            },
+            {
+                "sub_category":"Etikaaf ka bayaan",
+                "introduction":"Allah tala ki qurbat haasil karne ki niyyat se namaaz ki tumaneenat ki miqdaar se ziyaada waqt masjid main rahna Etikaaf kahlaata hai aur Etikaaf sunnat hai mannat manne se hi waajib ho jaata hai. Etikaaf kabhi bhi kiya ja sakta hai albatta  shabe qadr ki justuju main ramzaan ke aakhiri ashre main Etikaaf karne ka hukm takeed ke saath aaya hai.",
+                "qa_pairs":[
+                    
+                    {
+                        "Suwaal": "Etikaaf ke Arkaan kya hain?",
+                        "Jawaab": "Etikaaf ke Arkaan chaar hain (1) Etikaaf karne waala shakhs (2)Etikaaf karne ki jagah (3) Etikaaf ki niyyat (4)namaaz ki tumaneenat ki miqdaar se ziyaada waqt theherna. aur Etikaaf karne waale shakhs ka musalmaan hona, aaqil yani samjhdaar hona, haiz wa nifaas ki haalat main na hona aur janaabat se paak hona sharth hai jagah main shart hai ke wo masjid ho yani ghar main Etikaaf durust nahi. Masala:Etikaaf ki 6 qismein hai (1) mutlaq sunnat Etikaaf (2) mutlaq farz Etikaaf (3)muqayyad mutataabi farz Etikaaf (4)muqayyad mutataabi sunnat Etikaaf (5) muqayyad gair mutataabi farz Etikaaf(6) muqayyad gair mutataabi sunnat Etikaaf. Masala:mutlaq Etikaaf wo Etikaaf hai jis main 10 din ya ek din ya 1 hafta is tarah ki koi muddat ki qaid na ho aur agar muddat ki koi qaid ho to wo muqayyad Etikaaf  kahlata hai aur muqayyad aur mutlaq donon Etikaaf kabhi farz ho jate hai aur kabhi sunnat, Etikaaf ki mannat mani gayi hai to wo farz Etikaaf hoga warna sunnat, muqayyad Etikaaf kabhi mutataabi banta hai aur kabhi gair mutataabi, mutataabi ka matlab muddat mu’ayyan main musalsal Etikaaf ki niyyat karna aur gair mutataabi Etikaaf wo Etikaaf jis main tasalsul ki niyyat na ki gae ho."
+                    },
+                    {
+                        "Suwaal": "Etikaaf ki niyyat kya hai?",
+                        "Jawaab": "agar Etikaaf sunnat mutlaq hai to niyyat kare sunnat Etikaaf ki niyyat main ne ki aur agar farz mutlaq hai to niyyat kare farz Etikaaf ki niyyat main ne ki aur agar Etikaaf sunnat muqayyad mutataabi ho to niyyat kare fulaan muddat  musalsal sunnat Etikaaf ki niyyat main ne ki, missal ke tour par ek hafta musalsal sunnat Etikaaf ki niyyat main ne ki aur agar Etikaaf farz muqayyat mutataabi ho to niyyat kare fulaan muddat musalsla farz Etikaaf ki niyyat main ne ki aur agar sunnat muqayyad gair mutataabi ho to niyyat yun kare fulaan muddat sunnat Etikaaf ki niyyat main ne ki aur agar farz muqayyad gair mutataabi ho to niyyat yun kare fulaan muddat farz Etikaaf ki niyyat main ne ki. Masala:farz muqayyad Etikaaf main mannat maante waqt tasalsul ki mannat na mani gayi ho to tasalsul waajib nahi aur agar tasalsul ki mannat mani gayi ho to tasalsul waajib hai hoga."
+                    },
+                    {
+                        "Suwaal": "kya masjid se baahar niklne se Etikaaf toot jaata hai?",
+                        "Jawaab": "mutlaq sunnat Etikaaf, msjid se niklte hi toot jaata hai agarcha sharayee uzr ki wajh se nikla ho jab ke lout aane ka azame musammam nahi kiya ho aur agar lout aane ka iraada ho to mutlaq Etikaaf nahi tutta yani dubaara masjid aane par niyyat ko duhraane ki zaroorat nahi aur muqayyad gair mutataabi Etikaaf qaza e haajat ke siwa kisi aur garz keliye nikalne se toot jaata hai jab ke dubaara lout aane ka pukhta iraada na ho warna nahi tutta aur agar Etikaaf musalsal ho to janaabat ke ghusl, qaza e haajat , izaala e najas aur khaana khane ke siwa kisi aur garz keliye niklne se tasalsul toot jaata hai albatta musalsal Etikaaf ki niyyat main jaaiz bamaqsad umoor ka istisna kiya ja sakta hai aur musalsal Etikaaf ka mutakif amre mustasna keliye masjid se nikaal sakta hai."
+                    },
+                    {
+                        "Suwaal": "aur kin umoor se Etikaaf toot jaata hai?",
+                        "Jawaab": "hambistari karne se Etikaaf tutu jaata hai agarcha mani na nikli ho yun hi aise mass se jis se wuzu toot jaata hai agar mani nikle to Etikaaf bhi toot jaata hai haath se mani nikaalne se bhi Etikaaf toot jaata hai agarcha biwi ke haath se ho, shahwat bhare manaazir ko dekhne se agar mani nikle to Etikaaf nahi toot jaata jab ke dekhne se inzaal hone ki a maanind  na ho warna Etikaaf toot jaayega haiz wa nifaas ke niklne se mutlaq Etikaaf toot jaata hai yun hi muqayyad Etikaaf bhi toot jaata hai jab ke pandra din ya us se kam muddat ka Etikaaf ho agar koi mutakif kufr bake ya koi aisa kaam kare jis se wo murtad ha jaaye to Etikaaf toot jaayega yun hi ta’addi ke sabab agar koi mutakif madhosh ya behosh ya paagal ho jaaye to Etikaaf toot jaayega. Note:Etikaaf ke baab main Etikaaf ke tutne ke 3 matlab hai, mutlaq Etikaaf ke tutne ka matlab Etikaaf se faarigh hana aur gair mutataabi muqayyad Etikaaf ke tutne ka matlab, uswaqt ka jis main hambistari wa gaira Etikaaf ko todne waali baat payi gayi ho Etikaaf main shumaar na hona yahan tak ke rukaawut zaail ho jaaye aur rukaawut ke zaail hone ke baad tajdeede niyyat se tutne se pehle waale Etikaaf par bina karte hue Etikaaf ko jaari rakha jaa sakta hai yani az sar nou Etikaaf karna zaroori nahi aur is tarah Etikaaf ko jaari rakhna mannat pari hone keliye waajib hai aur Etikaaf mutataabi ke tutne ka matlab, tasalsul ka munqti hona hai yani mutataabi Etikaaf agar mannat ka ho to rukaawut ke zaail hone ke baad az sar nou Etikaaf karna laazim hai is nuqte ko madde razar rakhte hue masaaile Etikaaf ko mutala kare. Masala:masjid main hi Etikaaf durust hai ghar main Etikaaf durust nahi agarcha use namaaz padhne keliye makhsoos kiya gaya ho agar ghar main Etikaaf karna hai to use masjid ki haisiyat se waqf karna padega jo masjid ki haisiyat se waqf kiya gaya ho use bechna najaaiz aur na durust hai is liye behtar hai ke koi qaaleen ya carpet wagairah ko zameen  par chipkaaye aur phir us carpet ya qaaleen ko masjid ki haisiyat se waqf kare is surat main wo carpet aur qaaleen majid ki haisiyat se waqf hoga. Ab wo masjid hai is liye us par Etikaaf karna durust hoga, is carpet ya qaaleen ko masjid si tazeem zaroori hogi haiz aur janaabat ki haalat main us par rahna na jaaiz wa haraam hoga aur agar Etikaaf ke baad us carpet ya qaaleen ko zameen  se ukheda jaaye to bhi wo masjid hi rahega is liye us ki behurmati najaaiz hai. Hajj aur umrah ka bayaan"
+                    }
+                ]
+            }
+        
+        ]
+    },
+    {
+        "category":"Hajj ka bayaan",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Hajj aur Umrah ka bayan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "hajj aur umrah kis par farz hai?",
+                        "Jawaab": "har musalmaan mukallaf aazaad mustati par umr main ek martaba hajj aur umrah farz hai. Kaafir, paagal, ghulaam ya baandi, naabaaligh aur ghareeb par hajj wa umrah farz nahi. Yun hi raah  main lut jaane ya darindy wa gaira ka khouf ho to bhi hajj farz nahi."
+                    },
+                    {
+                        "Suwaal": "hajj adaa karne ke kitne tariqe hain?",
+                        "Jawaab": "hajj adaa karne ke 4 tareeqe haih (1)ifraad (2) tamattu (3)qiraan aur (4) itlaaq, in main koi bhi tareeqah apna sakte hain lekin ifraad afza hai."
+                    },
+                    {
+                        "Suwaal": "ifraad kise kahte hain?",
+                        "Jawaab": "meeqaat se hajj ka ihraam bandh kar hajj adaa karein aur hajj se faarigh hone ke baad harame makka se baahar nikal kar umrah keliye ihraam bandhein  aur ye ifraad kahlaata hai."
+                    },
+                    {
+                        "Suwaal": "tamattu kise kahte hain?",
+                        "Jawaab": "miqaat se sirf umre ka ihraam bandhein    umrah adaa karne ke baad ihraam utar dein aur 8vein zil hijja ke din makka hi main hajj ka ihraam bandhein ye tamattu kahlaata hai."
+                    },
+                    {
+                        "Suwaal": "qiraan kise kahte hain?",
+                        "Jawaab": "meeqaat main hajj aur umrah ka ek saath ihraam bandhein phir hajj ke a’amaal ko adaa karein aur ye qiraan kahlaata hai."
+                    },
+                    {
+                        "Suwaal": "itlaaq kise kahte hain?",
+                        "Jawaab": "meeqaat se hajj wa umrah ki takhsees kiye bigair ihraam bandhein phir hajj aur umrah main se jise chaahe takhsees karein. Note:in main se Afzal ifraad phir tamattu hai aur muta’ayyan karna itlaaq se behtar hai, ifraad main hajj ke baad umrah na karna makrooh hai."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Faraaiz e hajj wa umrah ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "hajj ke faraaiz kitne hain? aur wo kya kya hain?",
+                        "Jawaab": "hajj ke faraaiz 6 hain (1) niyyat (2)arafah ka wuqoof (3)Tawaafe ifaaza (4)saeey (5)halq ya taqseer (6)aksar faraaiz ke darmiyaan tarteeb."
+                    },
+                    {
+                        "Suwaal": "faraaiz umrah kitne hain aur wo kya kya hain?",
+                        "Jawaab": "hajj ke faraaiz main se wuqoofe arafa ke siwa baqiya tamaam faraaiz umre ka bhi faraaiz hain."
+                    },
+                    {
+                        "Suwaal": "ihraam baandhna kise kahte hain?",
+                        "Jawaab": "hajj aur umrah ki niyyat ko ihraam baandhna kahte hain."
+                    },
+                    {
+                        "Suwaal": "ihraam baandhte waqt kya kya sunnatein hain?",
+                        "Jawaab": "ihraam baandhne se pehle ghusl karna, badan par khushbu lagaana, ihraam ki 2 rak’at namaaz padhna sunnat hai isi tarah sunnat hai ke mard aur aurat ihraam se pehle naakhun taraashein zere naaf aur baghal  ke baalon ko mundein aur auratein apne haathon main mehandi lagayein."
+                    },
+                    {
+                        "Suwaal": "ihraam ki 2 rak’at sunnat namaaz ki niyyat kya hai?",
+                        "Jawaab": "ihraam ki 2 rak’at sunnat namaaz ki niyyat yun hai ” أُصَلِّیْ سُنَّۃَ الْإِحْرَامِ رَکْعَتَیْنِ مُتَوَجِّہًاإِلَی الْقِبْلَۃِ أَدَاءً لِلہِ تَعَالٰی”(ihraam ki sunnat namaaz 2 rak’at adaa Allah taa’ala ke waaste qibla rukh ho kar padhta hum)"
+                    },
+                    {
+                        "Suwaal": "hajj aur umrah keliye kis tarah ihraam baandhein?",
+                        "Jawaab": "namaaz padhne se pehle hi iharaam ka kapda pehne phir ihraam ki 2 rak’at padhein namaaz padhte waqt topi wagairah se sar dhankna sunnat hai. 2 rak’at ihraam ki sunnat ke baad sar khole phir hajj ki niyyat karein niyyat dil ke pukhta iraada ka naam hai isliye dil main pukhta iraada kiye bigair sirf zubaan se niyyat ke alfaaz ko dohraane se niyyat nahi hogi albatta dil main niyyat karne se pehle zubaan se niyyat ke alfaaz ko dohraana mustahab hai is liye pehle zubaan se niyyat ke alfaaz ko doraayein phir dil main niyyat karein. Hajj ki niyyat ye hai  “نَوَیْتُ الْحَجَّ وَأَحْرَمْتُ بِہٖ لِلہِ تَعَالٰی”(main ne hajj ki niyyat ki aur us ka ihraam baandha Allah ta’ala ke waaste) phir kahein لَبَّیْکَ اللّٰہُمَّ بِحَجَّۃٍ  لَّبَّیْکَ‘ لَبَّیْکَ لَاشَرِیْکَ لَکَ لَبَیْکَ‘ إِنَّ الْحَمْدَ وَالنِّعْمَۃَ لَکَ وَالْمُلْکَ‘ لَاشَرِیْکَ لَکَ Umrah keliye ihraam baandh rahaa ho to yun kare نَوَیْتُ الْعُمْرَۃَ وَأَحْرَمْتُ بِہَا لِلہِ تَعَالیٰ‘‘phir kahe ’’لَبَّیْکَ اللّٰہُمَّ بِعُمْرَۃٍ  لَّبَّیْکَ‘ لَبَّیْکَ لَاشَرِیْکَ لَکَ لَبَیْکَ‘ إِنَّ الْحَمْدَ وَالنِّعْمَۃَ لَکَ وَالْمُلْکَ‘ لَاشَرِیْکَ لَکَ Niyyat aur talbiyya ke baad Duroode ibarhimi padhein, phir padhein وَالسَّلَامُ عَلَیْکَ أَیُّہَا النَّبِیُّ وَرَحْمَۃُ اللہِ وَبَرَکَاتُہُ تَعَالٰیphir niyyat ke baad jo talbiya padha gaya ho use dubaara padhein phir kahein اَللّٰہُمَّ إِنِّیْ أَسْئَلُکَ رِضَاکَ وَالْجَنَّۃَ وَأَعُوْذُ بِکَ مِنْ سَخَطِکَ وَالنَّارِ‘اَللّٰہُمَّ لَکَ أُحَرِّمُ نَفْسِیْ وَشَعْرِیْ وَبَشَرِیْ وَلَحْمِیْ وَدَمِیْ phir hajj ke iharaam main dua Karein اَللّٰہُمَّ إِنِّیْ نَوَیْتُ الْحَجَّ فَأَعِنّٖی عَلَیْہِ وَتَقَبَّلْہٗ مِنِّیْ umre main yun kare اَللّٰہُمَّ إِنِّیْ نَوَیْتُ الْعُمْرَۃَ فَأَعِنّٖی عَلَیْہَا وَتَقَبَّلْہَا مِنِّیْ."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Wuqufe arafa",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "wuqoof ka kya matlab hai?",
+                        "Jawaab": "navvi zilhijja ke roz suraj ke zawaal ke baad kam se kam ek lahza maidaane arafa main rahne ko arafa ka wuqoof kahte hain."
+                    },
+                    {
+                        "Suwaal": "wuqoofe arafa ka waqt kab se kab tak hai?",
+                        "Jawaab": "yaume arafa yani navvi zillhijja ke zawaal se le kar yaume nahr (yani dasvi zillhijja) ke fajre swaadiq tak wuqoofe arafa ka waqt hai. shabe eid ke ghuroobe aaftaab tak theherna aur ghuroobe aaftaab ke baad muzdalifa keliye rawaana hona sunnat hai. haan agar koi ghuroobe aaftaab se pehle hi maidaane arafa se nikal jaaye to dam dena masnoon hai."
+                    },
+                    {
+                        "Suwaal": "arafa ke din ke aamaal tahreer farmaiye?",
+                        "Jawaab": "arafa ke din zawaal ke baad arafa ke ghusl ki niyyat se ghusl karein waqte zuhr se pehle hi kuch der zikre ilaahi main masroof ho jaaye aur jab arafa main zuhr ki azaan ho to  musaafir namaaze zuhr qasran adaa kare aur us ke saath hi qasran namaaze asr bhi adaa kare (is tarah namaaze asr ko zuhr ke waqt padhna jam’a taqdeem kahlaata hai) wuqoofe arafa ke douran talbiyah padhte rahein aur dua karte rahein. Sunnat hai ke mard baa aawaaze buland aur aurat dheeme se talbiya kahein."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Tawaaf ka tareeqah",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "Tawaafe ifaaza ka waqt kab se shuru hota hai?",
+                        "Jawaab": "shabe eid ki aadhi raat guzarne se Tawaafe ifaaza ka waqt shuru hota hai."
+                    },
+                    {
+                        "Suwaal": "Tawaaf ka tareeqah bayaan kijiye.",
+                        "Jawaab": "baabe salaam se mataaf main   daakhil  ho jaayein to hajare aswad ke qareeb pahunchein. bheed na ho to hajare aswad ka boosa lein us par peshaani rakhein aur us par haathon ko pherein phir haathon ka bosa lein us waqt 3 martaba “بِسْمِ اللہِ وَاللہُ أَکْبَرْ” kahein. bheed hone ki surat main hajare aswad par peshaani na rakhein aur na hi us ka bosa lein us ko haath se chhu kar haath ka boosa lein aur agar haath bhi na laga sakein to hajare aswad ki taraf haathon se ishaara karein aur haathon ka bosa lein. Phir peeche hatein aur is tarah khade ho jaayein ke rukh qible ki taraf ho aur hajare aswad daaein jaanib ho phir Tawaaf ki niyyat karein”نَوَیْتُ طَوَافَ الْإِفَاضَۃِ لِلہِ تَعَالیٰ”yani main ne Allah ta’ala ke waaste tawaafe ifaaza ki niyyat ki. Yaad rahe ke hajj aur umre ke Tawaaf ki niyyat sunnat hai. Agar koi Tawaafe widaa wagairah dusre Tawaaf kar raha ho to niyyat zaroori hai warna Tawaaf durust nahi hoga. Phir kaabe ki taraf 3 martaba ishaara karte hue donon haathon ko utha kar “بِسْمِ اللہِ وَاللہُ أَکْبَرْ” kahein phir haathon ka bosa lein. Us ke baad is tarah ghoom jaayein ke bayaan kandha kaabe ki taraf ho phir kaabe ka is tarah chakkar lagaayein ke mukammal chakkaron main bayaan kandha kaabe ki taraf ho. Har chakkar main hajare aswad ke paas aayein to us ka bosa lein ya us ko haath lagayein ya haath se ishaara karein aur “بِسْمِ اللہِ وَاللہُ أَکْبَرْ” kahein. Dourane Tawaaf dua Karein, hadees main aayi hue dua behta hai. dourane Tawaaf haathon ko seene ke neeche bandhein lekin jab dua karni ho to haathon ko uthaein. Dourane Tawaaf jab bhi rukne yamaani ke paas paunchein to use haath laga kar haath ko chumein aur agar haath laga nahi sakein to us ki taraf ishaar karein aur haath choomein aur agar asaa jaisi cheez se isharah kiya gaya ho to use choomein albatta rukne yamaani ko na chumein. Tawaaf karte waqt sukoon wa itminaan ke saath chalna sunnat hai aur jis Tawaaf ke baad saeey matloob ho us main mard ka pehle 3 chakkaron main raml karna yaani nazddeek nazdeek qadam rakh kar chalna sunnat hai aur isi tarah jis Tawaaf ke baad saeey ho us main mard ka apni chaadar seedhe kaandhe ke neeche kar ke us ke donon kinaare baaein kandhe par daalna sunnat hai. Duraane tawaaf tilaawate quraan aur dua karna sunnat hai. baade Tawaaf maqaame ibaraaheem ke peechhe 2 rak’at namaaze Tawaaf padhna sunnat hai aur us ki niyyat yun karein”أُصَلِّی سُنَّۃَ الطَّوَافِ لِلہِ تَعَالیٰ”yani Tawaaf ki 2 rak’at sunnat namaaz Allah ta’ala ke waaste padhta hum.haan agar maqaame Ibraaheem ke paas jagah na mile to masjid main jahan jagah mile wahan namaaz padhein. Tawaaf ke baad hajare aswad ka bosa lein, zamzam ka paani piyein aur thoda paani sar par dalein."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Saeey ka tareeqah",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "saeey ka waqt kya hai?",
+                        "Jawaab": "Tawaafe ifaza ya Tawaafe qudoom in 2 tawafon main se kisi bhi ek Tawaaf ke baad saeey kar sakte hain."
+                    },
+                    {
+                        "Suwaal": "saeey ka tareeqah kya hai?",
+                        "Jawaab": "namaaze Tawaaf ke baad hajare aswad ka bosa lein. Zamzam piyein us ke baad’ saeey keliye baabe safa se niklein phir safa par ek aadmi ke qad ke baraabar chadh kar kaabe ki  taraf rukh Karein phir saeey ki niyyat karein (khatoon safa par na chade) phir kahein “بِسْمِ اللہِ وَاللہُ أَکْبَرْ” aur donon haath utha kar 3 bar “اَللہُ أَکْبَرْ” kahein phir wahan se marwa ki taraf jaayein, marwa par bhi aadmi ke qad ke baraabar chadh kar kaabe ka mushahada karein (marwe se kaabe ka mushahada karna fizzaman mumkin nahi) mard hazraat darmiyaan e saeey raml Karein aur jis jagah ramal sunnat hai us ki nishaandahi ki gayi hai."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Halq wa taqseer",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "halq wa taqseer ke bare main tahreer famaiye.",
+                        "Jawaab": "halq ya taqseer hajj aur umrah main ek rukn hai. Halq (sar ke baal mundhaana) mard keliye behtar hai. Aurat keliye taqseer (baal kaatna)hai. Sar ke kam az kam 3 baal nikalna farz hai. Dadhi wagairah ke baal ko nikaalna kaafi nahi. Hajj main baal mundaane ka maqaam mina main aqabah ke paas hai aur umrah main saeey karne ke baad hai lekin haaji ka 13vi zillhijja tak nahi mondaana makrooh hai. Baal nikaalte waqt qibla rukh hon. Aurat dahine kaan ke upar ke baal katein aur mard baal mundaana daahini jaanib se shuru karein aurat keliye  mundaana mana hai. Halq ya taqseer ke baad takbeer kahna sunnat hai. Hajj main sunnat hai ke halq ya taqseer jamrahe aqaba ke rami ke baad karein."
+                    },
+                    {
+                        "Suwaal": "agar kisi ke sar main baal na ho to kya kare?",
+                        "Jawaab": "agar kisi ke sar main baal nah on to sunnat hai ke wo sar par ustra phiraaye."
+                    }
+
+                ]
+            },
+            {
+                "sub_category":"Waajibaat e hajj wa umrah",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "hajj main Arkaan ko tarteeb se kis tarah adaa kare?",
+                        "Jawaab": "tamaam Arkaan se pehle ihraam ki niyyat Karein, Tawaaf aur halq se pehle arafa main wuqoof karein, saeey se pehle Tawaaf karein( ye Tawaafe qudoom bhi ho sakta hai yani Tawaafe ifaza hi hona zaroori nahi) Masala:halq aur Tawaaf ke darmiyaan tarteeb nahi hai. Halq se pehle hi Tawaaf aur Tawaaf se pehle halq aur Tawaafe ifaza aur halq donon se pehle saeey ki jaa sakti hai albatta tawaaf’ saeey se pehle hona laazim hai lekin saeey se pehle tawaaful ifaza hi hona zaroori nahi balke Tawaafe qudum bhi kaafi hai. Hajj o umrah ke waajibaat:"
+                    },
+                    {
+                        "Suwaal": "waajibaate hajj kya hai?",
+                        "Jawaab": "waajibaate hajj 5 hain (1)meeqaat main ihraam baandhna (2)shabe eid ke nisfe saani main maidaane muzdalifah main raat guzaarna (3)ayyaame tashreeq ki raaton main mina main raat guzaarna (4)rami karna (5)Tawaafe widaa karna."
+                    },
+                    {
+                        "Suwaal": "waajibaate umrah kya hai?",
+                        "Jawaab": "waajibaate umrah 2 hain. (1)meeqaat main ihraam baandhna (2)tawaafe widaa karna Masala:meeqaat ki 2 qismein hain (1)meeqaate zamani(2) meeqaate makaani Meeqaate zamaani : hajj keliye shawwal ke aagaaz se le kar 10vi zill hijja ki fajr tak hai aur umrah keliye saal bhar hai. Meeqaate makaani :wo makaan hai jahaan se hajj wa umrah keliye ihraam baandhna waajib hai."
+                    },
+                    {
+                        "Suwaal": "agar koi hajj ke mahinon ke siwa dusre mahine main hajj keliye ihraam baandhe to kya hukm hai?",
+                        "Jawaab": "hajj durust nahi hoga is liye wo umrah ho jaayega."
+                    },
+                    {
+                        "Suwaal": "meeqaate makaani ke baare tahreer kijiye.",
+                        "Jawaab": "meeqaate makaani wo jagah hai jahaan se ihraam baandhna waajib hai makka ke muqeem keliye hajj ki meeqaat makka hi hai aur us ke umara ki meeqaat khaarije haram hai behtar hai ja’arana main ho phir tan’eem main hai phir hudabiyya main hai. Gair makki keliye hajj wa umrah ki miqaat 5 hain (1)zul hulaifa :madeene ke jaanib se aane waale keliye (2)juhfa:sham, misr aur maghrib ke jaanib se aane waale keliye. (3)qarnul manaazil: najd wa hijaaz (riyaz) aur najde yaman ke jaanib se aane waale keliye. (4)zatu irq: Iraq aur khurasaan ke jaanib se aane waale keliye. (5)yalamlam: yaman ke tihaama se aane waale keliye. Hamare Hindustan se hajj wa umrah keliye jaane waale ki meeqaat bhi yalamlam hai. Masala:apne watan ke iraade ya kam az kam 132 kg ke faasile ka safar karne ke iraade se makka se nikalne waale par Tawaafe widaa waajib hai. Muharramaate hajj wa umrah:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Muharramaat e ihraam",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "ihraam baandhne ke baad kaun kaun se umoor naajaaiz hain?",
+                        "Jawaab": "chand umoor ihraam bandhne se mamnu wa haraam ho jaate hain (1)ham bistari karna (2)shahwat ke saath biwi se milna (3)mushtzani karna agarcha beevi ke haath se ho (4) nikaah (5)khushbu lagaana (6)baalon main tel lagaana (7)bigair uzr ke badan ke kuch ya mukammal baalon ko nikaalna (8) nakhun kaatna(9)mard ka sila hua kapda pehnna (10) mard ka sar ko chupaana (11) aurat ka chehrah chupaana (12) kisi khushki ke jaanwar ya parinde ka shikaar karna. Kaffaara aur fidya:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Kaffaara aur fidyah",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "agar koi shakhs haalat e ihraam main nikaah kare ya karwaye to kya kaffaara waajib hai?",
+                        "Jawaab": "nikah baatil hoga aur kaffaara lazim na aayega lekin gunaahgaar ho jaayega. Masala:agar koi shakhs haalate ihraam main tahallule awwal se pehle jimaa kare to us ka hajj baatil hoga aur kaffaara bhi dena hoga aayinda saal main hajj ki qaza bhi karni hogi. Jimaa ke zaree’e hajj ko baatil karne waale ka kaffaara ye hai ke 5 saal ka ek unt zabah kare aur agar unt na mile to gaye agar gaye na mile to 7 bakriyan zabah kare aur agar bakriyan bhi na mile to unt ki qeemat se anaaj khareed kar haram ke faqeeron ko taqseem kare aur agar us ke paas unt ki qeemat ke jitney paise na hon to us ki qeemat se milne waale anaaj main jitney mudd anaaj khareede ja sakte hain utne roze rakhe."
+                    },
+                    {
+                        "Suwaal": "nikaah aur hambistari ke siwa muharramaate ihraam ke irtikaab par kya diya jaayega?",
+                        "Jawaab": "agar koi khushki ke jaanwar ka shikaari kare to waajib hai ke shikaar ke maanind jaanwar zabah kare jaise ke hiran ke badle bakri aur shutrmurg ke badle unt aur jangali gadhe ke badle gaye ki qurbaani kare ya us jaanwar ki qeemat se anaaj khareed kar khairaat kare ya us qeemat se milne waale anaaj main jitney mudd anaaj khareede ja sakte hain utne roze rakhein. Deegar muharramaat ke murtakib ko waajib hai ke wo 2 saal ki ek bakri ya ek saal ki ek bhed zabah kare ya 3 roze rakhe ya 3 swa anaaj khairaat kare."
+                    },
+                    {
+                        "Suwaal": "ihraam ki wajh se jo umoor na jaaiz hue the wo kab jaaiz honge?",
+                        "Jawaab": "halq, Tawaafe ifaaza  saeey ke saath aur eid ke din ki sangsaari in teenon baaton main se kisi 2 ki adaaigi se tahallule awwal aur teenon ki adaaegi se tahallule saani ho jaata hai. Tahallule sani ke baad hambistari jaaiz hai albtta sunnat hai ke ayyame tashreeq ke guzarne tak hambistari se parhez kare. Masala:waajibaat ki talaafi ho jaati hai Arkaan ki nahi. Agar koi hajje tamattu ya hajje qiraan kare ya waajibaate hajj main se koi ek waajib tark kare to us par dam dena waajib hoga yani ek bakri 2 saal ki ya 1 bhed ek saal ki zabah kijaayegi agar bakri ya bhed na mile ya us ke paas itni qeemat na ho ya us ke paas itni qeemat na ho to 10 roze rakhe, ho sake to 3 roze hajj ke zamaane main yani chatti 7vi aur 8vi zill hijja ko rakhe, haan agar in tareekhon main roze rakhne ka ittifaaq na bane to 3 roze  ayyaame tashreeq ke baad rakhe aur 7 roze apne watan main pahunchne ke baad rakhe. Agar koi shakhs pehle 3 roze hajj ke zamane main ya ayyame tashreeq ke baad na rakh sake to watan  main pahunchne ke baad un 3 rozon ki qaza is tarah rakhe ke 3 rozon aur 7 rozon ke darmiyaan faasila ho."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Nabi ﷺke rouza e aqdas ki ziyaarat",
+                "introduction":"Shafi e rooze jaza ahmad mujtaba sayyiduna wa mulaana Mustafa ﷺke rauza e mubaarak ki ziyaarat karna har muslmaan mard aur aurat par khwa hajj kiya ho ya na kiya ho sunnate muakkadah hai aur ahaadeese saheeha main us ki bahut si targheeb wa fazeelat waarid hue hai jis shakhs ko aap ke rouza e mutahhar ki ziyaarat naseeb ho us ko deen aur dunya ki sa’ maanind  mandi haasil hogi aur rasoolullah ﷺne farmaaya jis shakhs ne meri ziyaarat ki paas mujh par us ki shafaa’at waajib hue. Qurbaani ka bayaan",
+                "qa_pairs":[]
+            }
+                
+        ]
+    },
+    {
+        "category":"Qurbaani ke masaail",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Qurbaani ka Bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "uzhiyyah (qurbaani) kise kahte hain",
+                        "Jawaab": "eidul azha aur ayyaame tashreeq main riza e ilaahi keliye makhsoos jaanwaron ko zabah karna uzhiyyah kahlata hai."
+                    },
+                    {
+                        "Suwaal": "qurbaani ka kya hukm hai?",
+                        "Jawaab": "qurbaani par istitaa’at rakhne waale har muslmaan aaqil wa baaligh Rasheed azaad par qurbaani sunnate muakkadah hai qurbaani, nafli sadaqe se Afzal hai. Istitaa’at ke baawujood qurbaani na karna baa’ese karaahat hai.ahle khaanah par qurbaani batoure kifaaya sunnate muakkadah hai yani ek ghar main ek se ziyaada aise log hon jin par qurbaani ka mutaalaba ho to un main se kisi ek ki taraf se qurbaani karne se ghar ke tamaam logon ka mutaalaba saaqit hoga yani baqiya logon ka qurbaani na karna makrooh nahi hoga. Albatta sawaab sirf qurbaani jis ki taraf se ho rahi ho usi ko milega is liye behtar hai ke har koi apni taraf se qurbaani kare."
+                    },
+                    {
+                        "Suwaal": "qurbaani ka waqt bayaan kijiye?",
+                        "Jawaab": "qurbaani ka waqt eidul azha ke din tulu e aaftaab ke baad mukhtasar 2 khutbe aur mukhtasar 2 rak’at namaaz padhne ka waqt guzarne par shuru hota hai phir wo waqt 13vein zil hijja ke ghuroobe aaftab tak rahta hai. Qurbaani ka Afzal waqt sooraj ke ek neza bulnd ho jaane aur namaaz eid adaa karne ke baad shuru hota hai."
+                    },
+                    {
+                        "Suwaal": "istitaa’at ka kya matlab hai?",
+                        "Jawaab": "apne aur apne ahl wa ayaal ke eid ke din aur raat ki haajat e asliyah se ziyaada itna maal ho jis se ek jaanwar kharid sake ya kisi bade jaanwar ki qurbaani main shareek ho sake use istitaa’at kahete hai. Masala:qurbaani karne waale keliye sunnat hai ke wo zill hijja ki pehli tareekh se qrubani karne tak badan ke baal aur Naakhun ko na nikaale. Qurbaani karne ka iraada karne waale ka Zil hijja ki pehle tareekh se baal aur Naakhun nikalna makrooh hai. Masala:mard apni qurbaani ke jaanwar ko khud zabah kare jab ke wo khud achchi tarah zabah kar sakta ho warna kisi dusre mard ko wakeel banaaye. Aurat par sunnat hai ke apni qurbaani ke jaanwar ko zabah karne keliye kisi mard ko wakeel banaaye agarchah wo khud achchi tarah zabah kar sakti ho. Kisi dusre ko wakeel banane ki soorat main qurbaani karte waqt muwakkil ka qurbaani ki jageh par  haazir hona aur qurbaani ko dekhna sunnat hai."
+                    },
+                    {
+                        "Suwaal": "kya baap ka apne bete ki taraf se qurbaani karna durust hai?",
+                        "Jawaab": "ji haan! Baap apne naabaaligh, naasamajh, ya gair Rasheed bete ki taraf se qurbaani kar sakta hai aur aaqil,baaligh aur Rasheed bete ki taraf se us ki ijaazat ke bigair qurbaani nahi kar sakta. Albatta naabaaligh bachche ke maal se qurbaani karna na jaaiz wa haraam hai is liye baap agar ksi naabaaligh bete ki taraf se qurbaani karna chahe to wo apne hi maal se qurbaani kare. Aur agr naabaaligh ya naasamajh bachche ki taraf se baap qurbaani kare to bachche ko qurbaani ka sawaab aur baap ko hibah ka sawaab milega. naabaaligh bachche aur majnoon aulaad ki taraf se baap aur daada ke siwa kisi dusre shakhs ka qurbaani karna durust nahi. haan agar baap daada ki ijaazat ho to qurbaani durust hai."
+                    },
+                    {
+                        "Suwaal":"huzoor ﷺ ki taraf se qurbaani karna kisa hai?",
+                        "Jawaab":"huzoor ﷺ ki taraf se qurbaani karna durust nahi kunke huzoor ﷺ ki taraf se na us ki ijaazat hai na hi wasiyyat hai haan ek shakhs apni taraf se qurbaani karne ke baad us ka sawaab huzoor ﷺ ki bargaah main pesh kar sakta hai aur us ko isaale sawaab kahte hain."
+                    }
+                ]
+            },
+            {
+                "sub_category":"Qurbaani ke jaanwar ka bayaan",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kin kin jaanwaron ki qurbaani durust hai?",
+                        "Jawaab": "unt, Gaaye, bhains, bakri aur bhed ki qurbaani durust hai.Qurbaani keliye unt ki umr 5 saal mukammal aur bakre, gaaye aur bhains ki umr 2 saal mukammal aur dunbe ki umr ek saal mukammal hona zaroori hai albatta wo dunbah jis ke daant gir chuke ho to 6 mahine ka hona kaafi hai."
+                    },
+                    {
+                        "Suwaal":"ek jaanwar ki qurbaani main kitne log shareek ho sakte hain?",
+                        "Jawaab":"ek bakri main ek hi shakhs ki taraf se qurbaani ho sakti hai isi tarah mendhe aur dunbe main bhi ek hi shakhs ki taraf se saheeh hogi.is main ek se ziyaada afraad shareek hone par kisi ki qurbaani nahi hogi. Gaaye, bhains aur unt main 7 afraad shareek ho sakte hain aur 7 se ziyaada afraad shareek ho to kisi ki taraf se qurbaani nahi hogi.haan agar ek bakri ki qurbaani ke sawaab main apne saath ek se ziyaada afraad ko shareek karle to koi muzaaiqah nahi yun hi bade jaanwar ki qurbaani ke sawaab main 7 se ziyaada afraad ko shareek kar sakte hain. Masala: sab se Afzal ye hai ke ek shakhs 7 bakriyon ki qurbaani kare phir ek unt phir ek gaaye phir ek bhed phir ek bakra phir unt ka saatwa hissa phir gaaye ka satwa hissa." 
+
+                    },
+                    {
+                        "Suwaal": "kya bigair than waale jaanwar ki qurbaani ho sakti hai?",
+                        "Jawaab": "ji haan! bigair than waale jaanwar ki qurbaani ho sakti hai jab ke paida hi bigair than se hua ho."
+                    },
+                    {
+                        "Suwaal": "kya bigair dum aur bigair kulhe ke paida hue jaanwar ki qurbaani ho sakti hai?",
+                        "Jawaab": "ji haan! bigair dum aur bigair kulhe ke paida hue jaanwar ki qurbaani ho sakti hai."
+                    },
+                    {
+                        "Suwaal": "haamilah aur khaarish zuda jaanwar ki qurbaani ho sakti hai?",
+                        "Jawaab": "ji nahi! Haamilah aur kharish zudah jaanwar ki qurbaani nahi ho sakti kunke hamal ki wajh se gosht kam ho jaata hai aur khaarish zudah ke gosht main bigaad paida hota hai."
+                    },
+                    {
+                        "Suwaal": "kya us jaanwar ki qurbaani ho sakti hai jis ka kaan cheera hua ho ya kaan par kisi qism ki kharaash aayi ho?",
+                        "Jawaab": "ji haan! Kaan cheere hue ya kaan par kharaash aaye jaanwar ki qurbaani ho jaati hai. jabke kaan ka koi hissa juda na hua ho . haan agar kaan se kuch hissa nikal gaya ho to us jaanwar ki qurbaani nahi hogi. Masala:dubla, andha, kaana, langda, khaarish waala, aisa beemaar jaanwar jis ka gosht ghat gaya ho ya kharaab hua ho aur wo jaanwar jis ka kaan, dum, than,ya kulha kata ho us ki qurbaani durust nahi hoti. Isi tarah us jaanwar ki qurbaani durust nahi hogi jo bigair kaan ke paida hua ho."
+                    },
+                    {
+                        "Suwaal": "agar kisi ne aib waale jaanwar ki qurbaani karne ki mannat maani to kya kare?",
+                        "Jawaab": "us par waajib hai ke us jaanwar ko qurbaani ke ayyaam main zabah kare take mannat puri ho albatta us se qurbaani ki talab saaqit nahi hogi us keliye use ek saheeh salaamat jaanwar ki qurbaani karni hogi."
+                    },
+                    {
+                        "Suwaal": "qurbaani ka jaanwar kis rang ka ho?",
+                        "Jawaab": "qurbaani ka jaanwar kisi bhi rang ka ho sakta hai. Sufed rang ka jaanwar behtar hai phir pila phir khaakistari phir surkh phir siyaahsufed dhabbe waala phir siyaah."
+                    },
+                    {
+                        "Suwaal": "qurbaani ka jaanwar kaisa ho?",
+                        "Jawaab": "qurbaani ka jaanwar sing waala, mota taaza, behtareen rang waala aur dekhne waalon ko baarbaar dekhne ki raghbat paida karne waala hona afazal hai."
+                    },
+                    {
+                        "Suwaal": "kya sing toote hue jaanwar ki qurbaani durust hoti hai?",
+                        "Jawaab": "ji haan! Sing toote hue jaanwar ki qurbaani durust hoti hai lekin makrooh hai."
+                    },
+                    {
+                        "Suwaal": "kya khassi jaanwar ki qurbaani durust hai?",
+                        "Jawaab": "ji haan!  Khassi jaanwar ki qurbaani durust hai. balke kasrat se jufti karne waale gair khassi jaanwar se khassi jaanwar behtar hai. Masala:ek bade jaanwar main baaz qurbaani ki niyyat se, baaz aqeeqe ki niyyat se, baaz sadaqe ki niyyat se aur baaz mehez gosht keliye is tarah mukhtalif niyyaton se shareek ho sakte hain is se qurbaani ki durustgi main koi farq nahi aayega. Gosht ke masaail:"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Gosht ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "kya waajib qurbaani ke gosht main se kuchh qurbaani karne waala khaa sakta hai?",
+                        "Jawaab": "ji nahi! waajib qurbaani ke gosht main se qurbaani karne waala khud kuch bhi khaa nahi sakta . pure ka pura gosht swadaqah karna waajib hai yahan tak ke sing ya khur."
+                    },
+                    {
+                        "Suwaal": "agar qurbaani karne waala waajib qurbaani ke gosht main se khaa le to?",
+                        "Jawaab": "jitna gosht khaaya ho utni miqdaar gosht khareed kar kis faqeer ko dena waajib hai."
+                    },
+                    {
+                        "Suwaal": "sunnat qurbaani main se kitna gosht le sakta hai?",
+                        "Jawaab": "sunnat qurbaani main se thoda kaccha gosht fuqara ko dena kaafi hai. Baaqi tamaam gosht, qurbaani karne waala khud apne istimaal keliye rakh sakta hai. Lekin behtar hai ke tamaam gosht ko fuqara main taqseem kiya jaaye albatta sunnat hai ke barkat keliye thoda gosht khud rakhe aur rakhe jaane waala gosht kaleeja ho phir behtar hai gosht ke 3 hiisse kare ek hissa khud rakhe aur 2 hisse faqeeron ko de phir behtar hai ek hissa khud rakhe ek hissa Azeez wa aqaarib main de aur ek hissa faqeeron main de."
+                    },
+                    {
+                        "Suwaal": "kya sunnat qurbaani main se fuqara ko sirf tilli ya kaleeja dena kaafi hai?",
+                        "Jawaab": "ji nahi! Kyunke tilli aur kaleeje ka shumaar gosht main nahi hota. Masala:gosht pakaa kar faqeeron ko daawat di to ye kaafi nahi hoga kyunke is main faqeer gosht ka maalik nahi banta. Masala:waajib qurbaani ka tamaam gosht fuqara main taqseem karna waajib hai. Madrase main nahi diya ja sakta. Masnoon qurbaani ka gosht madrase wagairah main diya ja sakta hai. Maaldaar ahbaab ko  khilaya ja sakta hai. Qurbaani karne waala khud apne istimaal keliye rakh sakta hai. Qurbaani karne waala qurbaani ke gosht ko bech nahi sakta faqeer ko mila hua gosht faqeer bech sakta hai jab ke khareedne waala musalmaan ho agarch maaldaar ho. Masala:aam log masnoon qurbaani ki khalein madrase main de dete hain ke ye jaaiz hai lekin madrase ke zimmedaraan bech nahi sakte balke paani ke bartan, chappal wagairah bana kar madrase main istimaal kar sakte hain. Masala:mayyit ki wasiyyat ke bigair mayyit ki jaanib se qurbaani karna durust nahi. haan wasiyyat ho to qurbaani durust hogi lekin mayyit ki jaanib se ki hue qurbaani ke gosht ko qurbaani karne waale ka khana jaaiz nahi tamaam ke tamaam gosht ko fuqara main taqseem karna waajib hoga."
+                    },
+                    {
+                        "Suwaal": "agar kisi ne kisi jaanwar ki taraf ishaara karte hue kaha “mujh par Allah keliye is jaanwar ki qurbaani karna hai” to kya hukm hai?",
+                        "Jawaab": "agar kisi ne ek jaanwar ki jaanib ishaara karte hue ye kaha ke mujh par Allah keliye is jaanwar ki qurbaani karna hai to nazar poori karte hue us jaanwar ki qurbaani karna waajib hoga. Agar zabah ka waqt nikal jaaye tab bhi bature qaza qurbaani karna laazim hoga. Jaanwar waqt se pehle hi halaak ho jaaye to us par koi zimma dari aaid nahi hogi jab ke us ki koi kotaahi na ho aur agar us ki kotaahi se halaak ho gaya ho to us jaanwar ke badle dusre jaanwar ki qurbaani karna waajib hoga."
+                    },
+                    {
+                        "Suwaal": "agar koi qurbaani ki mannat maane ke mujh par Allah keliye qurbaani karna hai to kya hukm hai?",
+                        "Jawaab": "agar koi apne zimme main qurbaani ki mannat maane ke mujh par Allah keliye qurbaani karna hai phir wo kisi jaanwar ko tayyun kare to us par laazim hoga ke apni mannat puri karne keliye us jaanwar ki qurbaani kare. Agar waqt nikal jaaye to batoure qaza qurbaani kare. haan agar wo zae’a ho jaaye to us ke badle dusre jaanwar ko zabah karna waajib hoga. Agarccha bigair kisi Kotahi ke waqt se pehle hi zae’a ho jaaye. Aqeeqe ke masaail"
+                    }
+
+                ]
+            }
+        
+
+        ]
+    },
+    {
+        "category":"Aqeeqe ke masaail",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Aqeeqe ke masaail",
+                "introduction":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "aqeeqah kise kahte hain?",
+                        "Jawaab": "bachcha paida hone ke shukriya main kisi qurbaani ke jaanwar ko zabah karna aqeeqah hai."
+                    },
+                    {
+                        "Suwaal": "aqeeqah karne ka kya hukm hai?",
+                        "Jawaab": "aqeeqah  karna sunnate muakkadah hai sunnat hai ke aqeeqe keliye ek ladke ki taraf se 2 bakre aur ladki ki taraf se 1 bakra ho albatta ek bakre se bhi ladke ki taraf se aqeeqah ho sakta hai."
+                    },
+                    {
+                        "Suwaal": "wo umoor kya hain jin ka karna bachche ki paidaaish ke baad sunnat hai?",
+                        "Jawaab": "bachche ke paidaaish ke fauran baad us ke seedhe kaan main azaan aur baaein kaan main iqaamat dein taake bachche dunya main aakar sab se pehle lafz “اَللہُ”sune phir use khajoor ya koi meethi cheez kisi muttaqi aadmi ke haath se chataayein. Aur paidaaish ke saatwein din bachche ka naam rakhein sar ke baal mundaayein aur bachche ki taraf se aqeeqah Karein yahan 7 din ki ginti main wila maanind  ka din bhi shumaar hai khatna bhi paidaaish ke saatvein din karna sunnat hai lekin khatne main wila maanind  ka din 7  din ki ginti main shumaar nahi hota. Sunnat hai ke baal mundaane ke baad us ke wazan ke baraabar sone ya chaandi ki khairaat karein aur bachche ke sar ko zafaraan aur khushbu ko paani main mila kar malein."
+                    },
+                    {
+                        "Suwaal": "kya aqeeqah karne, baal mundaane aur naam rakhne main koi tarteeb hai?",
+                        "Jawaab": "ji haan! Pehle naam rakhein phir aqeeqah karein phir sar ke baal mundaein."
+                    },
+                    {
+                        "Suwaal": "naamon main se behtar naam kya hai?",
+                        "Jawaab": "tamaam naamon main behtarein naam Muhammad aur ahmad hai. abdullah aur degar Allah ta’ala ki kisi sifat ke saath abdu laga kar naam rakhna bhi behtar hai. Naafi, barkat, rahmat, Mubaarak, shihaab, harb jaise naam rakhna makrooh hai aur un naamon ko tabdeel karna sunnat hai. Masala:bachcha agar paidaaish ke satvein din se pehle hi mar jaaye tab bhi sunnat hai ke paidaaish ke satvein din bachche ka nam rakhe aur us ki taraf se aqeeqah kare."
+                    },
+                    {
+                        "Suwaal": "aulaad ka aqeeqah kis par sunnat hai?",
+                        "Jawaab": "bachche ka aqeeqah us shakhs par sunnat hai jis par bachche ka nafaqah waajib hai jabke wo shakhs bachche ki paidaaish ke 60vein din se qabl aqeeqah dene ki istitaa’at rakhta ho haan agar 60vein din se pehle istitaa’at na rakhe to us shakhs par aqeeqah ka mutaalabah nahi rahega balke wo bachcha baaligh hone ke baad apna aqeeqah khud karega. Masala:waalid par sunnate muakkadah hai ke wo apni aulaad ki paidaaish ke 7vein din aulaad ki taraf se aqeeqah kare jab ke waalid’ aqeeqah karne ki istitaa’at rakhta ho. 7vein din na kare to afzal hai ke 14vein din ya 21vein din aqeeqah kare yani saat saat din badhaate jaaye. Lekin bachche ke baaligh hone se pehle hi aqeeqah kare. haan agar bcche ke baaligh hone se pehle aqeeqah na kare to baaligh hone ke baad bachche ki taraf se bigair us ki ijaazat ke waalid aqeeqah nahi kar sakta balke khud bachcha apni taraf se aqeeqah karega."
+                    },
+                    {
+                        "Suwaal": "baaligh ki taraf se agar koi aqeeqah kare to kya hukm hai?",
+                        "Jawaab": "baaligh par sunnat hai ke wo khud hi apni taraf se aqeeqah kare jab ke us ka aqeeqah na kiya gaya ho agar baaligh ki taraf se bigair us ki ijaazat ke kisi gair ne aqeeqah kiya to durust nahi yahan tak ke waalid ka apne baaligh bachche ki taraf se aqeeqah karna bhi durust nahi. Masala:aqeeqe main zabah ke waqt ye dua padhi jaaye بِسْمِ اللہِ وَاللہُ أَکْبَر اَللّٰہُمَّ ھٰذِہِ مِنْکَ وَإِلَیْکَ اَللّٰہُمَّ ھٰذِہٖ عَقِیْقَۃُ phir bachche ya bachchi ka naam liya jaaye. Masala:sunnat hai ke aqeeqah subah sawere sooraj ke tulu hote waqt karein. Aqeeqe ka jaanwar umr aur digar tamaam ahkaam main qurbaani ke jaanwar ke maanind hai albatta aqeeqe ke gosht ko paka kar khilaana sunnat hai. Aur aqeeqe ke jaanwar ki haddiyon ko toodna khilaafe aula hai is liye aqeeqe ke jaanwar ki haddiyon ko na todein. Sunnat hai ke aqeeqe ke jaanwar ki ek raan daaye ko dein, seedhe pair ki raan daaye ko dena behtar hai."
+                    },
+                    {
+                        "Suwaal": "logon main mashoor hai ke bachche ke maan baap’ daada daadi’ naana naani aqeeqe ke ghosht na khayein kya ye durust hai?",
+                        "Jawaab": "saraasar galat hai maan baap, daada daadi, naana naani sab aqeeqe ka gosht kha sakte hain."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category":"Salaam aur chink ke kuch aadaab",
+        "Introduction":"Salaam karna sunnat hai aur us ka jawaab dena waajib hai salaam karte waqt kahein اَلسَّلَامُ عَلَیْکُمْ  aur اَلسَّلَامُ عَلَیْکُمْ وَرَحْمَۃُ اللہِ وَبَرَکَاتُہٗ وَ مَغْفِرَتُهُ  kahna behtar hai. Salaam ke jawaab main وَعَلَیْکُمُ السَّلَامُ kahein aur وَعَلَیْکُمُ السَّلَامُ وَرَحْمَۃُ اللہِ  وَبَرَکَاتُہُ وَمَغْفِرَتُهُkahna behtar hai.",
+        "sub_categories":[
+            {
+                "sub_category":"Chheenkh ke mutalliq kuch aadaab",
+                "introduction":" Jab chheenkh aaye to kahein اَلْحَمْدُ لِلّٰہِ ye sunnat hai. behtar hai ke اَلْحَمْدُ لِلّٰہِ رَبِّ الْعَالَمِیْنَkahein, jo chheenkhne waale ko اَلْحَمْدُ لِلّٰہِ kahta sune to kahein “یَرْحَمُکَ اللّہُ” chheenkh kar “اَلْحَمْدُ لِلّٰہِ” na kahne waale keliye “یَرْحَمُکَ اللّٰہُ” kahna makrooh hai. Agar koi shak kare ke “اَلْحَمْدُ لِلّٰہِ” kaha ya nahi to “یَرْحَمُ اللّٰہُ مَنْ حَمِدَہُ” ya “یَرْحَمُکَ اللَّہُ إِنْ حَمِدْتَہُ”kahna sunnat hai. Naabaaligh bachcha “اَلْحَمْدُ لِلّٰہِ” kahe to jawaab main “أَصْلَحَکَ اللہُ” kahein. Agar koi musalsal teen ya teen se ziyaada martabah chheenkh kar “اَلْحَمْدُ لِلّٰہِ”kahe to “شَفَاکَ اللّٰہُ”kah kar shifa keliye dua karein kyunke 3 se ziyaada martabah chheenkhna zukaam ki alaamat hai. Koi chheenkhn ka jawaab de to jawaab main chheenkhne waala kahe ke”یَہْدِیْکُمُ اللہُ وَیُصْلِحُ بَالَکُمْ”aur agar koi bhi chheenkh ka jawaab na de to chheenkhne waala kahe “یَرْحَمُنِیْ اللہُ” chinkne waala agar “اَلْحَمْدُ لِلّٰہِ” na kahe to use yad dilaaein ye sunnat hai.",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "category":"Aham zikr wa duaein",
+        "Introduction":"",
+        "sub_categories":[
+            {
+                "sub_category":"Wuzu aur ghusl ke baad ki dua",
+                "information":"أَشْہَدُ أَن لَّا إِلٰہَ  إِلَّا اللہُ وَحْدَہٗ لَا شَرِیْکَ لَہٗ  وَأَشْہَدُ أَنَّ  مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہُ.اَللّٰہُمَّ اجْعَلْنِیْ مِنَ التَّوَابِیْنَ وَاجْعَلْنِیْ مِنَ الْمُتَطَہِّرِیْنَ وَاجْعَلْنِیْ مِنْ عِبَادِکَ الصَّالِحِیْنَ.سُبْحَانَکَ اللّٰہُمَّ وَبِحَمْدِکَ أَشْہَدُ أَن لَّا إِلٰہَ  إِلاَّ أَنْتَ أَسْتَغْفِرُکَ وَأَتُوْبُ إِلَیْکَ. وَصَلَّی اللہُ عَلَی سَیِّدِنَا مُحَمَّدٍ وَعَلَی اٰلِہٖ وَصَحْبِہٖ وَسَلَّمَ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Azaan wa iqaamat ke baad ki dua",
+                "information":"اَللّٰہُمَّ رَبَّ ہٰذِہِ الدَّعْوَۃِ التَّامَّۃِ وَالصَّلَاۃِ الْقَآئِمَۃِ اٰتِ سَیِّدَنَا مُحَمَّدَانِ الْوَسِیْلَۃَ وَالْفَضِیْلَۃَ وَالدَّرَجَۃَ الرَّفِیْعَۃَ وَابْعَثْہُ  مَقَامًا مَحْمُودَانِ الَّذِيْ وَعَدتَّہٗ وَارْزُقْنَا شَفَاعَتَہُ  یَوْمَ الْقِیَامَۃِ إِنَّکَ لَاتُخْلِفُ الْمِیْعَادْ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Dua e iftitaah",
+                "information":"وَجَّہْتُ وَجْہِیَ لِلَّذِیْ فَطَرَ السَّمٰوٰتِ وَالْأَرْضَ حَنِیْفًا مُّسْلِمًا وَّمَا أَنَا مِنَ الْمُشْرِکِیْنَ إِنَّ صَلاَتِیْ وَنُسُکِیْ وَمَحْیَایَ وَمَمَاتِیْ  لِلّٰہِ رَبِّ الْعَالَمِیْنَ لاَشَرِیْکَ لَہٗ وَبذٰلِکَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِیْنَ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Ruku",
+                "information":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal":"Ruku ki tasbeeh",
+                        "Jawaab":"سُبْحَانَ رَبِّيَ الْعَظِیْمِ وَبِحَمْدِہِ"
+                        
+                    },
+                    {
+                        "Suwaal":"Ruku se uthte waqt kahine",
+                        "Jawaab":"سَمِعَ اللہُ لِمَنْ  حَمِدَہُ"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Itidaal main padhein",
+                "information":"رَبَّنَا لَکَ الْحَمْدُ مِلْأَ السَّمٰوَاتِ  وَمِلْأَ الْأَرْضِ وَمِلْأَ مَا شِئْتَ مِنْ شَیْیٍٔ بَعْدُ.أَہْلَ الثَّنَائِ وَالْمَجْدِ أَحَقُّ مَّا قَالَ الْعَبْدُ وَکُلُّنَا لَکَ عَبْدٌلاَمَانِعَ لِمَا أَعْطَیْتَ وَلاَمُعْطِیَ لِمَامَنَعْتَ وَلاَیَنْفَعُ ذَاالجَدِّمِنْکَ الْجَدُّ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":" Dua e qunoot",
+                "information":"اَللّٰہُمَّ اہْدِنِیْ فِیمَنْ ہَدَیْتَ وَعَافِنِیْ فِیْمَنْ عَافَیْتَ وَتَوَلَّنِیْ فِیْمَنْ تَوَلَّیْتَ وَبَارِکْ لِیْ فِیْمَا أَعْطَیْتَ وَقِنِیْ شَرَّ مَا قَضَیْتَ فَإِنَّکَ تَقْضِيْ وَلَا یُقْضٰی  عَلَیْکَ وَإِنَّہٗ لَایَذِلُّ مَن وَّالَیْتَ وَلَایَعِزُّ مَنْ عَادَیْتَ تَبَارَکْتَ رَبَّنَا وَتَعَالَیْتَ فَلَکَ الْحَمْدُ عَلَی مَاقَضَیْتَ أَسْتَغْفِرُکَ وَأَتُوْبُ إِلَیْکَ۔ وَصَلَّی اللہُ عَلَی خَیْرِ خَلْقِہٖ سَیِّدِنَا مُحَمَّدِنِ  النَّبِيِّ الْأُمِّيِّ وَعَلَی اٰلِہٖ وَصَحْبِہٖ وَسَلَّمْ.رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِیْنَ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Sadje",
+                "information":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal":"Sajde ki tasbeeh",
+                        "Jawaab":"سُبْحَانَ رَبِّيَ الْأَعْلٰی وَبِحَمْدِہِ"
+                    },
+                    {
+                        "Suwaal":"2 sajdon ke darmiyaan jab baiten to ye dua padhein",
+                        "Jawaab":"رَبِّ اغْفِرْلِيْ  رَبِّ اغْفِرْلِيْ  رَبِّ اغْفِرْلِيْ وَارْحَمْنِيْ  وَاجْبُرُنِيْ وَارْفَعْنِيْ  وَارْزُقْنِيْ وَاھْدِنِيْ وَعَافِنِيْ وَاعْفْ عَنِّیْ"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Tashahhud",
+                "information":"اَلتَّحِیَّاتُ الْمُبَارَکَاتُ الصَّلَوَاتُ الطَّیِّبَاتُ لِلّٰہِ، اَلسَّلَامُ عَلَیْکَ أَیُّہَا النَّبِيُّ وَرَحْمَۃُاللہِ وَبَرَکَاتُہُ، اَلسَّلاَمُ عَلَیْنَا وَعَلَی عِبَادِ اللہِ الصَّالِحِیْنْ، أَشْہَدُ أَن لَّاإِلٰہَ  إِلَّااللّٰہُ وَأَشْہَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللہِ ، اَللّٰہُمَّ صَلِّ عَلَی سَیِّدِنَا مُحَمَّدٍ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Durood e ibaraaheem",
+                "information":"اَللّٰہُمَّ صَلِّ عَلَی سَیِّدِنَا مُحَمَّدٍوَّعَلَی اٰلِ سَیِّدِنَا مُحَمَّدٍ کَمَا صَلَّیْتَ عَلَی إِبْرَاہِیْمَ وَعَلَی اٰلِ إِبْرَاہِیْمَ وَبَارِکْ عَلَی سَیِّدِنَا مُحَمَّدٍ وَّعَلَی اٰلِ سَیِّدِنَا مُحَمَّدٍکَمَا بَارَکْتَ عَلَی إِبْرَاہِیْمَ وَعَلَی اٰلِ إِبْرَاہِیْمَ فِی الْعَالَمِیْنَ إِنَّکَ حَمِیْدٌ مَجِیْدٌ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Masjid main daakhil hone ki dua",
+                "information":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal": "Masjid main daakhil hote waqt daahna paawun pehle baahar rakhein aur ye dua padhein",
+                        "Juwaab": " بِسْمِ اللہِ وَالصَّلٰوۃُوَالسَّلَامُ عَلٰی رَسُوْلِ اللہِ اللّٰھُمَّ اغْفِرْ لِيْ ذُنُوْبِيْ وافْتَحْ لِيْ أَبْوَابَ رَحْمَتِکَ"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Masjid se nikalne ki dua",
+                "information":"",
+                "qa_pairs":[
+                    {
+                        "Suwaal":"Jab masjid se niklne lagein to apna bayaan paawun baahar rakhein aur ye kaheinn ke",
+                        "Jawaab":"  بِسْمِ اللہِ وَالصَّلٰوۃُوَالسَّلَامُ عَلٰی رَسُوْلِ اللہِ اللّٰھُمَّ إِنِّيْ أَسْئَلُکَ مِنْ فَضْلِکَ وَ رَحْمَتِکَ۔"
+                    }
+                ]
+            },
+            {
+                "sub_category":"Ghar main daakhil hote waqt  padhein",
+                "information":"اَللّٰھُمَّ  اِنِّیْ  اَسْأَلُکَ خَیْرَ الْمَوْلَجِ وَخَیْرَالْمَخْرَجِ بِسْمِ اللہِ وَلَجْنَا وَبِسْمِ اللہِ خَرَجْنَا وَعَلَی اللہِ رَبِّنَا تَوَ کَّلْنَا",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Ghar se nikalte waqt padhein",
+                "information":"بِسْمِ ﷲِ تَوَکَّلْتُ عَلَیﷲِ لَا حَوْلَ وَلَا قُوَّۃَ إِلَّا بِاللہِ ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Khaane ke baad ki dua",
+                "information":"اَلْحَمْدُ لِلہِ الَّذِیْ أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلَمِیْنَ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab kisi ke yahan khana khayein to ye bhi dua padhein",
+                "information":" اَللّٰھُمَّ أَطْعِمْ مَّنْ أَطْعَمَنِیْ وَاسْقِ مَنْ سَقَا نِیْ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Doodh pee kar ye dua padhein",
+                "information":"اَللّٰھُمَّ  بَارِکْ لَنَا فِیْہِ وزِدْنَا مِنْہُ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Paani wagairah (jo doodh ke siwa)pee kar ye dua padhein",
+                "information":"اَللّٰھُمَّ  بَارِکْ لَنَا فِیْہِ وزِدْنَا خَیْرًامِّنْہُ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Paani pee kar ye dua padhein",
+                "information":"اَلْـحَمْدُلِلہِ الَّذِیْ سَقَانَا عَذْبًا فُرَاتًا وَّ لَمْ یَجْعَلْہُ مِلْحًا أُجَا جًا بِذُنُوْبِنَا۔",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab kapda pehnein to ye dua padhein",
+                "information":"اَلْحَمْدُ لِلہِ الَّذِیْ کَسَاْ نِیْ ھٰذَا وَ رَزَقْنِیْہِ مِنْ غَیْرِ حَوْلٍ مِّنِّیْ وَلَا قُوَّۃٍ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab aaina dekhein to ye dua padhein",
+                "information":"اَللّٰہُمَّ کَمَا أَحْسَنْتَ خَلْقِیْ فَحَسِّنْ خُلْقِیْ۔",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab sawaari par baithein to ye dua padhein",
+                "information":"سُبْحٰنَ الَّذِیْ سَخَّرَ لَنَا هٰذَا وَ مَا كُنَّا لَهٗ مُقْرِنِیْنَ ۙ۝۱۳وَ إِنَّا إِلٰی رَبِّنَا لَمُنْقَلِبُوْنَ    ۝۱۴",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Soote waqt kahein",
+                "information":"بِاسْمِکَ اللّٰہُمَّ أَمُوْتُ وَأَحْیٰی",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"So kar uthein to kahein",
+                "information":"اَلْحَمْدُ لِلّٰہِ الَّذِيْ أَحْیَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَیْہِ النُّشُوْرُ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab kisi mumin ko hasta dekhein to kahein",
+                "information":"أَضْحَکَ اللّٰہُ سِنَّکَ",
+                "qa_pairs":[]
+            },
+            {
+                "sub_category":"Jab koi madad Kare to kahein",
+                "information":"جَزَاکَ اللّٰہُ خَیْرًا",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "category":"Jumu’ah ka in Allah shareef",
+        "Introduction":" أَعُوْذُ بِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ إِنَّ اللّٰهَ وَ مَلٰٓىِٕكَتَهٗ یُصَلُّوْنَ عَلَی النَّبِیِّ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوْا صَلُّوْا عَلَیْهِ وَ سَلِّمُوْا تَسْلِیْمًا  ۝۵۶ یَامَعْشَرَ الْمُسْلِمِیْنَ رَحِمَکُمُ اللہُ إِذَاصَعِدَ الْخَطِیْبُ عَلَی الْمِنْبَرِ ثُمَّ خَطَبَ فَلَایَتَکَلَّمَنَّ أَحَدُکُمْ وَمَنْ تَکَلَّمَ فَقَدْ لَغٰی وَمَنْ لَّغٰی فَلَاثَوَابَ الْجُمُعَۃِ لَہْ لِأَنَّہٗ قَدْ وَرَدَ فِی الْخَبَرْ عَنْ سَیِّدِ الْبَشَرْوَشَفِیْعِ الْأُمَّۃِ فِیْ یَوْمِ الْمَحْشَرْ سَیِّدِ الْأَشْرَافْ وَمُتَمِّمِ مَکَارِمِ الْأَخْلَاقِ وَالْأَوْصَافْ سَیِّدِ الْعَرَبِ وَالْعَجَمِ سَیِّدِنَا مُحَمَّدِ نِ بْنِ عَبْدِ اللہِ اِبْنِ عَبْدِ الْمُطَّلِبِ اِ بْنِ ہَاشِمْ اِبْنِ عَبْدِمَنَافْ أَنَّہٗ ﷺ قَالْ  إِذَا قُلْتَ لِصَاحِبِكَ أَنْصِتْ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ فَقَدْ  لَغَوْتْ أَنْصِتُوْا رَحِمَکُمُ اللہُ فَاسْتَمِعُوْا یَغْفِرِ اللہُ لَنَا وَ لَکُمْ وَلِوَالِدِیْنَا وَلِوَالِدِیْکُمْ وَلِأُسْتَاذِیْنَا وَ لِأُسْتَاذِیْکُمْ وَلِجَمِیْعِ الْمُؤْمِنِیْنَ وَالْمُؤْمِنَاتِ وَ الْمُسْلِمِیْنَ وَالْمُسْلِمَاتِ فَاسْتَغْفِرُوہُ إِنَّہٗ ہُوَ الْغَفُوْرُ  الرَّحِیْمُ ",
+        "sub_categories":[
+            {
+                "sub_category":"",
+                "introduction":"",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "category":" Khutba e ula jumu’ah ka",
+        "Introduction":" اَلْحَمْدُلِلہِ الَّذِیْ فَضَّلَ سَیِّدَنَا وَمَوْلَانَا مُحَمَّدًا عَلَی الْعٰلَمِیْنَ جَمِیْعًاوَأَقَامَہٗ یَوْمَ الْقِیَامَۃِ لِلْمُذْنِبِیْنَ الْمُتَلَوِّثِیْنَ الْخَطَّائِیْنَ الْہَالِکِیْنَ شَفِیْعًاوَأَشْہَدُ أَنْ لَاإِلٰہَ إِلَّا اللہُ وَحْدَہٗ لَاشَرِیْکَ لَہٗ وَأَشْہَدُ أَنَّ سَیِّدَنَا وَمَولَانَا مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہُ اَللّٰہُمَّ صَلِّ وَسَلِّمْ وَبَارِکْ عَلیٰ سَیِّدِنَا مُحَمَّدٍﷺ وَعَلیٰ کُلِّ مَنْ ہُوَ مَحْبُوْبٌ وَّمَرْضِیٌّ لَّدَیْہِ صَلٰوۃً تَبْقٰی وَتَدُوْمُ بِدَوَامِ الْمَلِکِ الْحَیِّ الْقَیُّوْمِ أَمَّابَعْدْ فَیٰأَیُّھَاالْمُؤْمِنُوْنَ رَحِمَنَا وَرَحِمَکُمُ اللہُ تَعَالیٰ أُوْصِیْکُمْ وَنَفْسِیْ بِتَقْوَاللہِ عَزَّوَجَلَّ فِی السِّرِّ وَالْإِعْلَانِ فَإِنَّ التَّقْوٰی سَنَامُ ذُرَی الْإِیْمَانِ وَاذْکُرُواللہَ عِنْدَ کُلِّ شَجَرٍ وَّحَجَرٍوَاعْلَمُوْا أَنَّ اللہَ بِمَا تَعْلَمُوْنَ بَصِیْرٌوَأَنَّ اللہَ لَیْسَ بِغَافِلٍ عَمَّا تَعْمَلُوْنَ وَاقْتَفُوْا اٰثَارَ سُنَنِ سَیِّدِالْمُرْسَلِیْنَ صَلَوَاتُ اللہِ تَعَالیٰ وَسَلَامُہٗ عَلَیْہِ وَعَلَیْہِمْ أَجْمَعِیْنَ فَإِنَّ السُّنَنَ ہِیَ الْأَنْوَارُ وَزَیِّنُوْا قُلُوبَکُمْ بِحُبِّ ہٰذَا النَّبِیِّ الْکَرِیْمِ عَلَیْہِ وَعَلیٰ اٰلِہٖ أَفْضَلُ الصَّلٰوۃِ وَالتَّسْلِیْمِ فَإِنَّ الْحُبَّ ہُوَ الْإِیْمَانُ کُلُّہٗ أَلَا لَا إِیْمَانَ لِمَنْ لَّا مَحَبَّۃَ لَہٗ أَلَا لَاإِیْمَانَ لِمَنْ لَّا مَحَبَّۃَ لَہٗ أَلَا لَا إِیْمَانَ لِمَنْ لَّا مَحَبَّۃَ لَہٗ رَزَقَنَا اللہُ تَعَالیٰ وَإِیَّاکُمْ حُبَّ حَبِیْبِہٖ ہٰذَا النَّبِیِّ الْکَرِیْمِ عَلَیْہِ وَعَلیٰ اٰلِہٖ أَکْرَمُ الصَّلٰوۃِ وَالتَّسْلِیْمِ کَمَا یُحِبُّ رَبُّنَا وَیَرْضَی وَاسْتَعْمَلَنَا وَإِیَّاکُمْ بِسُنَّتِہٖ وَحَیَّانَا وَإِیَّاکُمْ عَلیٰ مَحَبَّتِہٖ وَتَوَّفَانَا وَإِیَّاکُمْ عَلٰی مِلَّتِہٖ وَأَدْخَلَنَاوَإِیَّاکُمْ فِی جَنَّتِہٖ بِمَنِّہٖ وَکَرَمِہٖ وَرَأْفَتِہٖ إِنَّہٗ ہُوَ الرَّؤٗفُ الرَّحِیْمُ عَنِ النَّبِیِّ صَلیٰ اللہُ تَعَالٰی عَلَیْہِ وَسَلَّمَ اَلْبِرُّ لَایَبْلیٰ وَالذَّنْبُ لَایُنْسَی وَالدَّیَّانُ لَایَمُوْتُ اِعْمَلْ مَاشِئْتَ کَمَا تَدِیْنُ تُدَانُ کَلَّامُ اللہِ الْمَلِکِ الْحَنَّانِ أَعُوْذُ بِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ  بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ فَمَنْ یَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَیْرًا یَّرَهٗ ۝۷وَ مَنْ یَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا یَّرَهٗ    ۝۸ بَارَکَ اللہُ لَنَا وَلَکُمْ فِی الْقُرْاٰنِ الْعَظِیْمِ وَنَفَعَنَا وَإِیَّاکُمْ بِالْاٰیَاتِ وَالذِّکْرِ الْحَکِیْمِ إِنَّہٗ تَعَالیٰ مَلِکٌ کَرِیْمٌ جَوَادٌ بَرٌّ رَّؤٗفٌ رَّحِیْمٌ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَ قُوْلُوْا قَوْلًا سَدِیْدًا۝۷۰ یُّصْلِحْ لَكُمْ أَعْمَالَكُمْ وَیَغْفِرْ لَكُمْ ذُنُوْبَكُمْ  وَ مَنْ یُّطِعِ اللّٰهَ وَ رَسُوْلَهٗ فَقَدْ فَازَ فَوْزًا عَظِیْمًا  ۝۷۱ ",
+        "sub_categories":[
+            {
+                "sub_category":"",
+                "introduction":"",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "category":" Khutba e sani jumu’ah ka",
+        "Introduction":" اَلْحَمْدُ لِلہِ الْکَرِیْمِ الْمَعْبُودِ وأَشْہَدُ أَنْ لَّاإِلٰہَ إِلَّا اللہُ الرَّحِیْمُ الْمَحْمُوْدُ وَأَشْہَدُ أَنَّ مُحَمَّدًا عَبْدُہٗ  وَرَسُوْلُہٗ  أَشْرَفُ  مَوْلُوْدٍ اَللّٰہُمَّ صَلِّ وَسَلِّمْ وَبَارِکْ عَلیٰ سَیِّدِنَامُحَمَّدٍﷺمَاسَبَّحَ مَلَکٌ فِی سُجُوْدٍ وَعَلیٰ اٰلِہٖ وَصَحْبِہٖ رَضِیَ عَنْہُمُ  اللہُ الْمَسْجُوْدُأَمَّا بَعْد فَیٰأَیُّہَا النَّاسُ اتَّقُوا اللہَ حَقَّ تُقَاتِہٖ وَبَادِرُوا إِلیٰ أَدَاءِ مُفْتَرَضَاتِہٖ وَاعْلَمُوْا أَنَّ اللہَ سُبْحَانَہٗ وَتَعَالیٰ أَمَرَکُمْ بِأَمْرٍ عَظِیْمٍ بَدَأَ فِیْہِ بِنَفْسِہٖ وَثَنَّی بِمَلٰئِکَتِہِ الْمُسَبِّحَۃِ بِقُدْسِہٖ وَقَالَ مُخْبِرًا اٰمِرًا إِنَّ اللّٰهَ وَ مَلٰٓىِٕكَتَهٗ یُصَلُّوْنَ عَلَی النَّبِیِّ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوْا صَلُّوْا عَلَیْهِ وَ سَلِّمُوْا تَسْلِیْمًا  ۝۵۶ اَللّٰہُمَّ صَلِّ وَسَلِّمْ عَلیٰ رَسُوْلِکَ سَیِّدِنَا مُحَمَّدِنِ الَّذِیْ سَبَّحَ فِیْ یَدِہِ الْحَصَی وَنَبَعَ مِنْ بَینِ أَصَابِعِہِ الْمَاءُ اَللّٰہُمَّ ارْضَ عَنْ سَادَاتِنَاأَبِیْ بَکْرِنِ الصِّدِیْقِ التَّقِیِّ وَعُمَرَ الْفَارُوْقِ النَّقِیِّ وَعُثْمَانَ ذِی النُّوْرَیْنِ الزَّکِیِّ وَعَلِیِّ الْمُرْتَضَی الْوَفِیِّ وَعَنِ الْحَسَنِ وَالْحُسَیْنِ وَعَنْ حَمْزَۃَ وَالْعَبَّاسِ وَعَنْ بَقِیَّۃِ أَصْحَابِ رَسُوْلِکَ أَجْمَعِیْنَ رَضِیَ اللہُ عَنْ کُلِّ وَاحِدٍ مِنْہُمْ أَجْمَعِیْنَ اَللّٰہُمَّ اغْفِرْ لِلْمُؤْمِنِیْنَ وَالْمُؤْمِنَاتِ وَالْمُسْلِمِیْنَ وَالْمُسْلِمَاتِ الْأَحْیَاءِ مِنْہُمْ وَالْأَمْوَاتِ إِنَّکَ مُجِیْبُ الدَّعَوَاتِ یَاقَاضِیَ الْحَاجَاتِ طَیِّبْ ثَرَاہُمْ وَاجْعَلِ الْجَنَّۃَ مَأْوَاہُمْ اَللّٰہُمَّ رَبَّنَا اٰتِنَا فِی الدُّنْیَا حَسَنَۃً وَّفِی الْاٰخِرَۃِ حَسَنَۃً وَّقِنَا عَذَابَ النَّارِ اَللّٰہُمَّ أَجْرْنَا مِنَ النَّارِ(۳)اَللّٰہُمَّ لَاتَشْوِ خَلْقَنَا بِالنَّارِ وَلَاتَجْعَلْنَا مِنْ حَطَبِ النَّارِ فَإِنَّہَا بِئْسَ الدَّارُ وَبِئْسَ الْمَثْوٰی وَبِئْسَ الْقَرَارُ  رَبَّنَا اغْفِرْ لَنَا وَ لِإِخْوَانِنَا الَّذِیْنَ سَبَقُوْنَا بِالْإِیْمَانِ وَ لَا تَجْعَلْ فِیْ قُلُوْبِنَا غِلًّا لِّلَّذِیْنَ اٰمَنُوْا رَبَّنَاإِنَّكَ رَءُوْفٌ رَّحِیْمٌ ۝۱۰ إِنَّ اللّٰهَ یَاْمُرُ بِالْعَدْلِ وَ الْإِحْسَانِ وَ إِیْتَآئِ ذِی الْقُرْبٰی وَ یَنْهٰی عَنِ الْفَحْشَآءِ وَ الْمُنْكَرِ وَ الْبَغْیِ یَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُوْنَ۝۹۰  وَ لَذِكْرُ اللّٰهِ أَكْبَرُ  وَ اللّٰهُ یَعْلَمُ مَا تَصْنَعُوْنَ۝۴۵ Pehla khutbah eidul fitr ka Pehle اللہُ أَکْبَرْ  (9 martaba kahein phir pahdein) اَلْحَمْدُ لِلہِ الَّذِیْ ہُوَ فَعَّالٌ لِّمَایُرِیْدُ أَحْمَدُہٗ حَمْدًا بِلَاتَعْدِیْدْ وَأَشْہَدُ أَن لَّاإِلٰہَ إِلَّا اللہُ وَحْدَہٗ لَاشَرِیْکَ لَہٗ شَہَادَۃً مُّنْجِیَّۃً تَحْتَ الصَّعِیْدْ وَأَشْہَدُ أَنَّ سَیِّدَنَا مُحَمَّدًاﷺ عَبْدُہٗ وَرَسُوْلُہٗ أَشرَفُ الْعَبِیْدْ صَلَّی اللہُ وَسَلَّمَ  عَلیٰ سَیِّدِنَا مُحَمَّدٍ ﷺوَعَلیٰ اٰلِہٖ وَأَصْحَابِہٖ صَلٰوۃً دَائِمَۃً إِلیٰ یَوْمِ الْوَعِیْدِأَیُّہَاالنَّاسُ أُوْصِیْکُمْ عِبَادَ اللہِ وَإِیَّایَ بِتَقْوَی اللہِ الْمُبْدِىِٔ الْمُعِیْدِ(اَللہُ أَکْبَرْ: 3)اِعْلَمُوْا أَنَّ ہٰذَا الْیَوْمَ یَوْمُ الْعِیْدْ یَوْمُ الْعِیْدِ یَوْمٌ سَعِیْدٌیَوْمُ تَسْبِیْحٍ وَتَحْمِیْدِیَوْمُ تَہْلِیْلٍ وَّتَعْظِیمٍ وَّتَمْجِیْدٍیَوْمُ الزِّیْنَۃِ وَالْعِیْدْ یَوْمُ الْفَضْلِ وَالْمَزِیْدِ یَوْمُ اجْتِمَاعِ الْقَرِیْبِ وَالْبَعِیْدِ(اَللہُ أَکْبَرْ: 3)فَاتَّقُوا  اللہَ ذَاالْعَرْشِ الْمَجِیْدِ لِأَنَّ الْعِیْدَ لَیْسَ لِمَنْ لَبِسَ الْجَدِیْدَ وَلِمَنْ تَفَاخَرَ بِالْعَدَدِ وَالْعَدِیْدِ وَإِنَّمَا الْعِیْدُ لِمَنْ خَافَ یَوْمَ الْوَعِیْدِ وَأَطَاعَ لِلْقَوِیِّ الْمَجِیْدِ فَاتَّقُوْا یَوْمًاتَأْتِیْ کُلُّ نَفْسٍ مَّعَہَا سَائِقٌ وَّشَہِیْدٌ وَاتَّقُوْا جَہَنَّمَ لِبَاسُ أَہْلِہَا الْحَدِیْدُ وَعَذَابُہُمْ أَبَدًا جَدِیْدْ(اَللہُ أَکْبَرْ: 3) إِنَّ فِیْ ذٰلِكَ لَذِكْرٰی لِمَنْ كَانَ لَهٗ قَلْبٌ أَوْ أَلْقَی السَّمْعَ وَ هُوَ شَهِیْدٌ۝۳۷فَاتَّقُوا اللہَ حَقَ تَقْوَاہُ تَفُوْزُوْا فِیْ یَوْمِ حَشْرِ العَالَمِ فِیْ صَعِیْدْ جَعَلَنَا اللہُ وَإِیَّاکُمْ مِّنَ الْفَائِزِیْنَ الْاٰمِنِیْنَ وَأَدْخَلَنَا وَإِیَّاکُمْ فِیْ عِبَادِہِ الصَّالِحِیْنَ إِنَّ أَحْسَنَ قَصَصِ الْمُؤْمِنِیْنَ وَأَبْلَغَ مَوَاعِظِ الْمُتَّقِیْنَ  کَلَامُ رَبِّ الْعَالَمِیْنَ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ  بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ وَ مَا هٰذِهِ الْحَیٰوةُ الدُّنْیَاإِلَّا لَهْوٌ وَّ لَعِبٌ وَ إِنَّ الدَّارَ الْاٰخِرَةَ لَهِیَ الْحَیَوَانٌ لَوْ كَانُوْا یَعْلَمُوْنَ  ۝۶۴ بَارَکَ اللہُ لَنَا وَلَکُمْ بِالْقُرْاٰنِ الْعَظِیْمِ وَنَفَعَنَا وَإِیَّاکُمْ بِالْاٰیَاتِ وَالذِّکْرِ الْحَکِیْمِ وَعَصَمَنَا وَإِیَّاکُمْ بِرَحْمَتِہٖ مِنَ الشَّیْطَانِ الرَّجِیْمِ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَ قُوْلُوْا قَوْلًا سَدِیْدًا۝۷۰ یُّصْلِحْ لَكُمْ أَعْمَالَكُمْ وَ یَغْفِرْ لَكُمْ ذُنُوْبَكُمْ  وَ مَنْ یُّطِعِ اللّٰهَ وَ رَسُوْلَهٗ فَقَدْ فَازَ فَوْزًا عَظِیْمًا۝۷۱ ",
+        "sub_categories":[
+            {
+                "sub_category":"",
+                "introduction":"",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+
+    },
+    {
+        "categories":"Pehla khutbah eidul fitr ka",
+        "Introduction":" Pehle اللہُ أَکْبَرْ  (9 martaba kahein phir pahdein) اَلْحَمْدُ لِلہِ الَّذِیْ ہُوَ فَعَّالٌ لِّمَایُرِیْدُ أَحْمَدُہٗ حَمْدًا بِلَاتَعْدِیْدْ وَأَشْہَدُ أَن لَّاإِلٰہَ إِلَّا اللہُ وَحْدَہٗ لَاشَرِیْکَ لَہٗ شَہَادَۃً مُّنْجِیَّۃً تَحْتَ الصَّعِیْدْ وَأَشْہَدُ أَنَّ سَیِّدَنَا مُحَمَّدًاﷺ عَبْدُہٗ وَرَسُوْلُہٗ أَشرَفُ الْعَبِیْدْ صَلَّی اللہُ وَسَلَّمَ  عَلیٰ سَیِّدِنَا مُحَمَّدٍ ﷺوَعَلیٰ اٰلِہٖ وَأَصْحَابِہٖ صَلٰوۃً دَائِمَۃً إِلیٰ یَوْمِ الْوَعِیْدِأَیُّہَاالنَّاسُ أُوْصِیْکُمْ عِبَادَ اللہِ وَإِیَّایَ بِتَقْوَی اللہِ الْمُبْدِىِٔ الْمُعِیْدِ(اَللہُ أَکْبَرْ: 3)اِعْلَمُوْا أَنَّ ہٰذَا الْیَوْمَ یَوْمُ الْعِیْدْ یَوْمُ الْعِیْدِ یَوْمٌ سَعِیْدٌیَوْمُ تَسْبِیْحٍ وَتَحْمِیْدِیَوْمُ تَہْلِیْلٍ وَّتَعْظِیمٍ وَّتَمْجِیْدٍیَوْمُ الزِّیْنَۃِ وَالْعِیْدْ یَوْمُ الْفَضْلِ وَالْمَزِیْدِ یَوْمُ اجْتِمَاعِ الْقَرِیْبِ وَالْبَعِیْدِ(اَللہُ أَکْبَرْ: 3)فَاتَّقُوا  اللہَ ذَاالْعَرْشِ الْمَجِیْدِ لِأَنَّ الْعِیْدَ لَیْسَ لِمَنْ لَبِسَ الْجَدِیْدَ وَلِمَنْ تَفَاخَرَ بِالْعَدَدِ وَالْعَدِیْدِ وَإِنَّمَا الْعِیْدُ لِمَنْ خَافَ یَوْمَ الْوَعِیْدِ وَأَطَاعَ لِلْقَوِیِّ الْمَجِیْدِ فَاتَّقُوْا یَوْمًاتَأْتِیْ کُلُّ نَفْسٍ مَّعَہَا سَائِقٌ وَّشَہِیْدٌ وَاتَّقُوْا جَہَنَّمَ لِبَاسُ أَہْلِہَا الْحَدِیْدُ وَعَذَابُہُمْ أَبَدًا جَدِیْدْ(اَللہُ أَکْبَرْ: 3) إِنَّ فِیْ ذٰلِكَ لَذِكْرٰی لِمَنْ كَانَ لَهٗ قَلْبٌ أَوْ أَلْقَی السَّمْعَ وَ هُوَ شَهِیْدٌ۝۳۷فَاتَّقُوا اللہَ حَقَ تَقْوَاہُ تَفُوْزُوْا فِیْ یَوْمِ حَشْرِ العَالَمِ فِیْ صَعِیْدْ جَعَلَنَا اللہُ وَإِیَّاکُمْ مِّنَ الْفَائِزِیْنَ الْاٰمِنِیْنَ وَأَدْخَلَنَا وَإِیَّاکُمْ فِیْ عِبَادِہِ الصَّالِحِیْنَ إِنَّ أَحْسَنَ قَصَصِ الْمُؤْمِنِیْنَ وَأَبْلَغَ مَوَاعِظِ الْمُتَّقِیْنَ  کَلَامُ رَبِّ الْعَالَمِیْنَ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ  بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ وَ مَا هٰذِهِ الْحَیٰوةُ الدُّنْیَاإِلَّا لَهْوٌ وَّ لَعِبٌ وَ إِنَّ الدَّارَ الْاٰخِرَةَ لَهِیَ الْحَیَوَانٌ لَوْ كَانُوْا یَعْلَمُوْنَ  ۝۶۴ بَارَکَ اللہُ لَنَا وَلَکُمْ بِالْقُرْاٰنِ الْعَظِیْمِ وَنَفَعَنَا وَإِیَّاکُمْ بِالْاٰیَاتِ وَالذِّکْرِ الْحَکِیْمِ وَعَصَمَنَا وَإِیَّاکُمْ بِرَحْمَتِہٖ مِنَ الشَّیْطَانِ الرَّجِیْمِ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَ قُوْلُوْا قَوْلًا سَدِیْدًا۝۷۰ یُّصْلِحْ لَكُمْ أَعْمَالَكُمْ وَ یَغْفِرْ لَكُمْ ذُنُوْبَكُمْ  وَ مَنْ یُّطِعِ اللّٰهَ وَ رَسُوْلَهٗ فَقَدْ فَازَ فَوْزًا عَظِیْمًا۝۷۱ ",
+        "sub_categories":[
+            {
+                "sub_category":"",
+                "introduction":"",
+                "qa_pairs":[]
+            }
+        ]
+    },
+    {
+        "categories":"Pehla khutbah eidul azha ka ",
+        "Introduction":"Pehleاللہُ أَکْبَرْ(9 martabah kahein phir pahdein) اَلْحَمْدُلِلہِ ذِی الْعَرشِ الْمَجِیْدِ أَحْمَدُہٗ حَمْدًا بِلَاتَعْدِیْدْ وَأَشْہَدُ أَن لَّاإِلٰہَ إِلَّا اللہُ وَحْدَہٗ لَاشَرِیْکَ لَہٗ شَہَادَۃً مُّنْجِیَۃً فِیْ یَوْمِ الْوَعِیْدْ وَأَشْہَدُ أَنَّ سَیِّدَنَا مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہٗ أَکْرَمُ الْعَبِیْدْ صَلَّی اللہُ وَسَلَّمَ عَلیٰ سَیِّدِنَا مُحَمَّدٍ وَعَلیٰ اٰلِہٖ وَأَصْحَابِہٖ صَلٰوۃً دَائِمَۃً إِلیٰ یَوْمِ حَشْرِ الْعَالَمِ فِیْ صَعِیْدْ  أَمَّابَعْدُ أَیُّہَاالنَّاسُ أُوْصِیْکُمْ عِبَادَ اللہِ وَإِیَّایَ بِتَقْوَی اللہِ الْبَاعِثِ الْمَجِیْدْ(اَللہُ أَکْبَرْ: 3) اِعْلَمُوْا أَنَّ ہٰذَا الْیَوْمَ یَوْمُ الْعِیْدْ یَوْمُ الْعِیْدِ یَوْمُ سَعِیْدْ یَوْمُ تَسْبِیْحِ وَتَحْمِیْدِ یَوْمُ تَہْلِیْلٍ وَّتَعْظِیمٍ وَّتَمْجِیْدٍیَوْمُ الزِّیْنَۃِ وَالْعِیْدْ یَوْمُ الْفَضْلِ وَالْمَزِیْدِ یَوْمُ اجْتِمَاعِ الْقَرِیْبِ وَالْبَعِیْدِ(اَللہُ أَکْبَرْ: 3) اِبْتَلیٰ فِیْہِ رَبُّنَا ذُو الْعَرْشِ الْمَجِیْدْ خَلِیْلَہٖ إِبْرَاہِیْمَ بِابْتِلَاءٍ شَدِیْدٍ فَاتَّبِعُوْا نَہْجَہُ السَّدِیْدْ وَاعْلَمُوا أَنَّ الْعِیْدَ لَیْسَ لِمَنْ لَبِسَ الْجَدِیْدْ وَإِنَّمَا العِیْدُ لِمَنْ خَافَ یَوْمَ الْوَعِیْدْوَاتَّقُوا النَّارَ الَّتِیْ عَذَابُہَا شَدِیْدْ یُنَادِیْ أَہْلُہَا بُکِیًّا یَامَالِکُ أَخْرِجْنَا مِنْہَا فَإِنَّا لَا نَعُوْدُ(اَللہُ أَکْبَرْ: 3) إِنَّ فِیْ ذٰلِکَ لَعِبْرَۃً لِّمَنْ أَلْقَی السَّمعَ وَہُوَ شَہِیْدْ فَاتَّقُوا اللہَ حَقَّ تَقْوَاہُ کَیْ تَدْخُلُوْا جَنَّۃَ رَبِّکُمْ الْمَجِیْدْ جَعَلَنَا اللہُ وَإِیَّاکُمْ مِنَ الْفَائِزِیْنَ الْآمِنِیْنَ وَأَدْخَلَنَاوَإِیَّاکُمْ فِیْ عِبَادِہِ الصَّاِلِحِیْنَ إِنَّ أَحْسَنَ قَصَصِ الْمُؤْمِنِیْنَ وَأَبْلَغَ مَوَاعِظِ الْمُتَّقِیْنَ کَلَامُ رَبِّ الْعَالَمِیْنَ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ   بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ قُلْ سِیْرُوْا فِی الْأَرْضِ فَانْظُرُوْاکَیْفَ کَانَ عَاقِبَۃُ الَّذِیْنَ مِنْ قَبْلُ کَانَ أَکْثَرُہُمْ مُّشْرِکِیْن بَارَکَ اللہُ لَنَا وَلَکُمْ بِالْقُرْاٰنِ الْعَظِیْمِ وَنَفَعَنَا وَإِیَّاکُمْ بِالْاٰیَاتِ وَالذِّکْرِالْحَکِیْمِ وَعَصَمَنَا وَإِیَّاکُمْ بِرَحْمَتِہٖ مِنَ الشَّیْطَانِ الرَّجِیْمِ أَعُوْذُبِاللہِ مِنَ الشَّیْطَانِ الرَّجِیْمِ   بِسْمِ اللہِ الرَّحْمٰنِ الرَّحِیْمِ یٰأَیُّهَا الَّذِیْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَ قُوْلُوْا قَوْلًا سَدِیْدًا۝۷۰ یُّصْلِحْ لَكُمْ أَعْمَالَكُمْ وَ یَغْفِرْ لَكُمْ ذُنُوْبَكُمْ  وَ مَنْ یُّطِعِ اللّٰهَ وَ رَسُوْلَهٗ فَقَدْ فَازَ فَوْزًا عَظِیْمًا۝۷۱ ",
+        "sub_categories":[
+            {
+                "sub_category":"",
+                "introduction":"",
+                "qa_pairs":[
+                    
+                ]
+            },
+            {
+                "sub_category":"Eidain keliye dusra khutbah",
+                "introduction":" Pehleاللہُ أَکْبَرْ(7 martabah kahein phir padhein) اَلْحَمْدُ  لِلہِ الْجَلِیْلِ الْعَلِیِّ أَحْمَدُہٗ عَلیٰ إِحْسَانِہِ الْجَلِیِّ وَأَشْہَدُ أَنْ لَاإِلٰہَ إِلَّا اللہُ وَحْدَہٗ لَاشَرِیْکَ لَہٗ شَہَادَۃَ مَنْ أَخْلَصَ دِیْنَہٗ لِلْوَلِیِّ وَأَشْہَدُ أَنَّ سَیِّدَنَا مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہُ النَّبِیُّ الْاُمِیُّ صَلَّی اللہُ وَسَلَّمَ عَلیٰ سَیِّدِنَا مُحَمَّدٍﷺ وَعَلیٰ اٰلِہٖ وَأَصْحَابِہٖ  مَادَامَتِ الْبُکْرَۃُ وَالْعَشِیُّ أَیُّہَا النَّاسُ أُوْصِیْکُمْ عِبَادَ اللہِ وَإِیَّایَ بِتَقْوَی اللہِ الْقَوِیِّ (اَللہُ أَکْبَرْ:3)بَادِرُوْا فِیْ ہٰذَا الْیَوْمِ إِلیٰ عِبَادَۃِ رَبِّکُمُ الْغَنِیِّ وَاتَّبِعُوْا سُنَّۃَ نَبِیِّکُمْ الْوَفِیِّ قَالَ اللہُ تَعَالیٰ وَقَوْلُہٗ قَوْلٌ بَہِیّ  إِنَّ اللّٰهَ وَ مَلٰٓىِٕكَتَهٗ یُصَلُّوْنَ عَلَی النَّبِیِّ یٰأیُّهَا الَّذِیْنَ اٰمَنُوْا صَلُّوْا عَلَیْهِ وَ سَلِّمُوْا تَسْلِیْمًا  ۝۵۶ (اَللہُ أَکْبَرْ:3)  اَللّٰہُمَّ صَلِّ وَسَلِّمْ عَلیٰ سَیِّدِنَا مُحَمَّدِ نِ النَّبِیِّ الْأُمِّیِّ اَللّٰہُمَّ ارْضَ عَنْ سَادَاتِنَاأَبِیْ بَکْرِ نِ الصِّدِیْقِ التَّقِیِّ وَعُمَرَ الْفَارُوْقِ النَّقِیِّ وَعُثْمَانَ ذِی النُّوْرَیْنِ الزَّکِیِّ وَعَلِیِّ الْمُرْتَضَی الْوَفِیِّ وَعَنِ الْحَسَنِ وَالْحُسَیْنِ وَعَنْ حَمْزَۃَ وَالْعَبَّاسِ وَعَنْ بَقِیَّۃِ أَصْحَابِ رَسُوْلِکَ أَجْمَعِیْنَ رَضِیَ اللہُ عَنْ کُلِّ وَاحِدٍ مِنْہُمْ أَجْمَعِیْنَ۔ اَللّٰہُمَّ اغْفِرْ لِلْمُؤْمِنِیْنَ وَالْمُؤْمِنَاتِ وَالْمُسْلِمِیْنَ وَالْمُسْلِمَاتِ اَلْأَحْیَاءِ مِنْہُمْ وَالْأَمْوَاتِ إِنَّکَ مُجِیْبُ الدَّعَوَاتِ یَاقَاضِیَ الْحَاجَاتِ طَیِّبْ ثَرَاہُمْ وَاجْعَلِ الْجَنَّۃَ مَأْوَاہُمْ اَللّٰہُمَّ رَبَّنَا اٰتِنَا فِی الدُّنْیَا حَسَنَۃً وَّفِی الْاٰخِرَۃِ حَسَنَۃً وَّقِنَا عَذَابَ النَّارِ اَللّٰہُمَّ أَجْرْنَا مِنَ النَّارِ(۳)اَللّٰہُمَّ لَاتَشْوِ خَلْقَنَا بِالنَّارِ وَلَاتَجْعَلْنَا مِنْ حَطَبِ النَّارِ فَإِنَّہَا بِئْسَ الدَّارُ وَبِئْسَ الْمَثْوٰی وَبِئْسَ الْقَرَارُ رَبَّنَا اغْفِرْ لَنَا وَ لِإِخْوَانِنَا الَّذِیْنَ سَبَقُوْنَا بِالْإِیْمَانِ وَ لَا تَجْعَلْ فِیْ قُلُوْبِنَا غِلًّا لِّلَّذِیْنَ اٰمَنُوْا رَبَّنَاإِنَّكَ رَءُوْفٌ رَّحِیْمٌ     ۝۱۰ إِنَّ اللّٰهَ یَاْمُرُ بِالْعَدْلِ وَ الْإِحْسَانِ وَ إِیْتَآئِ ذِی الْقُرْبٰی وَ یَنْهٰی عَنِ الْفَحْشَآءِ وَالْمُنْكَرِ وَ الْبَغْیِ  یَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُوْنَ۝۹۰  وَ لَذِكْرُ اللّٰهِ أَكْبَرُ  وَ اللّٰهُ یَعْلَمُ مَا تَصْنَعُوْنَ۝۴۵ ",
+
+                "qa_pairs":[]
+            }
+        ]
     }
-]
-;
+    
+    
+    
+    
+    
+    
+    
+];
 
 // State management
 let state = {
@@ -1346,7 +2442,7 @@ function updateNavigationButtons() {
     const subCat = category ? category.sub_categories[state.currentSubCategoryIndex] : null;
 
     if (state.currentLevel === 'categories') {
-        header.textContent = 'QA Navigator';
+        header.textContent = 'Shafiqh';
         searchInput.placeholder = 'Search categories...';
         navButtons.innerHTML = `
             <i class="fas fa-chevron-left nav-arrow ${state.currentCategoryIndex === 0 ? 'disabled' : ''}" onclick="navigate('prev')"></i>
@@ -1418,7 +2514,7 @@ function navigate(direction) {
     clearSearchResults();
 }
 
-// Display categories
+// Display categories with check for valid category
 function displayCategories() {
     const categoryContainer = document.getElementById('categoryContainer');
     const subCategoryContainer = document.getElementById('subCategoryContainer');
@@ -1435,17 +2531,19 @@ function displayCategories() {
     state.currentLevel = 'categories';
     updateNavigationButtons();
 
-    // Add categories
+    // Only add categories with valid non-empty category names
     qaData.forEach((category, index) => {
-        const catDiv = document.createElement('div');
-        catDiv.className = 'category-item';
-        catDiv.textContent = category.category;
-        catDiv.onclick = () => {
-            state.currentCategoryIndex = index;
-            state.currentLevel = 'subCategories';
-            displaySubCategories(index);
-        };
-        categoryContainer.appendChild(catDiv);
+        if (category && category.category && category.category.trim() !== "") {
+            const catDiv = document.createElement('div');
+            catDiv.className = 'category-item';
+            catDiv.textContent = category.category;
+            catDiv.onclick = () => {
+                state.currentCategoryIndex = index;
+                state.currentLevel = 'subCategories';
+                displaySubCategories(index);
+            };
+            categoryContainer.appendChild(catDiv);
+        }
     });
 }
 
@@ -1475,17 +2573,19 @@ function displaySubCategories(categoryIndex) {
         subCategoryContainer.appendChild(introDiv);
     }
 
-    // Add sub-categories
+    // Only add sub-categories with valid non-empty names
     category.sub_categories.forEach((subCat, subIndex) => {
-        const subCatDiv = document.createElement('div');
-        subCatDiv.className = 'sub-category-item';
-        subCatDiv.textContent = subCat.sub_category;
-        subCatDiv.onclick = () => {
-            state.currentSubCategoryIndex = subIndex;
-            state.currentLevel = 'questions';
-            displaySuwaals(categoryIndex, subIndex);
-        };
-        subCategoryContainer.appendChild(subCatDiv);
+        if (subCat && subCat.sub_category && subCat.sub_category.trim() !== "") {
+            const subCatDiv = document.createElement('div');
+            subCatDiv.className = 'sub-category-item';
+            subCatDiv.textContent = subCat.sub_category;
+            subCatDiv.onclick = () => {
+                state.currentSubCategoryIndex = subIndex;
+                state.currentLevel = 'questions';
+                displaySuwaals(categoryIndex, subIndex);
+            };
+            subCategoryContainer.appendChild(subCatDiv);
+        }
     });
 
     // Add back button
@@ -1528,14 +2628,16 @@ function displaySuwaals(categoryIndex, subCategoryIndex) {
         suwaalContainer.innerHTML += '<p>No questions available.</p>';
     } else {
         subCat.qa_pairs.forEach((pair, pairIndex) => {
-            const suwaalDiv = document.createElement('div');
-            suwaalDiv.className = 'suwaal-item';
-            suwaalDiv.textContent = pair.Suwaal;
-            suwaalDiv.onclick = () => {
-                state.currentSuwaalIndex = pairIndex;
-                displayJawaab(categoryIndex, subCategoryIndex, pairIndex);
-            };
-            suwaalContainer.appendChild(suwaalDiv);
+            if (pair && pair.Suwaal && pair.Suwaal.trim() !== "") {
+                const suwaalDiv = document.createElement('div');
+                suwaalDiv.className = 'suwaal-item';
+                suwaalDiv.textContent = pair.Suwaal;
+                suwaalDiv.onclick = () => {
+                    state.currentSuwaalIndex = pairIndex;
+                    displayJawaab(categoryIndex, subCategoryIndex, pairIndex);
+                };
+                suwaalContainer.appendChild(suwaalDiv);
+            }
         });
     }
 
@@ -1627,7 +2729,7 @@ function searchQA() {
             type: 'category',
             text: category.category,
             categoryIndex: index
-        }));
+        })).filter(item => item.text && item.text.trim() !== "");
         fuseOptions.keys = ['text'];
     } else if (state.currentLevel === 'subCategories') {
         const category = qaData[state.currentCategoryIndex];
@@ -1636,7 +2738,7 @@ function searchQA() {
             text: subCat.sub_category,
             categoryIndex: state.currentCategoryIndex,
             subCategoryIndex: subIndex
-        }));
+        })).filter(item => item.text && item.text.trim() !== "");
         fuseOptions.keys = ['text'];
     } else if (state.currentLevel === 'questions') {
         const subCat = qaData[state.currentCategoryIndex].sub_categories[state.currentSubCategoryIndex];
@@ -1647,7 +2749,7 @@ function searchQA() {
             categoryIndex: state.currentCategoryIndex,
             subCategoryIndex: state.currentSubCategoryIndex,
             pairIndex: pairIndex
-        }));
+        })).filter(item => item.Suwaal && item.Suwaal.trim() !== "");
         fuseOptions.keys = ['Suwaal'];
     }
 
