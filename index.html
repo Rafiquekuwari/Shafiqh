@@ -56,11 +56,11 @@
         .container {
             background: rgba(255, 255, 255, 0.95);
             border-radius: 15px;
-            padding: 30px;
-            margin-top: 80px;
-            margin-bottom: 30px;
+            padding: 20px;
+            margin-top: 60px; /* Adjusted for mobile */
+            margin-bottom: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            max-height: 70vh;
+            min-height: 70vh; /* Changed from max-height to min-height for better flexibility */
             overflow-y: auto;
         }
         .search-container {
@@ -91,6 +91,7 @@
             color: white;
             cursor: pointer;
             transition: all 0.3s ease;
+            white-space: nowrap; /* Prevent button text from wrapping */
         }
         .search-container button:hover {
             background: #0056b3;
@@ -170,6 +171,37 @@
             background: #0056b3;
             transform: translateY(-2px);
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+            .header {
+                padding: 10px 15px;
+            }
+            .header h1 {
+                font-size: 20px;
+            }
+            .container {
+                margin-top: 50px;
+                padding: 15px;
+                min-height: 80vh; /* Ensure content takes up more space on mobile */
+            }
+            .search-container input {
+                font-size: 14px;
+                padding: 8px 12px;
+            }
+            .search-container button {
+                padding: 8px 15px;
+                font-size: 14px;
+            }
+            .category-item, .sub-category-item, .suwaal-item {
+                padding: 12px 15px;
+                font-size: 14px;
+            }
+            .introduction, .jawaab {
+                padding: 12px;
+                font-size: 14px;
+            }
         }
     </style>
 </head>
