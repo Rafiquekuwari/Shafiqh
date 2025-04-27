@@ -1,5 +1,5 @@
-// Embed QA pairs directly (for both local and GitHub Pages)
-let qaData = [
+// Embed QA pairs directly
+const qaData = [
     {
         "category":"Aqaaide Ahle Sunnat wa Jama’at",
         "Introduction":"",
@@ -1322,93 +1322,95 @@ let qaData = [
 ]
 ;
 
-let navigationState = {
+// State management
+let state = {
     currentLevel: 'categories', // 'categories', 'subCategories', 'questions'
     currentCategoryIndex: 0,
     currentSubCategoryIndex: 0,
     currentSuwaalIndex: 0
 };
 
-document.addEventListener('DOMContentLoaded', () => {
-    console.log('Page loaded, initializing with embedded data...');
-    // Display categories
+// Initialize the app when the page loads
+window.onload = () => {
     displayCategories();
-});
+};
 
+// Update navigation buttons based on the current level
 function updateNavigationButtons() {
     const navButtons = document.getElementById('navButtons');
     const header = document.getElementById('mainHeader');
     const searchInput = document.getElementById('searchInput');
     navButtons.innerHTML = '';
 
-    const category = qaData[navigationState.currentCategoryIndex];
-    const subCat = category ? category.sub_categories[navigationState.currentSubCategoryIndex] : null;
+    const category = qaData[state.currentCategoryIndex];
+    const subCat = category ? category.sub_categories[state.currentSubCategoryIndex] : null;
 
-    if (navigationState.currentLevel === 'categories') {
+    if (state.currentLevel === 'categories') {
         header.textContent = 'QA Navigator';
         searchInput.placeholder = 'Search categories...';
         navButtons.innerHTML = `
-            <i class="fas fa-chevron-left nav-arrow ${navigationState.currentCategoryIndex === 0 ? 'disabled' : ''}" onclick="navigate('prev')"></i>
-            <i class="fas fa-chevron-right nav-arrow ${navigationState.currentCategoryIndex === qaData.length - 1 ? 'disabled' : ''}" onclick="navigate('next')"></i>
+            <i class="fas fa-chevron-left nav-arrow ${state.currentCategoryIndex === 0 ? 'disabled' : ''}" onclick="navigate('prev')"></i>
+            <i class="fas fa-chevron-right nav-arrow ${state.currentCategoryIndex === qaData.length - 1 ? 'disabled' : ''}" onclick="navigate('next')"></i>
         `;
-    } else if (navigationState.currentLevel === 'subCategories') {
+    } else if (state.currentLevel === 'subCategories') {
         header.textContent = category.category;
         searchInput.placeholder = 'Search sub-categories...';
         navButtons.innerHTML = `
             <i class="fas fa-chevron-left nav-arrow" onclick="navigate('back')"></i>
-            <i class="fas fa-chevron-right nav-arrow ${navigationState.currentSubCategoryIndex === category.sub_categories.length - 1 ? 'disabled' : ''}" onclick="navigate('next')"></i>
+            <i class="fas fa-chevron-right nav-arrow ${state.currentSubCategoryIndex === category.sub_categories.length - 1 ? 'disabled' : ''}" onclick="navigate('next')"></i>
         `;
-    } else if (navigationState.currentLevel === 'questions') {
+    } else if (state.currentLevel === 'questions') {
         header.textContent = subCat ? subCat.sub_category : 'Questions';
         searchInput.placeholder = 'Search questions...';
         navButtons.innerHTML = `
             <i class="fas fa-chevron-left nav-arrow" onclick="navigate('back')"></i>
-            <i class="fas fa-chevron-right nav-arrow ${navigationState.currentSuwaalIndex === (subCat ? subCat.qa_pairs.length - 1 : 0) ? 'disabled' : ''}" onclick="navigate('next')"></i>
+            <i class="fas fa-chevron-right nav-arrow ${state.currentSuwaalIndex === (subCat ? subCat.qa_pairs.length - 1 : 0) ? 'disabled' : ''}" onclick="navigate('next')"></i>
         `;
     }
 }
 
+// Handle navigation (prev, next, back)
 function navigate(direction) {
-    const category = qaData[navigationState.currentCategoryIndex];
-    const subCat = category ? category.sub_categories[navigationState.currentSubCategoryIndex] : null;
+    const category = qaData[state.currentCategoryIndex];
+    const subCat = category ? category.sub_categories[state.currentSubCategoryIndex] : null;
 
     if (direction === 'prev') {
-        if (navigationState.currentLevel === 'categories' && navigationState.currentCategoryIndex > 0) {
-            navigationState.currentCategoryIndex--;
+        if (state.currentLevel === 'categories' && state.currentCategoryIndex > 0) {
+            state.currentCategoryIndex--;
             displayCategories();
-        } else if (navigationState.currentLevel === 'subCategories' && navigationState.currentSubCategoryIndex > 0) {
-            navigationState.currentSubCategoryIndex--;
-            displaySubCategories(navigationState.currentCategoryIndex);
-        } else if (navigationState.currentLevel === 'questions' && navigationState.currentSuwaalIndex > 0) {
-            navigationState.currentSuwaalIndex--;
-            displaySuwaals(navigationState.currentCategoryIndex, navigationState.currentSubCategoryIndex);
+        } else if (state.currentLevel === 'subCategories' && state.currentSubCategoryIndex > 0) {
+            state.currentSubCategoryIndex--;
+            displaySubCategories(state.currentCategoryIndex);
+        } else if (state.currentLevel === 'questions' && state.currentSuwaalIndex > 0) {
+            state.currentSuwaalIndex--;
+            displaySuwaals(state.currentCategoryIndex, state.currentSubCategoryIndex);
         }
     } else if (direction === 'next') {
-        if (navigationState.currentLevel === 'categories' && navigationState.currentCategoryIndex < qaData.length - 1) {
-            navigationState.currentCategoryIndex++;
+        if (state.currentLevel === 'categories' && state.currentCategoryIndex < qaData.length - 1) {
+            state.currentCategoryIndex++;
             displayCategories();
-        } else if (navigationState.currentLevel === 'categories' && navigationState.currentCategoryIndex === qaData.length - 1) {
-            navigationState.currentLevel = 'subCategories';
-            navigationState.currentSubCategoryIndex = 0;
-            displaySubCategories(navigationState.currentCategoryIndex);
-        } else if (navigationState.currentLevel === 'subCategories' && navigationState.currentSubCategoryIndex < category.sub_categories.length - 1) {
-            navigationState.currentSubCategoryIndex++;
-            displaySubCategories(navigationState.currentCategoryIndex);
-        } else if (navigationState.currentLevel === 'subCategories' && navigationState.currentSubCategoryIndex === category.sub_categories.length - 1) {
-            navigationState.currentLevel = 'questions';
-            navigationState.currentSuwaalIndex = 0;
-            displaySuwaals(navigationState.currentCategoryIndex, navigationState.currentSubCategoryIndex);
-        } else if (navigationState.currentLevel === 'questions' && navigationState.currentSuwaalIndex < (subCat ? subCat.qa_pairs.length - 1 : 0)) {
-            navigationState.currentSuwaalIndex++;
-            displayJawaab(navigationState.currentCategoryIndex, navigationState.currentSubCategoryIndex, navigationState.currentSuwaalIndex);
+        } else if (state.currentLevel === 'categories' && state.currentCategoryIndex === qaData.length - 1) {
+            state.currentLevel = 'subCategories';
+            state.currentSubCategoryIndex = 0;
+            displaySubCategories(state.currentCategoryIndex);
+        } else if (state.currentLevel === 'subCategories' && state.currentSubCategoryIndex < category.sub_categories.length - 1) {
+            state.currentSubCategoryIndex++;
+            displaySubCategories(state.currentCategoryIndex);
+        } else if (state.currentLevel === 'subCategories' && state.currentSubCategoryIndex === category.sub_categories.length - 1) {
+            state.currentLevel = 'questions';
+            state.currentSuwaalIndex = 0;
+            displaySuwaals(state.currentCategoryIndex, state.currentSubCategoryIndex);
+        } else if (state.currentLevel === 'questions' && state.currentSuwaalIndex < (subCat ? subCat.qa_pairs.length - 1 : 0)) {
+            state.currentSuwaalIndex++;
+            displayJawaab(state.currentCategoryIndex, state.currentSubCategoryIndex, state.currentSuwaalIndex);
         }
     } else if (direction === 'back') {
-        if (navigationState.currentLevel === 'subCategories') {
-            navigationState.currentLevel = 'categories';
+        if (state.currentLevel === 'subCategories') {
+            state.currentLevel = 'categories';
             displayCategories();
-        } else if (navigationState.currentLevel === 'questions') {
-            navigationState.currentLevel = 'subCategories';
-            displaySubCategories(navigationState.currentCategoryIndex);
+        } else if (state.currentLevel === 'questions') {
+            state.currentLevel = 'subCategories';
+            displaySubCategories(state.currentCategoryIndex);
         }
     }
 
@@ -1416,34 +1418,38 @@ function navigate(direction) {
     clearSearchResults();
 }
 
+// Display categories
 function displayCategories() {
     const categoryContainer = document.getElementById('categoryContainer');
     const subCategoryContainer = document.getElementById('subCategoryContainer');
     const suwaalContainer = document.getElementById('suwaalContainer');
     const jawaabContainer = document.getElementById('jawaabContainer');
 
-    categoryContainer.innerHTML = '';
+    // Show/hide containers
     categoryContainer.style.display = 'block';
     subCategoryContainer.style.display = 'none';
     suwaalContainer.style.display = 'none';
     jawaabContainer.style.display = 'none';
 
-    navigationState.currentLevel = 'categories';
+    categoryContainer.innerHTML = ''; // Clear existing content
+    state.currentLevel = 'categories';
     updateNavigationButtons();
 
+    // Add categories
     qaData.forEach((category, index) => {
         const catDiv = document.createElement('div');
         catDiv.className = 'category-item';
         catDiv.textContent = category.category;
         catDiv.onclick = () => {
-            navigationState.currentCategoryIndex = index;
-            navigationState.currentLevel = 'subCategories';
+            state.currentCategoryIndex = index;
+            state.currentLevel = 'subCategories';
             displaySubCategories(index);
         };
         categoryContainer.appendChild(catDiv);
     });
 }
 
+// Display sub-categories
 function displaySubCategories(categoryIndex) {
     const subCategoryContainer = document.getElementById('subCategoryContainer');
     const suwaalContainer = document.getElementById('suwaalContainer');
@@ -1454,14 +1460,14 @@ function displaySubCategories(categoryIndex) {
     jawaabContainer.style.display = 'none';
     document.getElementById('categoryContainer').style.display = 'none';
 
-    navigationState.currentCategoryIndex = categoryIndex;
-    navigationState.currentLevel = 'subCategories';
+    state.currentCategoryIndex = categoryIndex;
+    state.currentLevel = 'subCategories';
     updateNavigationButtons();
 
     subCategoryContainer.innerHTML = '';
     const category = qaData[categoryIndex];
 
-    // Display the category's Introduction if it exists
+    // Display introduction if it exists
     if (category.Introduction && category.Introduction.trim() !== "") {
         const introDiv = document.createElement('div');
         introDiv.className = 'introduction';
@@ -1469,29 +1475,31 @@ function displaySubCategories(categoryIndex) {
         subCategoryContainer.appendChild(introDiv);
     }
 
+    // Add sub-categories
     category.sub_categories.forEach((subCat, subIndex) => {
         const subCatDiv = document.createElement('div');
         subCatDiv.className = 'sub-category-item';
         subCatDiv.textContent = subCat.sub_category;
         subCatDiv.onclick = () => {
-            navigationState.currentSubCategoryIndex = subIndex;
-            navigationState.currentLevel = 'questions';
+            state.currentSubCategoryIndex = subIndex;
+            state.currentLevel = 'questions';
             displaySuwaals(categoryIndex, subIndex);
         };
         subCategoryContainer.appendChild(subCatDiv);
     });
 
-    // Back button
+    // Add back button
     const backButton = document.createElement('button');
     backButton.className = 'btn btn-primary mt-2';
     backButton.textContent = 'Back to Categories';
     backButton.onclick = () => {
-        navigationState.currentLevel = 'categories';
+        state.currentLevel = 'categories';
         displayCategories();
     };
     subCategoryContainer.appendChild(backButton);
 }
 
+// Display questions (Suwaals)
 function displaySuwaals(categoryIndex, subCategoryIndex) {
     const suwaalContainer = document.getElementById('suwaalContainer');
     const jawaabContainer = document.getElementById('jawaabContainer');
@@ -1500,15 +1508,14 @@ function displaySuwaals(categoryIndex, subCategoryIndex) {
     jawaabContainer.style.display = 'none';
     document.getElementById('subCategoryContainer').style.display = 'none';
 
-    navigationState.currentCategoryIndex = categoryIndex;
-    navigationState.currentSubCategoryIndex = subCategoryIndex;
-    navigationState.currentLevel = 'questions';
-    navigationState.currentSuwaalIndex = 0;
+    state.currentCategoryIndex = categoryIndex;
+    state.currentSubCategoryIndex = subCategoryIndex;
+    state.currentLevel = 'questions';
+    state.currentSuwaalIndex = 0;
     updateNavigationButtons();
 
     suwaalContainer.innerHTML = '';
 
-    // Display the sub-category's introduction if it exists
     const subCat = qaData[categoryIndex].sub_categories[subCategoryIndex];
     if (subCat.introduction && subCat.introduction.trim() !== "") {
         const introDiv = document.createElement('div');
@@ -1525,36 +1532,35 @@ function displaySuwaals(categoryIndex, subCategoryIndex) {
             suwaalDiv.className = 'suwaal-item';
             suwaalDiv.textContent = pair.Suwaal;
             suwaalDiv.onclick = () => {
-                console.log(`Clicked Suwaal at categoryIndex: ${categoryIndex}, subCategoryIndex: ${subCategoryIndex}, pairIndex: ${pairIndex}`);
-                navigationState.currentSuwaalIndex = pairIndex;
+                state.currentSuwaalIndex = pairIndex;
                 displayJawaab(categoryIndex, subCategoryIndex, pairIndex);
             };
             suwaalContainer.appendChild(suwaalDiv);
         });
     }
 
-    // Back button
+    // Add back button
     const backButton = document.createElement('button');
     backButton.className = 'btn btn-primary mt-2';
     backButton.textContent = 'Back to Sub-Categories';
     backButton.onclick = () => {
-        navigationState.currentLevel = 'subCategories';
+        state.currentLevel = 'subCategories';
         displaySubCategories(categoryIndex);
     };
     suwaalContainer.appendChild(backButton);
 }
 
+// Display answer (Jawaab)
 function displayJawaab(categoryIndex, subCategoryIndex, pairIndex) {
     const jawaabContainer = document.getElementById('jawaabContainer');
     jawaabContainer.style.display = 'block';
     document.getElementById('suwaalContainer').style.display = 'none';
 
-    navigationState.currentCategoryIndex = categoryIndex;
-    navigationState.currentSubCategoryIndex = subCategoryIndex;
-    navigationState.currentSuwaalIndex = pairIndex;
-    navigationState.currentLevel = 'questions';
+    state.currentCategoryIndex = categoryIndex;
+    state.currentSubCategoryIndex = subCategoryIndex;
+    state.currentSuwaalIndex = pairIndex;
+    state.currentLevel = 'questions';
     updateNavigationButtons();
-    console.log(`Displaying Jawaab for categoryIndex: ${categoryIndex}, subCategoryIndex: ${subCategoryIndex}, pairIndex: ${pairIndex}`);
 
     const subCat = qaData[categoryIndex].sub_categories[subCategoryIndex];
     const pair = subCat.qa_pairs[pairIndex];
@@ -1563,32 +1569,29 @@ function displayJawaab(categoryIndex, subCategoryIndex, pairIndex) {
         <div class="jawaab"><strong>Jawaab:</strong> ${pair.Jawaab}</div>
     `;
 
-    // Back button
+    // Add back button
     const backButton = document.createElement('button');
     backButton.className = 'btn btn-primary mt-2';
     backButton.textContent = 'Back to Questions';
     backButton.onclick = () => {
-        navigationState.currentLevel = 'questions';
+        state.currentLevel = 'questions';
         displaySuwaals(categoryIndex, subCategoryIndex);
     };
     jawaabContainer.appendChild(backButton);
 }
 
-// Debounce function
+// Debounce function for search
 function debounce(func, wait) {
     let timeout;
-    return function executedFunction(...args) {
-        const later = () => {
-            clearTimeout(timeout);
-            func(...args);
-        };
+    return function (...args) {
         clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
+        timeout = setTimeout(() => func(...args), wait);
     };
 }
 
 const debouncedSearch = debounce(searchQA, 300);
 
+// Search functionality with level-specific filtering
 function searchQA() {
     const searchInput = document.getElementById('searchInput').value.trim();
     const searchResultsContainer = document.getElementById('searchResultsContainer');
@@ -1596,14 +1599,20 @@ function searchQA() {
     searchResultsContainer.style.display = 'none';
 
     if (!searchInput) {
-        // Clear search results and redisplay the current level's content
-        if (navigationState.currentLevel === 'categories') {
+        if (state.currentLevel === 'categories') {
             displayCategories();
-        } else if (navigationState.currentLevel === 'subCategories') {
-            displaySubCategories(navigationState.currentCategoryIndex);
-        } else if (navigationState.currentLevel === 'questions') {
-            displaySuwaals(navigationState.currentCategoryIndex, navigationState.currentSubCategoryIndex);
+        } else if (state.currentLevel === 'subCategories') {
+            displaySubCategories(state.currentCategoryIndex);
+        } else if (state.currentLevel === 'questions') {
+            displaySuwaals(state.currentCategoryIndex, state.currentSubCategoryIndex);
         }
+        return;
+    }
+
+    // Check if Fuse.js is loaded
+    if (typeof Fuse === 'undefined') {
+        searchResultsContainer.innerHTML = '<p>Error: Search functionality is unavailable.</p>';
+        searchResultsContainer.style.display = 'block';
         return;
     }
 
@@ -1613,33 +1622,30 @@ function searchQA() {
         threshold: 0.3,
     };
 
-    if (navigationState.currentLevel === 'categories') {
-        // Search only within categories
+    if (state.currentLevel === 'categories') {
         dataToSearch = qaData.map((category, index) => ({
             type: 'category',
             text: category.category,
             categoryIndex: index
         }));
         fuseOptions.keys = ['text'];
-    } else if (navigationState.currentLevel === 'subCategories') {
-        // Search only within sub-categories of the current category
-        const category = qaData[navigationState.currentCategoryIndex];
+    } else if (state.currentLevel === 'subCategories') {
+        const category = qaData[state.currentCategoryIndex];
         dataToSearch = category.sub_categories.map((subCat, subIndex) => ({
             type: 'subCategory',
             text: subCat.sub_category,
-            categoryIndex: navigationState.currentCategoryIndex,
+            categoryIndex: state.currentCategoryIndex,
             subCategoryIndex: subIndex
         }));
         fuseOptions.keys = ['text'];
-    } else if (navigationState.currentLevel === 'questions') {
-        // Search only within questions of the current sub-category
-        const subCat = qaData[navigationState.currentCategoryIndex].sub_categories[navigationState.currentSubCategoryIndex];
+    } else if (state.currentLevel === 'questions') {
+        const subCat = qaData[state.currentCategoryIndex].sub_categories[state.currentSubCategoryIndex];
         dataToSearch = subCat.qa_pairs.map((pair, pairIndex) => ({
             type: 'question',
             Suwaal: pair.Suwaal,
             Jawaab: pair.Jawaab,
-            categoryIndex: navigationState.currentCategoryIndex,
-            subCategoryIndex: navigationState.currentSubCategoryIndex,
+            categoryIndex: state.currentCategoryIndex,
+            subCategoryIndex: state.currentSubCategoryIndex,
             pairIndex: pairIndex
         }));
         fuseOptions.keys = ['Suwaal'];
@@ -1651,7 +1657,6 @@ function searchQA() {
     if (results.length === 0) {
         searchResultsContainer.innerHTML = '<p>No results found.</p>';
         searchResultsContainer.style.display = 'block';
-        // Hide the main content containers
         document.getElementById('categoryContainer').style.display = 'none';
         document.getElementById('subCategoryContainer').style.display = 'none';
         document.getElementById('suwaalContainer').style.display = 'none';
@@ -1660,7 +1665,6 @@ function searchQA() {
     }
 
     searchResultsContainer.style.display = 'block';
-    // Hide the main content containers while showing search results
     document.getElementById('categoryContainer').style.display = 'none';
     document.getElementById('subCategoryContainer').style.display = 'none';
     document.getElementById('suwaalContainer').style.display = 'none';
@@ -1674,27 +1678,27 @@ function searchQA() {
         if (item.type === 'category') {
             resultDiv.textContent = `Category: ${item.text}`;
             resultDiv.onclick = () => {
-                navigationState.currentCategoryIndex = item.categoryIndex;
-                navigationState.currentLevel = 'subCategories';
+                state.currentCategoryIndex = item.categoryIndex;
+                state.currentLevel = 'subCategories';
                 displaySubCategories(item.categoryIndex);
                 clearSearchResults();
             };
         } else if (item.type === 'subCategory') {
             resultDiv.textContent = `Sub-Category: ${item.text}`;
             resultDiv.onclick = () => {
-                navigationState.currentCategoryIndex = item.categoryIndex;
-                navigationState.currentSubCategoryIndex = item.subCategoryIndex;
-                navigationState.currentLevel = 'questions';
+                state.currentCategoryIndex = item.categoryIndex;
+                state.currentSubCategoryIndex = item.subCategoryIndex;
+                state.currentLevel = 'questions';
                 displaySuwaals(item.categoryIndex, item.subCategoryIndex);
                 clearSearchResults();
             };
         } else if (item.type === 'question') {
             resultDiv.textContent = `Question: ${item.Suwaal}`;
             resultDiv.onclick = () => {
-                navigationState.currentCategoryIndex = item.categoryIndex;
-                navigationState.currentSubCategoryIndex = item.subCategoryIndex;
-                navigationState.currentSuwaalIndex = item.pairIndex;
-                navigationState.currentLevel = 'questions';
+                state.currentCategoryIndex = item.categoryIndex;
+                state.currentSubCategoryIndex = item.subCategoryIndex;
+                state.currentSuwaalIndex = item.pairIndex;
+                state.currentLevel = 'questions';
                 displayJawaab(item.categoryIndex, item.subCategoryIndex, item.pairIndex);
                 clearSearchResults();
             };
@@ -1704,6 +1708,7 @@ function searchQA() {
     });
 }
 
+// Clear search results
 function clearSearchResults() {
     const searchResultsContainer = document.getElementById('searchResultsContainer');
     const searchInput = document.getElementById('searchInput');
@@ -1711,19 +1716,11 @@ function clearSearchResults() {
     searchResultsContainer.style.display = 'none';
     searchInput.value = '';
 
-    // Redisplay the current level's content
-    if (navigationState.currentLevel === 'categories') {
+    if (state.currentLevel === 'categories') {
         displayCategories();
-    } else if (navigationState.currentLevel === 'subCategories') {
-        displaySubCategories(navigationState.currentCategoryIndex);
-    } else if (navigationState.currentLevel === 'questions') {
-        displaySuwaals(navigationState.currentCategoryIndex, navigationState.currentSubCategoryIndex);
+    } else if (state.currentLevel === 'subCategories') {
+        displaySubCategories(state.currentCategoryIndex);
+    } else if (state.currentLevel === 'questions') {
+        displaySuwaals(state.currentCategoryIndex, state.currentSubCategoryIndex);
     }
-}
-
-// Highlight search term (optional, not used in current implementation but kept for future use)
-function highlightText(text, term) {
-    if (!term) return text;
-    const regex = new RegExp(`(${term})`, 'gi');
-    return text.replace(regex, '<span style="background-color: yellow;">$1</span>');
 }
